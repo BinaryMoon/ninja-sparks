@@ -1,1 +1,1 @@
-# [Photo Edit Tools](https://photoedittools.com/)
+# [Ninja Sparks](https://ninjasparks.com/) A newsletter celebrating Creativity and Innovation online.
