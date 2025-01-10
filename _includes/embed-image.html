@@ -1,0 +1,22 @@
+{%- capture alt %}{{ include.alt | default: include.caption }}{% endcapture -%}
+{%- capture image %}{{ include.image }}{% endcapture -%}
+{%- capture image_width %}{% imagesize image:width %}{% endcapture %}
+{%- assign image_width = image_width | plus: 0 -%}
+{%- assign image_resize = image -%}
+{%- if image_width > 800 %}
+{% capture image_resize %}{{ image | resize: "800x2000>" }}{% endcapture %}
+{% endif -%}
+<figure class="m-b3">
+	{%- if image_width > 800 -%}<a href="{{ image }}" class="display-block">{%- endif -%}
+		<img
+			class="b-br1 display-block m-auto"
+			src="{{ image_resize }}"
+			alt="{{ alt | default: "*" }}"
+			loading="lazy"
+			{% imagesize image_resize:props %}
+		/>
+	{%- if image_width > 800 -%}</a>{%- endif -%}
+	{% if include.caption %}
+	<figcaption class="m0 m-t2">{{ include.caption | markdownify }}</figcaption>
+	{% endif %}
+</figure>

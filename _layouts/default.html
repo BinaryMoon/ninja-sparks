@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+	{% include head.html %}
+	<body class="disable-dark-mode">
+
+		<div class="m-auto w100 d:w7 p-x4 d:p-x5">
+
+			{% include header.html %}
+
+			<main class="">
+				{{ content | extlinks }}
+			</main>
+
+			{% include footer.html %}
+			{% include cookie-banner.html %}
+
+		</div>
+	</body>
+</html>

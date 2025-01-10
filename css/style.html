@@ -1,0 +1,65 @@
+---
+layout: default-empty
+permalink: /css/style.css
+---
+{% include_relative elementalcss/dist/elementalcss.min.css %}
+
+:root {
+	--color-1: yellow;
+	--max-width: 60rem;
+	--color-link: blue;
+	--color-blue: blue;
+	--color-yellow: yellow;
+
+	--color-pop: white;
+	--color-fg-accent: black;
+	--color-bg-accent: var(--color-1);
+	--color-code: var(--color-1);
+}
+
+::selection,
+::-moz-selection {
+	background: deeppink;
+	color: white;
+}
+
+.bg-pink {
+	background: deeppink;
+	color: black;
+}
+
+a {
+	font-weight: 900;
+}
+
+.btn {
+	font-weight: 900;
+}
+
+body {
+	font-family: var(--font-monospace-code);
+	background: #ddd top no-repeat;
+	background-image: url(/images/bg.png);
+	background-size: 100%;
+	color: black;
+	font-size: 20px;
+}
+
+main h1 {
+	padding: 0.5rem 0;
+	display: inline;
+	background: var(--color-link);
+	color: white;
+}
+
+main em {
+	background: var(--color-yellow);
+	padding: 0.2rem 0;
+}
+
+main strong {
+	background: var(--color-blue);
+	color: white;
+	padding: 0.2rem 0;
+}
+

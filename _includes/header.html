@@ -1,0 +1,27 @@
+<nav class="p-y0 t-tt-u flex gap3 flex-g1 b-b b-black">
+	{% for n in site.data.nav %}
+	<a
+		class="p-y2 p-x3 t-td-n display-block bg-yellow__hover fg-black f5 f-fw900 {{ n.class | default: ''}}"
+		href="{{ n.path }}" {% if n.title %}title="{{n.title}}"{% endif %}>{{ n.name }}</a>
+	{% endfor %}
+</nav>
+
+<header class="masthead flex flex-wrap gap-x4 p-y4 m-b5 b-b b-black b1 flex-ai-c">
+
+	<a href="/" class="t-td-n">
+		<img
+			src="/images/icon/favicon.svg"
+			alt="{{ site.title }}"
+			class="logo w2"
+			/>
+	</a>
+	{% assign header_tag = 'p' %}
+	{% if page.url == '/' %}{% assign header_tag = 'h1' %}{% endif %}
+	<{{ header_tag }} class="title m0 f3">
+		<a href="/" class="t-td-n fg-black f-fw900">{{ site.title }}</a>
+	</{{ header_tag }}>
+	{% if page.tagline %}
+	<span class="o50 f5 t-tt-u m0">{{ page.tagline }}</span>
+	{% endif %}
+
+</header>

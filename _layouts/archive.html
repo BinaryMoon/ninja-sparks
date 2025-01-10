@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+{% assign postCount = paginator.posts | size %}
+
+{% if postCount > 0 %}
+
+{{ content }}
+
+{% for post in paginator.posts %}
+{% include post-archive.html post=post %}
+{% endfor %}
+
+{% include pagination.html %}
+{% endif %}
+
+{% if postCount == 0 %}
+<div class="">
+	<h2>No Posts... Yet!</h2>
+	<p>There will be posts added here, but they aren't quite ready yet. <em><a href="/">Signup to the newsletter</a> to find out when this is updated.</em></p>
+</div>
+{% endif %}
+

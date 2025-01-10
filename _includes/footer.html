@@ -1,0 +1,22 @@
+<section class="b-t b2 b-black p-t5 m-t5">
+
+	<h2>Join thousands of creators exploring, tinkering, and having fun</h2>
+	<p>Don't miss out—subscribe to <strong>Ninja Sparks</strong> today!</p>
+	{% include shared/ninja-sparks-newsletter-join.html %}
+
+</section>
+
+<footer class="footer p-y5 m-t6">
+
+	<div class="t-tt-u">
+		<p class="flex gap4 f5 t:f4">
+		{%- for n in site.data.nav -%}
+			<a href="{{ n.path }}">{{ n.name }}</a>
+		{%- endfor -%}</p>
+		<p class="f6 f-fw900">
+			&copy;{{ site.time | date: "%Y" }} - {{ site.title }} &bull;
+			<a href="{% link _pages/privacy.md %}">Privacy Policy</a>
+		</p>
+	</div>
+
+</footer>

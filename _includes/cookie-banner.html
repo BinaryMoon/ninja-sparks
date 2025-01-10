@@ -1,0 +1,44 @@
+<div
+	class="p3 d:p2 f5 bg-gray3 flex-wrap flex-center gap-x4 gap-y3 f-fw600 b-br2 display-none"
+	id="cookie-policy"
+>
+	<span>🍪 This website uses cookies. By using our website you agree to our <a href="/privacy/">Privacy Policy</a>.</span>
+	<button id="cookie-policy-accept" class="p-x4">Ok!</button>
+</div>
+<style>
+	#cookie-policy {
+		position: fixed;
+		bottom: var(--size-3);
+		left: var(--size-3);
+		right: var(--size-3);
+		z-index: 1000;
+	}
+</style>
+<script>
+window.addEventListener(
+	'load',
+	(event) => {
+		const $banner = document.getElementById( 'cookie-policy' );
+		const button = 'cookie-policy-accept';
+		const cookieKey = 'cookie-status';
+		const cookieValue =  localStorage.getItem( cookieKey );
+
+		console.log( cookieValue );
+
+		// Check if already accepted before, hide banner
+		if ( cookieValue !== 'ok' ) {
+			$banner.classList.remove( 'display-none' );
+			$banner.classList.add( 'flex' );
+		}
+
+		// If accept, hide banner and remeber choice
+		document.getElementById( button ).addEventListener(
+			'click',
+			function() {
+				$banner.parentNode.removeChild( $banner );
+				localStorage.setItem( cookieKey, 'ok' );
+			}
+		);
+	}
+);
+</script>

@@ -1,0 +1,7 @@
+Sitemap: https://photoedittools.com/sitemap.xml
+
+User-agent: *
+Disallow: /cdn-cgi/
+
+User-agent: GPTBot
+Disallow: /

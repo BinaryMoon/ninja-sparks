@@ -1,0 +1,15 @@
+# - name: Home
+#   path: /
+- name: Updates
+  path: /articles/
+- name: Library
+  path: /library/
+# - name: Newsletter
+#   path: /newsletter/
+- name: About
+  path: /about/
+- name: Sponsor
+  path: /sponsor/
+- name: Submit
+  path: /submit/
+  class: "bg-pink"

@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<header>
+	<span class="t-tt-u f5 o50">#{{ page.index }}: {{ page.date | date: "%a %B %d, %Y" }}</span>
+	<h1 class="f2 m0 m-b5">{{ page.title }}</h1>
+</header>
+
+<div class="f5 flex flex-center gap3 m-y5 t-ideal-length mw7">
+	<img src="/images/icon/binarymoon-avatar.png" alt="Binary Moon Avatar" class="b-br-round mw3" />
+	<span class="">This post was written and edited by Ben Gillbanks. Ben is a Web Developer with over 20 years experience of building things online.</span>
+</div>
+
+<div class="f4 t-ideal-length">
+	{{ content | markdownify }}
+</div>
+
+{% if page.previous or page.next %}
+<div class="container flex f4 m-y5 p4 gap3">
+	{%- if page.previous -%}
+	<div class="flex-g1 w100">
+		<small class="t-tt-u display-block">Previous</small>
+		<a href="{{ page.previous.url }}" class="f5" rel="prev">&larr; {{ page.previous.title }}</a>
+	</div>
+	{%- endif -%}
+	{%- if page.next -%}
+	<div class="flex-g1 w100 t-ta-r">
+		<small class="t-tt-u display-block">Next</small>
+		<a href="{{ page.next.url }}" class="f5" rel="next">{{ page.next.title }} &rarr;</a>
+	</div>
+	{%- endif -%}
+</div>
+{% endif %}
+
+
+{%- if page.related %}
+<section class="container p4 m-y5">
+
+	<h2 class="f3">Related Posts</h2>
+
+	{%- for related_post in page.related -%}
+	{% assign post = site.posts | where: "title", related_post | first %}
+	{% include post-archive.html post=post %}
+	{%- endfor -%}
+
+</section>
+{% endif %}

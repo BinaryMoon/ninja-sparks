@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<main class="mw7">
+	<header class="m-b5">
+		{% if paginator.posts and paginator.page > 1%}<p class="m0 m-y4 f5 f-fw900 t-tt-u"><a href="{{ paginator.first_page_path }}">&larr; Return</a> &bull; Page {{ paginator.page }}</p>{% endif%}
+		<h1 class="f1 m0">{{ page.title }}</h1>
+	</header>
+
+	{% if content != '' %}
+	<div class="f4 t-ideal-length">
+		{{ content | markdownify }}
+	</div>
+	{% endif %}
+</main>

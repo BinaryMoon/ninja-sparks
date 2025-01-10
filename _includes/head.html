@@ -1,0 +1,20 @@
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	{% seo title=false %}
+	{% include head-title.html %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="color-scheme" content="dark light">
+
+	<link rel="stylesheet" href="/css/style.css?dc={{ site.time | date: '%y%m%d%k%M' | slugify }}" />
+
+	<link rel="icon" href="/images/icon/favicon32.png" sizes="32x32" />
+	<link rel="icon" href="/images/icon/favicon192.png" sizes="192x192" />
+	<link rel="apple-touch-icon-precomposed" href="/images/icon/favicon180.png" />
+
+	{% feed_meta %}
+
+	{% include analytics.html %}
+
+</head>

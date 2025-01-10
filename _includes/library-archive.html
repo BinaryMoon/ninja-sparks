@@ -1,0 +1,10 @@
+<article>
+	<a href="{{ post.url }}" class="m0 bg-blue p2 display-block">
+		<img
+			alt="Screenshot of {{ post.title }}"
+			src="{% browsershot post.website %}"
+			class="m0 d-block" />
+	</a>
+	<h2 class="m0 m-b2 f4 bg-yellow p-x3 p-y2"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<p class="m0 f5">{{ post.description }} <a href="{{ post.url }}" class="t-nowrap t-tt-u f-fw900">More info &rarr;</a></p>
+</article>

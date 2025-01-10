@@ -1,0 +1,30 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div class="t:grid t:grid-cols4 w100">
+
+	<div class="t:grid-col-s1 t:grid-col-e4">
+		<div class="grid t:grid-cols2 gap-y5 w100">
+			{% for post in paginator.posts %}
+			{% include library-archive.html post=post %}
+			{% endfor %}
+		</div>
+		{% include pagination.html %}
+	</div>
+
+	<div class="f5">
+		<ul class="l-ls-n bg-yellow p3">
+			<li><a href="/library/website/">Websites</a></li>
+			<li><a href="/library/game/">Games</a></li>
+			<li><a href="/library/book/">Books</a></li>
+			<li><a href="/library/video/">Videos</a></li>
+			<li><a href="/library/app/">Apps</a></li>
+		</ul>
+
+		{% include submit.html %}
+	</div>
+
+</div>

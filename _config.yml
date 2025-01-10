@@ -1,0 +1,107 @@
+title: Ninja Sparks
+description: "Free Online Tools to Edit your Photos and Images."
+baseurl: ""
+url: "https://ninjasparks.com"
+decache: 1
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-extlinks
+  - jekyll-sitemap
+
+extlinks:
+  attributes: { rel: "nofollow noopener noreferrer" }
+  rel_exclude:
+    [
+      "binarymoon.co.uk",
+      "brush.ninja",
+      "wpbriefs.com",
+      "prothemedesign.com",
+      "ninjapuzzles.com",
+      "binaryjoy.co.uk",
+      "www.binarysun.co.uk",
+      "photoedittools.com",
+    ]
+
+feed:
+  excerpt_only: false
+
+ads:
+  google: false
+  amp: false
+
+pagination:
+  enabled: true
+  per_page: 21
+  permalink: "/page/:num/"
+  title: ":title - page :num"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
+collections_dir: collections
+
+collections:
+  library:
+    output: true
+    permalink: /library/:title/
+
+defaults:
+  - scope:
+      path: "cache"
+    values:
+      sitemap: false
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /podcast/:year/:title/
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "_library"
+    values:
+      layout: "library-single"
+  - scope:
+      path: "_library/website"
+    values:
+      category: website
+  - scope:
+      path: "_library/app"
+    values:
+      category: "app"
+  - scope:
+      path: "_library/video"
+    values:
+      category: "video"
+  - scope:
+      path: "_library/game"
+    values:
+      category: game
+  - scope:
+      path: "_library/book"
+    values:
+      category: book
+
+include:
+  - _pages
+  - .well-known
+
+exclude:
+  - css/elementalcss/
+  - deploy.sh
+  - todo.txt
+  - .jekyll-cache/
+  - .firebase/
+  - .gitignore
+  - .vscode/
+  - firebase.json
+  - package.json
+  - package-lock.json
+  - README.md

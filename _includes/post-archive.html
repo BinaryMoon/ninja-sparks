@@ -1,0 +1,8 @@
+{% assign excerpt_length = include.excerpt_length | default: 40 %}
+<article class="m-b6 t:m-b5 t-ideal-length post-archive">
+	<span class="t-tt-u f5 o50">{{ post.date | date: "%a %B %d, %Y" }}</span>
+	<h2 class="m0 f4"><a href="{{ post.url }}" class="t-td-n o60__hover">{{ post.title }}</a></h2>
+	{%- assign processed_content = post.content | markdownify | strip_liquid_tags -%}
+	{% assign processed_content = processed_content | strip_html | strip_newlines | truncatewords: excerpt_length -%}
+	<p class="f5 m-y2">{{ processed_content }} <span class="o50">&bull;</span> <a href="{{ post.url }}">Read More &rarr;</a></p>
+</article>
