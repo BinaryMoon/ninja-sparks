@@ -1,0 +1,35 @@
+
+<div id="youtube-{{ include.video }}" class="youtube-embed">
+<a
+	href="https://www.youtube.com/watch/{{ include.video }}"
+	class="youtube-embed-link"
+	data-youtube-id="{{ include.video }}"
+>
+<img
+	src="https://i.ytimg.com/vi_webp/{{ include.video }}/maxresdefault.webp"
+	alt="{{ include.title | '' }}"
+	class="b-br1 display-block m-auto"
+	loading="lazy"
+	data-youtube-id="{{ include.video }}"
+/>
+</a>
+
+<noscript id="youtube-noscript-{{ include.video }}">
+	<figure class="ar-16-9">
+		<iframe
+			class="ar-16-9 h-auto mw100"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen=""
+			frameborder="0"
+			height="506" width="900"
+			loading="lazy"
+			src="https://www.youtube.com/embed/{{ include.video }}"
+			title="{{ include.title | '' }}">
+		</iframe>
+		{% if include.caption %}
+		<figcaption class="t-ta-l">{{ include.caption }}</figcaption>
+		{% endif %}
+	</figure>
+</noscript>
+
+</div>
