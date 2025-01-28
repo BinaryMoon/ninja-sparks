@@ -26,6 +26,7 @@ document.addEventListener(
 						const youtubeEmbed = document.getElementById( 'youtube-' + youtubeEmbedId );
 						const youtubeEmbedIframe = document.getElementById( 'youtube-noscript-' + youtubeEmbedId );
 
+						youtubeEmbed.classList.add( 'youtube-embed-loaded' );
 						youtubeEmbed.innerHTML = youtubeEmbedIframe.innerHTML;
 
 						return false;
