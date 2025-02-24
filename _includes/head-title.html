@@ -1,1 +1,12 @@
-<title>{{ page.title }}</title>
+{%- assign title = page.title | strip -%}
+
+{%- if page.collection == 'library' %}
+{% if page.short_description %}{% capture title %}{{ page.title }} - {{ page.short_description }}{% endcapture %}{% endif %}
+{% endif %}
+
+{%- assign title_length = title | size %}
+{% if title_length < 20 %}
+{% capture title %}{{ title }} - {{ site.title }}{% endcapture %}
+{%- endif -%}
+
+<title>{{ title }}</title>
