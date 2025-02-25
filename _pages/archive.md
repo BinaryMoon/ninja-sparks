@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Newsletter Updates
 permalink: /articles/
 layout: archive
 pagination:
