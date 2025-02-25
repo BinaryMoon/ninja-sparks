@@ -1,6 +1,7 @@
 ---
 title: Pocket Platformer
-description:
+short_description: Browser-based platformer game creator
+description: A simple browser-based platformer game creator with drag-and-drop interface.
 website: https://the-l0bster.itch.io/pocket-platformer
 ---
 **Pocket Platformer** is a browser-based app for creating retro-style platformer games. It features an intuitive drag-and-drop interface, making it easy to design levels, add characters, and experiment with mechanics.

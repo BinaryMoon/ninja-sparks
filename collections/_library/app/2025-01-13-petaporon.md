@@ -1,6 +1,7 @@
 ---
 title: Petaporon
-description: Petaporon is a free online music tracker.
+short_description: Free online music tracker
+description: Petaporon is a free online music tracker designed for easy music creation.
 website: https://pixwlk.itch.io/petaporon
 ---
 ## Create Music in a Web Browser
