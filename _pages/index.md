@@ -25,3 +25,5 @@ Ninja Sparks is packed with:
 * **Inspiration:** Ideas to jumpstart your next project.
 * **Tips & Tricks:** Practical advice for creative minds.
 * **Community Spotlights:** Stories and creations from readers like you.
+
+You can check out the updates to [see past issues](/articles/) and get a taste of what's in store.
