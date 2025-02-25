@@ -7,7 +7,7 @@
 >
 <img
 	src="https://i.ytimg.com/vi_webp/{{ include.video }}/maxresdefault.webp"
-	alt="{{ include.title | '' }}"
+	alt="{{ include.title | default: '*' }}"
 	class="b-br1 display-block m-auto"
 	loading="lazy"
 	data-youtube-id="{{ include.video }}"
