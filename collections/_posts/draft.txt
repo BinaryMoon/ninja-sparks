@@ -1,0 +1,53 @@
+---
+title: Issue 4
+date: 2025-02-24
+---
+
+Hey there,
+
+INTRO
+
+---
+
+## KEY APP
+
+
+There are a variety of [tools and tutorials on the official PicoCAD website][picocad-link].
+
+**[Try PicoCAD][picocad-link]**
+
+[picocad-link]: {% link _library/app/2025-02-10-picocad.md %}
+
+---
+
+## VIDEO TITLE
+
+{% include embed-youtube.html video="DsHtuQfEgCA" %}
+
+VIDEO DESCRIPTION
+
+---
+
+## Sparked Discoveries
+
+Here’s a handful of links I found intriguing recently:
+
+### [My Life as a Dreamworks TV Artist](https://chuwenjie.substack.com/p/my-life-as-a-dreamworks-tv-artist)
+
+A lovely look at the life of someone who works full time in animation. It's a hard industry that is facing a lot of struggles at the moment, but I can see that there's definitely a lot of passion in the people who work in it. If you can find a good company to work for, it seems like it would be a fantastic creative thing to do. This makes me want to get back to planning my own animated series (I've written the outline for a 3 season animated show... and done a bunch of concept work, but it's another one of those "someday, probably never" projects).
+
+### [How to Make the Internet Usable Again](https://www.reddit.com/r/worldbuildingReality/comments/1ii2blj/how_to_fix_the_internet/)
+
+This is a Reddit discussion and not a solution, but there's a lot of good ideas in here. It covers the things I think about a lot when it comes to the internet. I'm not sure I agree with all of it, but it's a good starting point for a conversation. In particular it covers a lot of the my philosophy when building for the internet. Unfortunately advertising is a necessary evil for many of us, it's my primary source of income on [Brush Ninja](https://brush.ninja) but I know I could make it more intrusive to earn more, but I want to keep the experience nice so that people keep using the website.
+
+### [A flooded quarry, a mysterious millionaire and the dream of a new Atlantis](https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep)
+
+I've mentioned about my love of small spaces before, which is possibly strange since I'm also claustrophobic, but this is really interesting to me. I love the look of these underwater pods that are being developed and tested for use at 200m under the sea. I'm not sure how I would feel living in one underwater, but having a similar space above water would work well for me. I've been watching [a series of videos on Instagram](https://www.instagram.com/the_professionalidiots/) on a group of people who are building a house out of a container unit, and it's great seeing the process, and the designs for small space living.
+
+---
+
+Have you found anything interesting lately? I’d love to hear about it, just reply to this email!
+
+Until next time,
+
+Ben
