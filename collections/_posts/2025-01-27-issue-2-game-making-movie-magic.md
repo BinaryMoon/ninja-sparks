@@ -66,11 +66,3 @@ This is such a fun concept, and it even inspired another project I’m working o
 
 ### 4. [An Amazing House in Boca Raton](https://www.zillow.com/homedetails/1201-Marble-Way-Boca-Raton-FL-33432/87660584_zpid/)
 Someone shared this unique house in Boca Raton on [BlueSky](https://bsky.app/profile/binarymoon.bsky.social) recently, and it left me in awe. Let’s set aside the eye-watering price and the sheer number of bedrooms for a moment—what really stands out is the intense interior design. There are actually parts I love. Every wall doubles as a cupboard, making it super practical, and the art workshop (complete with sculpting tools, a kiln, and a printing press) is absolutely my dream space. I’m also a fan of the kids' (or perhaps guest) room with the bunk beds—check out photo #139! That said, the rest of the design feels a bit overwhelming for me. Still, I can’t help but admire the creativity. It’s clear the previous owners loved this space—they wouldn’t have gone all-in on such bold design choices otherwise.
-
----
-
-Thank you for reading **Ninja Sparks**! Have something you'd like me to feature, or any feedback on what you read? Hit reply and let me know.
-
-Until next time, keep creating! 🚀
-
-Ben

@@ -57,11 +57,3 @@ This is a Reddit discussion and not a solution, but there's a lot of good ideas 
 ### [A flooded quarry, a mysterious millionaire and the dream of a new Atlantis](https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep)
 
 I've mentioned about my love of small spaces before, which is possibly strange since I'm also claustrophobic, but this is really interesting to me. I love the look of these underwater pods that are being developed and tested for use at 200m under the sea. I'm not sure how I would feel living in one underwater, but having a similar space above water would work well for me. I've been watching [a series of videos on Instagram](https://www.instagram.com/the_professionalidiots/) on a group of people who are building a house out of a container unit, and it's great seeing the process, and the designs for small space living.
-
----
-
-Have you found anything interesting lately? I’d love to hear about it!
-
-Until next time,
-
-Ben

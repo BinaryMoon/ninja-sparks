@@ -82,7 +82,7 @@ Hayao Miyazaki is a legendary animator and filmmaker, known primarily for his wo
 
 ### [Pocket Platformer has added moving platforms](https://the-l0bster.itch.io/pocket-platformer/devlog/886241/moving-platforms)
 
-I mentioned this all the way back in [issue 1]({% link _posts/2025-02-24-issue-1-creativity-2025.md %}) (3 issues ago), but [Pocket Platformer]({% link _library/app/2025-01-27-pocket-platformer.md %}) is a fun game making tool that runs in your web browser. The developer is constantly adding new features. Last week they added moving platforms, which will add a lot of new level design possibilities.
+I mentioned this all the way back in [issue 1]({% link _posts/2025-01-13-issue-1-creativity-2025.md %}) (3 issues ago), but [Pocket Platformer]({% link _library/app/2025-01-27-pocket-platformer.md %}) is a fun game making tool that runs in your web browser. The developer is constantly adding new features. Last week they added moving platforms, which will add a lot of new level design possibilities.
 
 ### [Pokémon day 2025](https://www.pokemon.com/us/pokemon-news/a-new-pokemon-presents-for-pokemon-day-on-february-27-2025)
 
@@ -91,11 +91,3 @@ If you like Pokémon then you may know about Pokemon day - the anniversary of th
 ### [HTML For People](https://htmlforpeople.com/)
 
 This has been around for a few years but it's a really nice introduction to creating and editing simple websites. This is possibly a simpler introduction to programming than other languages. It gets you used to the idea of writing code and seeing the results, and you end up with a website at the end of it.
-
----
-
-Have you found anything interesting lately? I’d love to hear about it, just reply to this email!
-
-Until next time,
-
-Ben

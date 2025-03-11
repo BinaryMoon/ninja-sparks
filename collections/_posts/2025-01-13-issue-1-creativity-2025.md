@@ -78,10 +78,3 @@ Here are a few interesting things I’ve come across recently:
 ## Your Turn
 
 What’s your go-to creative tool? Hit reply and let me know—I’m always on the lookout for new things to experiment with and feature. 😄
-
----
-
-Thank you for joining me on this creative adventure. If you enjoyed this issue, share it with your friends, and stay tuned for the next edition at the start of February.
-
-Till next time, keep creating!
-Ben
