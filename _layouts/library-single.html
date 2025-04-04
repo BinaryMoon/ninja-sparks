@@ -1,16 +1,22 @@
 ---
 layout: page
 ---
+{% if page.website %}{% capture thumbnail %}{% browsershot page.website %}{% endcapture %}{% endif %}
+{% if page.video %}{% capture thumbnail %}https://i.ytimg.com/vi_webp/{{ page.video }}/maxresdefault.webp{% endcapture %}{% endif %}
 
 <div class="flex gap5">
-	<div class="w100">{{ content }}</div>
+	<div class="w100">
+		{% if page.video %}{% include embed-youtube.html video=page.video %}{% endif %}
+
+		{{ content }}
+	</div>
 	<sidebar class="f5 w6">
-		<a href="{{ page.website }}" class="bg-blue p2 display-block">
-			<img
-				alt="Screenshot of {{ page.title }}"
-				src="{% browsershot page.website %}"
-				class="d-b" />
-		</a>
+		{% if thumbnail %}
+		<img
+			alt="Screenshot of {{ page.title }}"
+			src="{{ thumbnail }}"
+			class="d-b" />
+		{% endif %}
 		<ul class="bg-yellow p3 l-ls-n">
 			<li><a class="f-fw900" href="{{ page.website }}">{{ page.website | replace: "https://", "" }} &rarr;</a></li>
 			<li><p class="m0 f6">{{ page.description }}</p></li>

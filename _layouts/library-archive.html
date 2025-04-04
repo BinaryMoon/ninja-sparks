@@ -5,7 +5,7 @@ layout: page
 {{ content }}
 
 <div class="t:grid t:grid-cols4 w100">
-
+	{% if paginator.posts.size > 0 %}
 	<div class="t:grid-col-s1 t:grid-col-e4">
 		<div class="grid t:grid-cols2 gap-y5 w100">
 			{% for post in paginator.posts %}
@@ -14,6 +14,11 @@ layout: page
 		</div>
 		{% include pagination.html %}
 	</div>
+	{% else %}
+	<div class="t:grid-col-s1 t:grid-col-e4 bg-pink p3">
+		<p class="f3">Nothing available.</p>
+	</div>
+{% endif %}
 
 	<div class="f5">
 		<ul class="l-ls-n bg-yellow p3">

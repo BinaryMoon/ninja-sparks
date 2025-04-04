@@ -1,10 +1,14 @@
+{% if post.website %}{% capture thumbnail %}{% browsershot post.website %}{% endcapture %}{% endif %}
+{% if post.video %}{% capture thumbnail %}https://i.ytimg.com/vi_webp/{{ post.video }}/maxresdefault.webp{% endcapture %}{% endif %}
 <article>
+	{% if thumbnail %}
 	<a href="{{ post.url }}" class="m0 bg-blue p2 display-block">
 		<img
 			alt="Screenshot of {{ post.title }}"
-			src="{% browsershot post.website %}"
+			src="{{ thumbnail }}"
 			class="m0 d-block" />
 	</a>
+	{% endif %}
 	<h2 class="m0 m-b2 f4 bg-yellow p-x3 p-y2"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<p class="m0 f5">{{ post.description }} <a href="{{ post.url }}" class="t-nowrap t-tt-u f-fw900">More info &rarr;</a></p>
 </article>
