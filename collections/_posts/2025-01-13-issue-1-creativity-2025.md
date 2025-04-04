@@ -72,9 +72,3 @@ Here are a few interesting things I’ve come across recently:
 - [Stimulation Clicker](https://neal.fun/stimulation-clicker/): Neal (from Neal.fun) has a knack for creating fascinating experiences, and this time it’s a clicker game about our online habits. It’s surprisingly accurate and family-friendly (aside from the true crime podcast upgrade, which is a bit dark). The game puts things into perspective and might even inspire you to step outside. It’s quick too—I finished it in about half an hour.
 - [Thumby](https://thumby.us/): The **Thumby** is a tiny, thumb-sized console inspired by the classic Game Boy. It’s fun to play with, though the buttons can be tricky if you’ve got big fingers like me. You can even code your own games for it using **Lua** via the [Thumby Code website](https://code.thumby.us/). They’ve recently launched the **Thumby Color**, inspired by the Game Boy Advance—it looks great, but I haven’t tried it yet!
 - [The Creator of PlayerUnkown's Battlegrounds Wants to Build a True Metaverse](https://www.ign.com/articles/the-creator-of-playerunknowns-battlegrounds-wants-to-build-a-true-metaverse): When Mark Zuckerberg announced his vision for the Metaverse, it felt dull and overly corporate—focused on making work virtual, which hardly sparks excitement. But now Brendan Greene, the creator of PUBG, has revealed his own Metaverse project, and it’s far more intriguing. His approach aims to be open and free from the control of a single company—a refreshing contrast to Big Tech’s usual playbook. I’m curious to see how this evolves and whether it gains traction. The fact that he’s using it to build multiple products suggests it’s designed to be practical and long-lasting, which makes it all the more exciting.
-
----
-
-## Your Turn
-
-What’s your go-to creative tool? Hit reply and let me know—I’m always on the lookout for new things to experiment with and feature. 😄
