@@ -9,5 +9,5 @@ pagination:
   permalink: /:num/
   sort_field: date
   sort_reverse: true
-  category: app
+  category: book
 ---
