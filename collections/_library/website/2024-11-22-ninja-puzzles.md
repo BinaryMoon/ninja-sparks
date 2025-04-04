@@ -2,6 +2,7 @@
 title: Ninja Puzzles
 description: Ninja Puzzles is a website that offers free printable puzzles.
 website: https://ninjapuzzles.com
+category: website
 ---
 ## Ninja Puzzles - Your Free Printable Puzzle Playground
 

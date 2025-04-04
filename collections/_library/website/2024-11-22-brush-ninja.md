@@ -2,6 +2,7 @@
 title: Brush Ninja
 description: Brush Ninja is a simple animation tool that allows you to create animations in your browser. It is free to use with no account required.
 website: https://brush.ninja
+category: website
 ---
 ## Brush Ninja - Simple Animation for Everyone
 
