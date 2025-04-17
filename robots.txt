@@ -1,4 +1,4 @@
-Sitemap: https://photoedittools.com/sitemap.xml
+Sitemap: https://ninjasparks.com/sitemap.xml
 
 User-agent: *
 Disallow: /cdn-cgi/
