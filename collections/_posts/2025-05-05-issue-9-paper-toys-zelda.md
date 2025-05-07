@@ -45,6 +45,8 @@ What gets me the most though is the fact this was made by a small team of hobbyi
 
 I think it's great that you can use game engines to make things like this, and that it allows regular people to create things on regular computers - that would not have been possible even 10 years ago. Plus, you know, it's Zelda my favourite game series of all time, so I am bound to enjoy it.
 
+[Watch Lost in Time 👁️](https://www.youtube.com/watch?v=gO_j6xHxQYg)
+
 ---
 
 ## Sparked Discoveries
