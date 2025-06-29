@@ -6,4 +6,6 @@ website: https://photoedittools.com
 
 ## Bulk Photo Editing Made Easy
 
-PhotoEditTools offers a large collection of free, easy-to-use tools for bulk editing photos right in your web browser—no downloads, no fuss. Whether you need to rename hundreds of images, crop a batch of photos, generate QR codes, add watermarks, or more, Photo Edit Tools is here to make it simple. Everything is online, everything is free, and everything is designed to save you time. Perfect for photographers, content creators, or anyone who needs quick, reliable photo editing without the hassle.
+[Photo Edit Tools](https://photoedittools.com) is a growing collection of free, browser-based tools for editing images in bulk - no downloads, no signups, no nonsense. Whether you're resizing a set of photos, compressing them for web use, or renaming hundreds of screenshots, each tool is designed to save you time and clicks.
+
+You'll also find clever extras like bulk QR code generators, palette extractors, and watermark tools for text, logos, and even QR codes. Everything runs entirely in your browser using JavaScript, so your images never leave your device - keeping your files fast, private, and secure. It's perfect for creators, teachers, developers, or anyone who just wants to get the job done without opening Photoshop.
