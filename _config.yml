@@ -22,6 +22,8 @@ extlinks:
       "binaryjoy.co.uk",
       "www.binarysun.co.uk",
       "photoedittools.com",
+      "beep8.com",
+      "beepmini.com",
     ]
 
 feed:
@@ -59,7 +61,7 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
-      permalink: /podcast/:year/:title/
+      permalink: /:year/:title/
   - scope:
       path: "_pages"
     values:
