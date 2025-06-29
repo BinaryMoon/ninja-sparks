@@ -16,7 +16,7 @@
 			{% imagesize image_resize:props %}
 		/>
 	{%- if image_width > 1000 -%}</a>{%- endif -%}
-	{% if include.caption %}
+	{%- if include.caption -%}
 	<figcaption class="m0 m-t2">{{ include.caption | markdownify }}</figcaption>
-	{% endif %}
+	{%- endif -%}
 </figure>

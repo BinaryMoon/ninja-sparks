@@ -1,7 +1,7 @@
 {%- capture alt %}{{ include.alt | default: include.caption }}{% endcapture -%}
 <figure class="">
 	<img
-		src="http://s.wordpress.com/mshots/v1/{{ include.url | replace: 'https://', '' | uri_escape }}?w=750"
+		src="http://s.wordpress.com/mshots/v1/{{ include.url | replace: 'https://', '' | uri_escape }}?w={{ include.width | default: 750 }}"
 		alt="{{ include.alt | default: "Website Screenshot" }}"
 		class="browsershot b-br1"
 	/>
