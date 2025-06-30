@@ -2,6 +2,7 @@ Sitemap: https://ninjasparks.com/sitemap.xml
 
 User-agent: *
 Disallow: /cdn-cgi/
+Disallow: /admin/
 
 User-agent: GPTBot
 Disallow: /
