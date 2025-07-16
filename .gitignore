@@ -5,3 +5,5 @@ _site
 vendor
 .vscode
 .well-known
+
+pglite-debug.log
