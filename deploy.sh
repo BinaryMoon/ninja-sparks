@@ -9,6 +9,7 @@
 # curl http://localhost/lunary/sites/wpbriefs/related-posts.php
 # curl http://localhost/lunary/sites/wpbriefs/add-tags.php
 
+
 jekyll clean
 JEKYLL_ENV=production bundle exec jekyll build
 
