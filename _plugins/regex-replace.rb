@@ -11,13 +11,14 @@ module Jekyll
 		#   {{ content | regex_replace: '\s*(width|height)="[^"]*"', '' }}
 		#   → removes all width="" and height="" attributes
 		#
-		#   {{ content | regex_replace: '<noscript>.*?</noscript>', '' }}
+		#   {{ content | regex_replace: '<noscript>[\s\S]*?</noscript>', '' }}
 		#   → removes everything between <noscript> and </noscript>
 		#
 		#   {{ content | regex_replace: '"/images/', '"https://example.com/images/' }}
 		#   → rewrites relative image URLs
 		def regex_replace(input, pattern, replacement = '')
-			regex = Regexp.new(pattern, Regexp::IGNORECASE | Regexp::MULTILINE)
+			regex = Regexp.new(pattern, Regexp::IGNORECASE | Regexp::MULTILINE | Regexp::EXTENDED)
+			# regex = Regexp.new(pattern, Regexp::IGNORECASE | Regexp::MULTILINE)
 			input.gsub(regex, replacement)
 		end
 
