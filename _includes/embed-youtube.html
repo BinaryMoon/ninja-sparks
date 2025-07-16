@@ -1,3 +1,4 @@
+{%- capture default_thumbnail %}https://i.ytimg.com/vi_webp/{{ include.video }}/maxresdefault.webp{%- endcapture -%}
 
 <div id="youtube-{{ include.video }}" class="youtube-embed">
 <a
@@ -6,7 +7,7 @@
 	data-youtube-id="{{ include.video }}"
 >
 <img
-	src="https://i.ytimg.com/vi_webp/{{ include.video }}/maxresdefault.webp"
+	src="{{ include.youtube_thumbnail | default: default_thumbnail }}"
 	alt="{{ include.title | default: '*' }}"
 	class="b-br1 display-block m-auto"
 	loading="lazy"
