@@ -16,7 +16,7 @@ permalink: /admin/newsletter/
 {% assign latestContent = latestContent | replace: '"/library/', '"https://ninjasparks.com/library/' %}
 {% assign latestContent = latestContent | replace: '"/images/', '"https://ninjasparks.com/images/' %}
 {% assign latestContent = latestContent | regex_remove: '<script.*?</script>' %}
-{% assign latestContent = latestContent | regex_remove: '<noscript>.*?</noscript>' %}
+{% assign latestContent = latestContent | regex_remove: '<noscript.*?</noscript>' %}
 {% assign latestContent = latestContent | regex_remove: '\s*(width|height)="[^"]*"' %}
 {% assign latestContent = latestContent | replace: "<!-- INCLUDE SHARE -->", shareBox %}
 {% assign latestContent = latestContent | replace: "<h3 ", '<h3 style="font-size: 1.5rem; margin-top: 2.5rem;" ' %}
@@ -27,6 +27,8 @@ permalink: /admin/newsletter/
 Hey there,
 
 {{ latestContent }}
+
+<br style="clear: both;">
 
 ---
 
