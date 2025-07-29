@@ -1,4 +1,8 @@
 {% if include.url %}
 {% capture thumbnail %}{% browsershot include.url %}{% endcapture %}
-<img src="{{ thumbnail | resize: "260x180^" }}" class="browsershot b-br1" style="margin-right: 1rem; margin-top: 0.5rem; float: left;" />
+<img
+	src="{{ thumbnail | resize: "260x180^" }}"
+	class="browsershot b-br1" style="margin-right: 1rem; margin-top: 0.5rem; float: left;"
+	alt="{{ include.alt | default: "Website Screenshot" }}"
+/>
 {% endif %}
