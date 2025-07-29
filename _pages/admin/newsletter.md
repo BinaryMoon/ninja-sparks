@@ -21,7 +21,10 @@ permalink: /admin/newsletter/
 {% assign latestContent = latestContent | replace: "<!-- INCLUDE SHARE -->", shareBox %}
 {% assign latestContent = latestContent | replace: "<h3 ", '<h3 style="font-size: 1.5rem; margin-top: 2.5rem;" ' %}
 
-<h2>{{ latest.title }}</h2>
+<span class="f6 t-tt-u 0">Title:</span>
+<h2 class="m0">Ninja Sparks: {{ latest.title }}</h2>
+
+<span class="f6 t-tt-u 0">Email:</span><br>
 <button id="copy-button">Copy</button>
 <textarea class="h6 w100" id="latest-content">
 Hey there,
@@ -34,7 +37,7 @@ Hey there,
 
 Have you found anything interesting lately? I’d love to hear about it, just reply to this email!
 
-Until next time,
+See you next time,
 
 Ben
 </textarea>
