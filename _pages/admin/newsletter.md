@@ -5,7 +5,7 @@ sitemap: false
 permalink: /admin/newsletter/
 ---
 {% capture shareBox %}
-<div style="background: lightyellow; padding: 1rem 2rem; margin: 2.5rem 0;">
+<div style="background: lightyellow; padding: 1rem 2rem; margin: 2.5rem 0; border: 2px orange solid;">
 <p><strong>Can you do me a small favour?</strong></p>
 <p>If you’ve been enjoying the newsletter, please share it with a friend or two. Just forward it or send them the <a href="https://buttondown.com/BrushNinja">archive link</a>. It really helps!</p>
 </div>
@@ -19,7 +19,7 @@ permalink: /admin/newsletter/
 {% assign latestContent = latestContent | regex_remove: '<noscript.*?</noscript>' %}
 {% assign latestContent = latestContent | regex_remove: '\s*(width|height)="[^"]*"' %}
 {% assign latestContent = latestContent | replace: "<!-- INCLUDE SHARE -->", shareBox %}
-{% assign latestContent = latestContent | replace: "<h3 ", '<h3 style="font-size: 1.5rem; margin-top: 2.5rem;" ' %}
+{% assign latestContent = latestContent | replace: "<h3 ", '<h3 style="font-size: 1.5rem; margin-top: 2.5rem; clear: both;" ' %}
 
 <span class="f6 t-tt-u 0">Title:</span>
 <h2 class="m0">Ninja Sparks: {{ latest.title }}</h2>
