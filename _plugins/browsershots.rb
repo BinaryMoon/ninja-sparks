@@ -32,7 +32,7 @@ module Jekyll
 
       # Generate the screenshot URL
       sanitized_url = URI.encode_www_form_component(resolved_url.gsub('https://', ''))
-      screenshot_url = "http://s.wordpress.com/mshots/v1/#{sanitized_url}?w=750"
+      screenshot_url = "https://s.wordpress.com/mshots/v1/#{sanitized_url}?w=750"
       url_hash = Digest::MD5.hexdigest(resolved_url)
       cached_file_path = File.join(@cache_dir, url_hash + ".png")
 
