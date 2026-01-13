@@ -82,7 +82,7 @@ Hayao Miyazaki is a legendary animator and filmmaker, known primarily for his wo
 
 ### [Pocket Platformer has added moving platforms](https://the-l0bster.itch.io/pocket-platformer/devlog/886241/moving-platforms)
 
-I mentioned this all the way back in [issue 1]({% link _posts/2025-01-13-issue-1-creativity-2025.md %}) (3 issues ago), but [Pocket Platformer]({% link _library/app/2025-01-27-pocket-platformer.md %}) is a fun game making tool that runs in your web browser. The developer is constantly adding new features. Last week they added moving platforms, which will add a lot of new level design possibilities.
+I mentioned this all the way back in [issue 1]({% link _posts/2025/2025-01-13-issue-1-creativity-2025.md %}) (3 issues ago), but [Pocket Platformer]({% link _library/app/2025-01-27-pocket-platformer.md %}) is a fun game making tool that runs in your web browser. The developer is constantly adding new features. Last week they added moving platforms, which will add a lot of new level design possibilities.
 
 ### [Pokémon day 2025](https://www.pokemon.com/us/pokemon-news/a-new-pokemon-presents-for-pokemon-day-on-february-27-2025)
 

@@ -5,5 +5,6 @@ _site
 vendor
 .vscode
 .well-known
+cache/
 
 pglite-debug.log

@@ -1,5 +1,6 @@
 ---
 title: Creativity in 2025
+date: 2025-01-13
 ---
 
 Welcome to Ninja Sparks! This is the first issue of what used to be the [Brush Ninja](https://brush.ninja) newsletter. Over the past few months, I’ve been busy exploring creative projects, experimenting with tools, and figuring out how to share them in a way that inspires and excites you.
