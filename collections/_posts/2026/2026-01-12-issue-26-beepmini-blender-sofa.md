@@ -3,8 +3,6 @@ title: 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
 date: 2026-01-12
 ---
 
-Hi there - welcome to 2026!
-
 After a bit of a break over the holidays, I’m pleased to be back writing this newsletter.
 
 I had a lovely holiday break with my family. We had two Christmas celebrations with different groups of people, so I’m well and truly stuffed full of indulgent food.
