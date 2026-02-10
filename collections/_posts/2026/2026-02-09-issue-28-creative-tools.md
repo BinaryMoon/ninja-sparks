@@ -1,5 +1,5 @@
 ---
-title: Issue 28
+title: Creative Tools, Then and Now
 date: 2026-02-09
 ---
 
@@ -39,7 +39,7 @@ The app is free to use, with optional purchases for extra features, and the comm
 
 ## The Sad Story of Flash
 
-Flash was a multimedia platform used for animations, games, and interactive content across the web. It began as FutureSplash, was later acquired by Macromedia, and eventually became part of Adobe. For a long time, Flash was the easiest way to make expressive, interactive work online.
+One downside of creative tools tied to large platforms is what happens when they disappear. Flash was a multimedia platform used for animations, games, and interactive content across the web. It began as FutureSplash, was later acquired by Macromedia, and eventually became part of Adobe. For a long time, Flash was the easiest way to make expressive, interactive work online.
 
 It was also where I started professionally, first as an animator and later moving into web design and development. Flash lowered the barrier to entry in a way few tools have managed since, and it enabled a huge amount of creative experimentation.
 
