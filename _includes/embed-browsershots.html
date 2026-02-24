@@ -1,11 +1,8 @@
-{%- capture alt %}{{ include.alt | default: include.caption }}{% endcapture -%}
-<figure class="">
-	<img
-		src="http://s.wordpress.com/mshots/v1/{{ include.url | replace: 'https://', '' | uri_escape }}?w={{ include.width | default: 750 }}"
-		alt="{{ include.alt | default: "Website Screenshot" }}"
-		class="browsershot b-br1"
-	/>
-	{% if include.caption %}
-	<figcaption class="m-t3">{{ include.caption }}</figcaption>
-	{% endif %}
-</figure>
+{% if include.url %}
+{% capture thumbnail %}{% browsershot include.url %}{% endcapture %}
+<img
+	src="{{ thumbnail | resize: "1000x2000>" }}"
+	class="browsershot b-br1" style=""
+	alt="{{ include.alt | default: "Website Screenshot" }}"
+/>
+{% endif %}
