@@ -1,5 +1,5 @@
 ---
-title: Issue 30
+title: A Game Update, a Drawing Tool, and PicoCAD 2
 date: 2026-03-09
 ---
 
