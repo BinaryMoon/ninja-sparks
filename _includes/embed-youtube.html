@@ -13,6 +13,9 @@
 	loading="lazy"
 	data-youtube-id="{{ include.video }}"
 />
+{% if include.caption %}
+<figcaption class="t-ta-l">{{ include.caption }}</figcaption>
+{% endif %}
 </a>
 
 <noscript id="youtube-noscript-{{ include.video }}">
