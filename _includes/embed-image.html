@@ -1,5 +1,5 @@
 {%- capture alt %}{{ include.alt | default: include.caption }}{% endcapture -%}
-{%- capture image %}{{ include.image }}{% endcapture -%}
+{%- capture image %}{{ include.src | default:include.image }}{% endcapture -%}
 {%- capture image_width %}{% imagesize image:width %}{% endcapture %}
 {%- assign image_width = image_width | plus: 0 -%}
 {%- assign image_resize = image -%}
