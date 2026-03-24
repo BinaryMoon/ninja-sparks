@@ -1,8 +1,20 @@
 ---
 title: Student Animation Showcase
 date: 2025-11-03
+related:
+  - Looking Back at 2025
+  - Creative Tools, Then and Now
+  - Blocks, Boredom, and Big Cities
+  - New Tools, Old Magic
+  - Game Making and Movie Magic
+  - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
+keywords:
+  - animation
+  - watch youtube
+  - student
+  - feel
+  - student animation
 ---
-
 Welcome to a new issue of Ninja Sparks! It's been half term here in the UK, so I took a short break with the family. We went away for a couple of nights, did some trick-or-treating, and enjoyed the slower pace for a bit. It's amazing how much clearer my head feels after a few days away from screens.
 
 Back at work, I've been deep in the [Brush Ninja](https://brush.ninja) accessibility review. It's taking longer than I expected, but I'm learning loads and the site's improving with every tweak. It's satisfying work, even if it's a bit of a rabbit hole.

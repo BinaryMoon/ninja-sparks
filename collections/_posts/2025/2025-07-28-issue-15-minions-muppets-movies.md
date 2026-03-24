@@ -1,8 +1,20 @@
 ---
 title: Minions, Muppets, and Movie Magic
 date: 2025-07-28
+related:
+  - Looking Back at 2025
+  - A Free Design Tool, a Smart Game, and Moomins
+  - Google’s Hidden Game Maker
+  - Programming and Games
+  - Screens, Paper, and the Games I Love
+  - Paper Toys and Zelda
+keywords:
+  - game
+  - fish
+  - minion muppet movie magic
+  - muppet
+  - art
 ---
-
 Hello - welcome to issue 16 of the Ninja Sparks newsletter!
 
 It's been some wild weather here in the UK, rapidly switching between hot and humid, and wet and windy. So a classic British summer then! I hope you're all doing well, and managing to stay cool and dry.

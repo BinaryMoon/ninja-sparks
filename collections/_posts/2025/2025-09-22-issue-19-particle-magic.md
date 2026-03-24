@@ -1,8 +1,20 @@
 ---
-title: "Particle Magic and Playful Ideas"
+title: Particle Magic and Playful Ideas
 date: 2025-09-22
+related:
+  - Looking Back at 2025
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Screens, Paper, and the Games I Love
+  - Creative Tools, Then and Now
+  - Creativity in 2025
+  - Blocks, Boredom, and Big Cities
+keywords:
+  - particle flow field
+  - particle flow
+  - flow field
+  - particle
+  - paper airplane
 ---
-
 Last week I had the chance to work during the day instead of evenings and was so much more productive. Less tired, more focus. I’m going to try that a couple of days each week so evenings can be for unwinding — or drawing my comic 😊.
 
 Talking of which, I had a bit of a breakthrough in the story of the comic, but it means I've had to rejig things a bit so the story flows better. Fortunately I have been able to re-arrange the pages and keep a lot of the things I had planned, so there's not a huge amount of re-drawing. Overall it feels like it's coming together well and I'm excited to start drawing everything.

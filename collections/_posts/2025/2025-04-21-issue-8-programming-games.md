@@ -1,8 +1,20 @@
 ---
 title: Programming and Games
 date: 2025-04-21
+related:
+  - Looking Back at 2025
+  - 3D Art and Videogames
+  - Game Making and Movie Magic
+  - New Tools, Old Magic
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Small Games and Big Ideas
+keywords:
+  - game
+  - work
+  - since
+  - switch
+  - css
 ---
-
 Hey there,
 
 I hope you're doing well! I've been poorly the last few days, just a cold but it's annoying with all the sniffling and coughing. I went away with the family over the Easter break, and also had my birthday so I'm feeling old and tired, but I have so many things I want to do.

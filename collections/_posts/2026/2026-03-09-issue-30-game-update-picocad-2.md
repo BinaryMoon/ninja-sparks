@@ -1,8 +1,20 @@
 ---
 title: A Game Update, a Drawing Tool, and PicoCAD 2
 date: 2026-03-09
+related:
+  - Looking Back at 2025
+  - Creative Tools, Then and Now
+  - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
+  - Retro Game Making, and Custom TCGs
+  - Screens, Paper, and the Games I Love
+  - New Tools, Old Magic
+keywords:
+  - drawing
+  - game update drawing tool
+  - update drawing tool picocad
+  - game
+  - book
 ---
-
 Two weeks have flown by and it's time for a new issue of Ninja Sparks. It feels a bit strange writing this considering everything happening in the world at the moment, but I want to maintain a small sense of normality, so I will keep doing my thing as much as I can. I hope you and your loved ones are doing well.
 
 Over the last couple of weeks I’ve been working on two main things: small updates to Brush Ninja and a larger update to finish my game [Splatter Balls](https://brush.ninja/play/splatter-balls/).

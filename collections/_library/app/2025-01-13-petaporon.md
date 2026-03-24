@@ -3,6 +3,17 @@ title: Petaporon
 short_description: Free online music tracker
 description: Petaporon is a free online music tracker designed for easy music creation.
 website: https://pixwlk.itch.io/petaporon
+related:
+  - Aseprite
+  - PicoCAD
+  - GB Studio
+  - Swap Create
+  - Castle
+  - Brush Ninja
+keywords:
+  - petaporon
+  - create
+  - music
 ---
 ## Create Music in a Web Browser
 

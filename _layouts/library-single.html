@@ -25,3 +25,19 @@ layout: page
 </div>
 
 <p class="m-t5"><a href="/library/" class="btn">&larr; More from the Library</a></p>
+
+
+{%- if page.related %}
+<section class="container m-y5">
+
+	<h2 class="f3">Related Library Items</h2>
+
+	<div class="t:grid grid-cols2">
+	{%- for related_post in page.related -%}
+	{% assign post = site.library | where: "title", related_post | first %}
+	{% include library-archive.html post=post %}
+	{%- endfor -%}
+	</div>
+
+</section>
+{% endif %}

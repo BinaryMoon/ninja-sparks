@@ -5,3 +5,25 @@ layout: default
 <div class="t-ideal-length">
 	{{ content }}
 </div>
+
+<div class="m-y5 p-t5 b-t b2 b-black">
+	<h2 class="f3">Recent Updates</h2>
+
+	<div class="t:grid grid-cols2">
+	{% for post in site.posts limit:6 %}
+	{% include post-archive.html post=post %}
+	{% endfor %}
+	</div>
+</div>
+
+<div class="m-y5 p-t5 b-t b2 b-black">
+	<h2 class="f3">Recent Library Items</h2>
+
+	<div class="t:grid grid-cols2">
+	{% for post in site.library limit:6 %}
+	{% include library-archive.html post=post %}
+	{% endfor %}
+	</div>
+
+	<p class="m-t5"><a href="/library/" class="btn">&larr; View the Library</a></p>
+</div>

@@ -1,8 +1,20 @@
 ---
-title: "Papercraft Tools and Lego Experiments"
+title: Papercraft Tools and Lego Experiments
 date: 2025-05-19
+related:
+  - Driving Nowhere (on purpose)
+  - Looking Back at 2025
+  - Creativity in 2025
+  - New Tools, Old Magic
+  - 3D Art and Videogames
+  - Creative Tools, Then and Now
+keywords:
+  - lego
+  - papercraft tool lego experiment
+  - game
+  - app
+  - brush ninja
 ---
-
 Hey there,
 
 It's that time again, and I'm writing another intro. I've spent the last couple of days working on Brush Ninja - mainly tweaking and fixing small bugs I've spotted recently. Nothing major, but it's satisfying to get them sorted.

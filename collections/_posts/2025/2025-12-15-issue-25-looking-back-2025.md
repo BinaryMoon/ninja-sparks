@@ -1,8 +1,20 @@
 ---
 title: Looking Back at 2025
 date: 2025-12-15
+related:
+  - Creative Tools, Then and Now
+  - Screens, Paper, and the Games I Love
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Student Animation Showcase
+  - A Free Design Tool, a Smart Game, and Moomins
+  - Retro Game Making, and Custom TCGs
+keywords:
+  - game
+  - watch
+  - series
+  - time
+  - year
 ---
-
 This is the last issue this year! I'm amazed that I've managed to consistently publish a newsletter every two weeks all year! Thank you for reading along and sticking with it. I really appreciate it.
 
 Rather than sharing apps or tutorials this time, I thought I'd end the year by looking back at some of the fun, creative things that stuck with me.

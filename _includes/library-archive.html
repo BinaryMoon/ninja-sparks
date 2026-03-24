@@ -1,6 +1,6 @@
 {% if post.website %}{% capture thumbnail %}{% browsershot post.website %}{% endcapture %}{% endif %}
 {% if post.video %}{% capture thumbnail %}https://i.ytimg.com/vi_webp/{{ post.video }}/maxresdefault.webp{% endcapture %}{% endif %}
-<article>
+<article class="">
 	{% if thumbnail %}
 	<a href="{{ post.url }}" class="m0 bg-blue p2 display-block">
 		<img

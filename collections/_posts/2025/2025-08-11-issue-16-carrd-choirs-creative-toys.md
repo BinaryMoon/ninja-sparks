@@ -1,8 +1,20 @@
 ---
-title: "Carrd, Choirs, and Creative Toys"
+title: Carrd, Choirs, and Creative Toys
 date: 2025-08-11
+related:
+  - Looking Back at 2025
+  - Creative Tools, Then and Now
+  - Retro Game Making, and Custom TCGs
+  - Creativity in 2025
+  - Note Taking, and Drawing Skills
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+keywords:
+  - make
+  - carrd choir creative toys
+  - carrd
+  - carrd choir creative
+  - choir creative toys
 ---
-
 Welcome to issue 16 of the Ninja Sparks newsletter!
 
 I've just got back from a couple of weeks away with my family. It was a relaxing holiday and I barely used the computer at all; quite a change for me. I took my laptop with me, but it didn't get much use.

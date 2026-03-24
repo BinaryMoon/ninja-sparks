@@ -2,8 +2,20 @@
 title: Code.org
 description: A fun and educational platform for kids to learn coding through games and interactive lessons.
 website: https://code.org
+related:
+  - GB Studio
+  - 'Lunacy - Icons8'
+  - Google Game Maker
+  - Aseprite
+  - Brush Ninja
+  - Gladden Design
+keywords:
+  - codeorg
+  - lesson
+  - learner
+  - tool
+  - lab
 ---
-
 {% include embed-image.html image="/images/updates/code-dot-org.png" caption="Code.org homepage" %}
 
 **Code.org** is a free online platform that teaches coding through interactive, browser-based lessons. It’s designed for students of all ages, with a particular focus on beginners and younger learners.

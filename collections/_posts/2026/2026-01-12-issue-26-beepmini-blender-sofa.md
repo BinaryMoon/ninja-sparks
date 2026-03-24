@@ -1,8 +1,20 @@
 ---
 title: 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
 date: 2026-01-12
+related:
+  - Looking Back at 2025
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - 3D Art and Videogames
+  - Creative Tools, Then and Now
+  - Google’s Hidden Game Maker
+  - Note Taking, and Drawing Skills
+keywords:
+  - drawing
+  - year
+  - welcome beepmini blender cosy
+  - beepmini blender cosy soundtrack
+  - life
 ---
-
 After a bit of a break over the holidays, I’m pleased to be back writing this newsletter.
 
 I had a lovely holiday break with my family. We had two Christmas celebrations with different groups of people, so I’m well and truly stuffed full of indulgent food.
@@ -82,10 +94,3 @@ I thought I’d try something new this issue: sharing what I’m currently liste
 We’ll start the year with a song that has some swears in it (sorry): [The Sofa by Wolf Alice](https://link.deezer.com/s/329ji8xA5iKpHXq33t1Se). It’s a really beautiful song about getting older and learning to enjoy the quieter moments in life. The radio edit has no swear words and is better for it. Unfortunately, I can’t find that version on the streaming services.
 
 As a family we mostly listen to [Radio X](https://www.radiox.co.uk/) in the car (and sometimes in the house), and this was their record of the year for 2025 (voted for by the public). Personally, I voted for Florence and the Machine’s ['Everybody Scream'](https://link.deezer.com/s/329jpucukSIdg5AiIbhHB), but it was a close call and I nearly voted for The Sofa.
-
-
-
-
-
-
-

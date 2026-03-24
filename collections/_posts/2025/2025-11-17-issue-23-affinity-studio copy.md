@@ -1,8 +1,20 @@
 ---
 title: New Tools, Old Magic
 date: 2025-11-17
+related:
+  - Messenger, Paddington, and BeepMini
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Looking Back at 2025
+  - Creative Tools, Then and Now
+  - Programming and Games
+  - 3D Sculpting on Mobile
+keywords:
+  - game
+  - idea
+  - affinity
+  - adventure game
+  - dark crystal
 ---
-
 Last week I joined a game jam for fun and tried to make a small [BeepMini](https://beepmini.com) game. I got the basic idea working fast, but making lots of levels by hand felt painful. That pushed me to think about a level editor.
 
 At first I planned a quick and messy tool. Then I realised my adventure game editor already did most of the work. So I’m turning it into a general editor that uses config files and can handle different types of games.

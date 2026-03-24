@@ -3,6 +3,19 @@ title: Ninja Puzzles
 description: Ninja Puzzles is a website that offers free printable puzzles.
 website: https://ninjapuzzles.com
 category: website
+related:
+  - Brush Ninja
+  - Swap Create
+  - 'Lunacy - Icons8'
+  - Google Game Maker
+  - Code.org
+  - Carrd
+keywords:
+  - puzzle
+  - ninja puzzle
+  - ninja
+  - free printable puzzle
+  - word
 ---
 ## Ninja Puzzles - Your Free Printable Puzzle Playground
 

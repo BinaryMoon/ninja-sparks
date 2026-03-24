@@ -1,8 +1,20 @@
 ---
 title: Note Taking, and Drawing Skills
 date: 2025-06-30
+related:
+  - Looking Back at 2025
+  - Carrd, Choirs, and Creative Toys
+  - New Tools, Old Magic
+  - Creative Tools, Then and Now
+  - Photo Editing and Cardboard Models
+  - Creativity in 2025
+keywords:
+  - cant draw
+  - note taking drawing skill
+  - people believe cant draw
+  - believe cant draw prove
+  - draw
 ---
-
 It's been 2 weeks so it's time for another issue of Ninja Sparks, my fortnightly newsletter where I share interesting things I've found on the internet.
 
 Over the last couple of weeks I've spent some time polishing [Photo Edit Tools](https://photoedittools.com), the app I featured in the last issue. The day after I sent the email I realised there was an error that meant you couldn't load the modified images because the app removed the file extensions. Not ideal. I fixed that and added a few more tweaks and improvements.

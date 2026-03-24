@@ -1,8 +1,20 @@
 ---
-title: 'A Free Design Tool, a Smart Game, and Moomins'
+title: A Free Design Tool, a Smart Game, and Moomins
 date: 2026-01-27
+related:
+  - Looking Back at 2025
+  - Screens, Paper, and the Games I Love
+  - Creative Tools, Then and Now
+  - New Tools, Old Magic
+  - 3D Art and Videogames
+  - Minions, Muppets, and Movie Magic
+keywords:
+  - game
+  - design
+  - free design tool
+  - work
+  - free design tool smart
 ---
-
 A couple of weeks ago I went to a reunion for my former employer Miniclip. It was a party to celebrate their 25th anniversary (and also the original CEO's 50th birthday). It was great seeing friends and colleagues that I haven't seen in over a decade.
 
 I was Miniclip's third employee and saw it grow from a small room near St Paul's Cathedral to a multinational company with offices all over the world. It was a special evening that made me very nostalgic for the early days of the internet and online games, when everything felt a bit more experimental. Miniclip is now a mobile-focused publisher making games for iOS and Android, but back then it was all about publishing browser games.

@@ -1,8 +1,20 @@
 ---
-title: "Blocks, Boredom, and Big Cities"
+title: Blocks, Boredom, and Big Cities
 date: 2025-10-20
+related:
+  - Looking Back at 2025
+  - Game Making and Movie Magic
+  - Creativity in 2025
+  - Screens, Paper, and the Games I Love
+  - Retro Game Making, and Custom TCGs
+  - Creative Tools, Then and Now
+keywords:
+  - game
+  - block boredom big city
+  - norman mailer cannibal christian
+  - make
+  - block
 ---
-
 I've been super creative the last couple of weeks, working hard on my new 3D engine and trying to finish off [BeepMini](https://beepmini.com) so that I can properly launch it. Plus I've had an email from someone asking about the Accessibility of [Brush Ninja](https://brush.ninja), so I've been filling out a VPAT form, which is a whole new thing for me.
 
 Amidst all this I've also been doing a lot of things with my son who is really into Pokémon. He's been collecting for years. Now we go to a weekly Pokémon club where he plays the games and trades cards, and has even competed in his first tournament. He's quite shy but he's been loving this and it's been great to see him engaging with new people and making friends.

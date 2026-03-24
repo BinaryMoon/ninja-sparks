@@ -1,8 +1,20 @@
 ---
 title: Creativity in 2025
 date: 2025-01-13
+related:
+  - Looking Back at 2025
+  - Game Making and Movie Magic
+  - New Tools, Old Magic
+  - Blocks, Boredom, and Big Cities
+  - Creative Tools, Then and Now
+  - Google’s Hidden Game Maker
+keywords:
+  - game
+  - petaporon
+  - tool
+  - video
+  - tiny
 ---
-
 Welcome to Ninja Sparks! This is the first issue of what used to be the [Brush Ninja](https://brush.ninja) newsletter. Over the past few months, I’ve been busy exploring creative projects, experimenting with tools, and figuring out how to share them in a way that inspires and excites you.
 
 One big update: [Ninja Sparks now has its own website](https://ninjasparks.com/)! It’s a dedicated space where I’ll gather all the apps, tools, and resources I feature. Think of it as a growing hub of creativity—a mix of recommendations, personal insights, and handy resources to spark your imagination.

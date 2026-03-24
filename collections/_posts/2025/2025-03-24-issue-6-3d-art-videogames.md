@@ -1,8 +1,20 @@
 ---
 title: 3D Art and Videogames
 date: 2025-03-24
+related:
+  - Looking Back at 2025
+  - Programming and Games
+  - Small Games and Big Ideas
+  - 3D Sculpting on Mobile
+  - Creativity in 2025
+  - Pixel Art and Animation
+keywords:
+  - blender
+  - art
+  - social media
+  - game
+  - great
 ---
-
 Hey there,
 
 Over the last couple of weeks, I've made some great progress on my retro game engine. So much so that I've even mentioned the name on social media. It's kicking off with two websites: [BeepMini.com](https://beepmini.com) and [Beep8.com](https://beep8.com).

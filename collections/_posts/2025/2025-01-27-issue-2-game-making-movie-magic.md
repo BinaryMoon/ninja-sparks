@@ -1,5 +1,18 @@
 ---
 title: Game Making and Movie Magic
+related:
+  - Looking Back at 2025
+  - Creativity in 2025
+  - Retro Game Making, and Custom TCGs
+  - Small Games and Big Ideas
+  - Creative Tools, Then and Now
+  - Programming and Games
+keywords:
+  - game
+  - game making movie magic
+  - making
+  - nintendo
+  - pocket platformer
 ---
 Welcome to the second issue of **Ninja Sparks**, your bi-weekly dose of creative inspiration, tools, and ideas!
 

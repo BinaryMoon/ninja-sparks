@@ -1,8 +1,20 @@
 ---
 title: Screens, Paper, and the Games I Love
 date: 2026-02-22
+related:
+  - Looking Back at 2025
+  - Retro Game Making, and Custom TCGs
+  - Paper Toys and Zelda
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Game Making and Movie Magic
+  - Small Games and Big Ideas
+keywords:
+  - book
+  - paper apps
+  - paper
+  - game
+  - first
 ---
-
 I am writing this whilst watching the closing ceremony of the 2026 Winter Olympics in Italy. I’m not into sport, but I found myself watching a surprising amount of it over the last couple of weeks. I think I prefer this to the regular Olympics. A lot of the events are about skill rather than strength or speed, which makes them more interesting to watch. The ice skating and snowboarding events in particular were really fun.
 
 This last week was also half term, so I spent a very enjoyable week with my boy. A lot of that time was spent doing Pokémon-related things, including him competing in a Pokémon Cup.

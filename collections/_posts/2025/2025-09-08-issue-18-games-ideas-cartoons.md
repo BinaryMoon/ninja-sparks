@@ -1,8 +1,20 @@
 ---
-title: "Small games, big ideas, and classic cartoons"
+title: Small games, big ideas, and classic cartoons
 date: 2025-09-08
+related:
+  - Looking Back at 2025
+  - Small Games and Big Ideas
+  - New Tools, Old Magic
+  - 3D Art and Videogames
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Note Taking, and Drawing Skills
+keywords:
+  - film
+  - game
+  - make
+  - small game big idea
+  - game big idea classic
 ---
-
 I hope this finds you well, it's time for another Ninja Sparks newsletter!
 
 I have spent the last couple of weeks working on my [beep8](https://beep8.com) game making app. It's a map editor that allows you to create simple little adventure games, and it's getting close to a version 1 release! I'm really looking forward to getting the game making element ready so that other people can easily make games with it.
@@ -55,4 +67,3 @@ There are probably other companies that do this but I have recently found out th
 The ITV shows include [Thunderbirds](https://www.youtube.com/playlist?list=PL0e0v1z2u91yanLSnJmf99fcWzLUCeIGh), [Stingray](https://www.youtube.com/playlist?list=PL0e0v1z2u91xO9yvk1C56ib2g_gd850CT), and [The Prisoner](https://www.youtube.com/playlist?list=PL0e0v1z2u91x2KISWPvXfnw5GcCGf6x8F). [Terrahawks](https://www.youtube.com/playlist?list=PL0e0v1z2u91y97L1m275J9xs_b8GxROLY) - another Gerry Anderson series, is currently being added. There are other shows but these are probably the most international. Thunderbirds and Stingray made up a large part of the TV from my childhood so it's great seeing some of these shows again.
 
 Warner Bros on the other hand have got an [archives channel](https://www.youtube.com/c/warnerarchive/) full of clips from their old content. They’ve recently been uploading groups of entire [Tom and Jerry episodes](https://www.youtube.com/watch?v=qsKqoYM7uk8) episodes in hour-long bundles! So if you enjoy the old cartoons then this might be one for you.
-

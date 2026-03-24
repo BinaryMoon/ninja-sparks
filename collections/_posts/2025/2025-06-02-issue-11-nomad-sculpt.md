@@ -1,8 +1,20 @@
 ---
 title: 3D Sculpting on Mobile
 date: 2025-06-02
+related:
+  - Looking Back at 2025
+  - Note Taking, and Drawing Skills
+  - New Tools, Old Magic
+  - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
+  - 3D Art and Videogames
+  - Pixel Art and Animation
+keywords:
+  - game
+  - nomad sculpt
+  - make
+  - nomad
+  - power boy nomad sculpt
 ---
-
 Hey there,
 
 Last week was half term so my boy was home from school for the week, which is always fun. One of the best things we did was go to a comic drawing workshop where we listed to an author make an amusing presentation about how they got into writing and drawing, and then we all got to draw our own comics. I posted [my son's comic on BlueSky](https://bsky.app/profile/binarymoon.bsky.social/post/3lqhqxkjzbk23).

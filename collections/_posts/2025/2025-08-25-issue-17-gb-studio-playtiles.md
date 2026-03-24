@@ -1,8 +1,20 @@
 ---
-title: "8-Bit Creativity Unlocked"
+title: 8-Bit Creativity Unlocked
 date: 2025-08-25
+related:
+  - Looking Back at 2025
+  - Retro Game Making, and Custom TCGs
+  - Creativity in 2025
+  - Blocks, Boredom, and Big Cities
+  - Carrd, Choirs, and Creative Toys
+  - A Free Design Tool, a Smart Game, and Moomins
+keywords:
+  - game
+  - play tile
+  - play
+  - game boy
+  - wind waker
 ---
-
 Welcome to issue 17 of the Ninja Sparks newsletter!
 
 Over the last few weeks I’ve been stepping away from the computer and doing more analogue things. I just finished the Crookhaven book series, which I picked up at the library with my son (he’s the real bookworm in the family). The final book has just come out, so the timing was perfect.

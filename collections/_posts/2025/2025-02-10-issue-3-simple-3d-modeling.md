@@ -1,7 +1,19 @@
 ---
 title: Simple 3d Modelling
+related:
+  - Game Making and Movie Magic
+  - Creativity in 2025
+  - Retro Game Making, and Custom TCGs
+  - Looking Back at 2025
+  - 3D Art and Videogames
+  - Programming and Games
+keywords:
+  - lego
+  - puzzle box
+  - lego puzzle box
+  - make
+  - picocad
 ---
-
 Hey there,
 
 I’ve been deep in the world of procedural music, experimenting with different ways to generate melodies and rhythms dynamically. Procedural music is created using code, maths, and random numbers to try to create rhythms and melodies. It’s something I’ve been working on for a while, aiming to make it easier for users of my upcoming JavaScript game library to add music with minimal effort. While it won’t replace custom compositions, my goal is to lower the barrier to entry, letting people build games faster.

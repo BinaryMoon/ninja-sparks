@@ -1,8 +1,20 @@
 ---
 title: Messenger, Paddington, and BeepMini
 date: 2025-12-01
+related:
+  - Looking Back at 2025
+  - New Tools, Old Magic
+  - Note Taking, and Drawing Skills
+  - Creativity in 2025
+  - Creative Tools, Then and Now
+  - Game Making and Movie Magic
+keywords:
+  - game
+  - paddington
+  - paddington bear
+  - path
+  - work
 ---
-
 It's the 1st of December already! We put up the Christmas tree this weekend and started making things more festive.
 
 I've been working on [BeepMini](https://beepmini.com) this last week. I wanted to make a path editor to help with my stealth game. I originally planned to have an interactive tool that allows you to place waypoints and draw paths, but that was going to be a lot of work. Instead I realised I could use a simple text-based language to define paths. This turns the act of creating paths into a game of its own, so now I can define paths quickly without needing a complex UI.

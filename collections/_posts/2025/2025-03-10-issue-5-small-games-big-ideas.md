@@ -1,8 +1,20 @@
 ---
 title: Small Games and Big Ideas
 date: 2025-02-24
+related:
+  - Looking Back at 2025
+  - Game Making and Movie Magic
+  - 3D Art and Videogames
+  - Screens, Paper, and the Games I Love
+  - Retro Game Making, and Custom TCGs
+  - Programming and Games
+keywords:
+  - game
+  - wild robot
+  - small game big idea
+  - making
+  - bitsy
 ---
-
 Hey there, **Happy Mario Day!**
 
 Today is March 10th (Mar10), and for videogame geeks like me, it’s the perfect day to celebrate everyone’s favorite plumber. Super Mario Bros. on the NES was my first-ever console game, and I've played (and loved) pretty much every Mario game since. Nintendo is a huge part of why I chose my career path, and I’m genuinely grateful for all the joy their games have brought me over the years.

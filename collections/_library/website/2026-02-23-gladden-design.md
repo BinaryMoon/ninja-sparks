@@ -2,8 +2,20 @@
 title: Gladden Design
 date: 2026-02-23
 website: https://gladdendesign.com
+related:
+  - GB Studio
+  - Google Game Maker
+  - Ninja Puzzles
+  - Wareware
+  - Aseprite
+  - 'Lunacy - Icons8'
+keywords:
+  - gladden design
+  - paper apps
+  - design
+  - gladden
+  - game
 ---
-
 Gladden Design is a husband-and-wife studio, run by Tom and Sarah Brinton, creating paper-based games and tools that use ideas borrowed from videogame design and procedural generation. Their best-known work, Paper Apps Dungeon, is a solo role-playing game presented as a pocket-sized book, where each page represents a room in a procedurally generated dungeon. Every copy is unique, and all you need to play is a pencil and a die.
 
 Building on that idea, Gladden Design have released a growing collection of Paper Apps covering genres such as space exploration, golf, and labyrinth puzzles. They’ve also produced physical accessories like the Pencil Dice and Golf XL, a two-player paper golf game, all designed around portability and simplicity.

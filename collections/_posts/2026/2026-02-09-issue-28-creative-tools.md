@@ -1,8 +1,20 @@
 ---
 title: Creative Tools, Then and Now
 date: 2026-02-09
+related:
+  - Looking Back at 2025
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Retro Game Making, and Custom TCGs
+  - A Free Design Tool, a Smart Game, and Moomins
+  - New Tools, Old Magic
+  - Carrd, Choirs, and Creative Toys
+keywords:
+  - tool
+  - creative tool
+  - game
+  - creative
+  - feel
 ---
-
 Welcome to a new issue of Ninja Sparks. I've now been writing this newsletter for over a year, and it's been a fun way to collect and share the things I've found along the way. I hope you're enjoying it. As always, please let me know if you have any feedback or suggestions for future issues.
 
 Over the last couple of weeks I've been doing some work on [Brush Ninja](https://brush.ninja), mostly tidying up user interactions to make it nicer to use. They're all small changes that will hopefully go unnoticed, but together should make the experience feel smoother and more considered.

@@ -2,8 +2,20 @@
 title: Google Game Maker
 description: A Google Doodle that lets you create and share simple video games.
 website: https://doodles.google/doodle/gerald-jerry-lawsons-82nd-birthday/
+related:
+  - Pocket Platformer
+  - Castle
+  - GB Studio
+  - Code.org
+  - 'Lunacy - Icons8'
+  - Gladden Design
+keywords:
+  - game
+  - game maker
+  - google game maker
+  - google
+  - google game
 ---
-
 This interactive Google Doodle celebrates Gerald “Jerry” Lawson, a key figure in early video game technology. It includes a built-in game maker that lets you create and play your own simple games — either platformers or top-down adventures.
 
 {% include embed-image.html image="/images/updates/2025/google-doodle-game-maker-logo.png" caption="The Google Doodle Game Maker logo." %}

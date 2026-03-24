@@ -1,8 +1,20 @@
 ---
-title: "Pixel Art and Animation"
+title: Pixel Art and Animation
 date: 2025-04-07
+related:
+  - Looking Back at 2025
+  - New Tools, Old Magic
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Creative Tools, Then and Now
+  - Screens, Paper, and the Games I Love
+  - 3D Sculpting on Mobile
+keywords:
+  - animation
+  - pixel art
+  - year
+  - making
+  - book
 ---
-
 Hey there, it's that time of year when we celebrate the arrival of spring, and in the UK Easter - which normally boils down to chocolate eggs and a long weekend. Easter this year falls between newsletters so I hope you had a good time, and if you don't celebrate Easter, I hope you had a nice weekend anyway!
 
 I am still working on my retro game engine. Having tested it on mobile phones I decided it was too big which made the characters too small, so I am now rejigging everything to make it easier to see on smaller devices. This does make it a bit less detailed and colourful but I think it will be better in the long run. You can see screenshots of the resized games I've been changing on [Bluesky](https://bsky.app/profile/binarymoon.bsky.social/post/3llnxfbfz7k2n).

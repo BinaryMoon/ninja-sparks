@@ -1,8 +1,20 @@
 ---
-title: "Google’s Hidden Game Maker"
+title: Google’s Hidden Game Maker
 date: 2025-07-14
+related:
+  - Looking Back at 2025
+  - Creativity in 2025
+  - Game Making and Movie Magic
+  - Retro Game Making, and Custom TCGs
+  - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
+  - 3D Sculpting on Mobile
+keywords:
+  - game
+  - game maker
+  - google
+  - google hidden game maker
+  - better feeling moment finally
 ---
-
 Hi there! Welcome to Issue 14 of Ninja Sparks, my fortnightly newsletter where I share interesting, creative things I’ve found online.
 
 Next week marks the start of the school summer holidays here in the UK, so I’ll be spending more time with my wife and son, including heading off on holiday. I might miss or delay an issue or two, but I’ll still be working on my projects (like Beep8 and Brush Ninja). I’m also trying to prep some newsletters in advance so I can keep them coming.

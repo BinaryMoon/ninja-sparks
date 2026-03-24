@@ -1,8 +1,20 @@
 ---
 title: Photo Editing and Cardboard Models
 date: 2025-06-16
+related:
+  - Looking Back at 2025
+  - Programming and Games
+  - Retro Game Making, and Custom TCGs
+  - 3D Sculpting on Mobile
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Paper Toys and Zelda
+keywords:
+  - game
+  - photo editing cardboard model
+  - chatgpt lost game chess
+  - lost game chess atari
+  - photo
 ---
-
 I'm currently writing this in the evening of Father's day in the UK. I had a lovely day with my family, playing video games with my son, and seeing my wife's parents for dinner.
 
 I hope you had a great weekend too!
@@ -74,5 +86,3 @@ This is a great resource for anyone interested in physics and maths. It features
 {% include embed-image.html image="/images/updates/2025/mario-kart-world-cow.jpg" caption="Lots of Cows in a multiplayer Mario Kart World Race" %}
 
 I didn't buy the new Switch 2 but I have enjoyed seeing people play Mario Kart World Tour. In particular the fact that everyone wants to be the cow. I feel like this might spin off into a whole new game. Who knew spherical cows were more popular than Mario, Luigi, and friends. When I do eventually get the game I'll probably be the cow as well!
-
-

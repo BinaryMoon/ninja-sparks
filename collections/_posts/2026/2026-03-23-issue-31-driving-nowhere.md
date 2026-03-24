@@ -1,8 +1,20 @@
 ---
-title: 'Driving Nowhere (on purpose)'
+title: Driving Nowhere (on purpose)
 date: 2026-03-23
+related:
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Creative Tools, Then and Now
+  - Retro Game Making, and Custom TCGs
+  - Carrd, Choirs, and Creative Toys
+  - Papercraft Tools and Lego Experiments
+  - Looking Back at 2025
+keywords:
+  - colour
+  - driving nowhere purpose
+  - driving
+  - fun
+  - simple
 ---
-
 These last couple of weeks have been a bit of a blur, but I want to keep a consistent schedule, so here we are with another issue of Ninja Sparks.
 
 I've been trying to finish off Splatter Balls, my new (old) game. I thought it would be quick since it's been running nicely on Brush Ninja for a while. However, there are far more ideas, tweaks, and improvements needed to make it commercially viable than I expected, so it's taking longer than planned.

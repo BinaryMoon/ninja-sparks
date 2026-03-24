@@ -1,8 +1,20 @@
 ---
-title: "Cosy Worlds, Coding Chaos"
+title: Cosy Worlds, Coding Chaos
 date: 2025-10-06
+related:
+  - Looking Back at 2025
+  - 3D Art and Videogames
+  - Particle Magic and Playful Ideas
+  - Screens, Paper, and the Games I Love
+  - Small games, big ideas, and classic cartoons
+  - Note Taking, and Drawing Skills
+keywords:
+  - tiny glade
+  - tiny
+  - glade
+  - concept artist
+  - cosy world coding chao
 ---
-
 Over the last couple of weeks I have been working on quite a few different things. Firstly, I have decided to rename beep8 to [beepmini](https://beepmini.com). This is a relatively small-sounding change but it means rebuilding the website and merging it with the beepmini.com domain.
 
 I still think beep8 was a good name, but about 6 months after I bought the domain, someone else released a project with the same name. I reached out but didn’t hear back. I was first, but I don’t fancy a fight, so I’ve decided to change it. Fortunately, when I bought beep8.com I also grabbed beepmini.com. At first I thought I’d use it as a games arcade, but now it just makes sense to keep everything together.

@@ -2,8 +2,20 @@
 title: Photo Edit Tools
 description: A collection of browser based tools for editing photos. All online, private, and free.
 website: https://photoedittools.com
+related:
+  - 'Lunacy - Icons8'
+  - Carrd
+  - Brush Ninja
+  - Wareware
+  - Code.org
+  - PicoCAD
+keywords:
+  - photo edit tool
+  - tool
+  - photo edit
+  - edit tool
+  - photo
 ---
-
 ## Bulk Photo Editing Made Easy
 
 [Photo Edit Tools](https://photoedittools.com) is a growing collection of free, browser-based tools for editing images in bulk - no downloads, no signups, no nonsense. Whether you're resizing a set of photos, compressing them for web use, or renaming hundreds of screenshots, each tool is designed to save you time and clicks.

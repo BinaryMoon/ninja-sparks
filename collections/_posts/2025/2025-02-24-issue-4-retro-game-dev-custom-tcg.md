@@ -1,8 +1,20 @@
 ---
 title: Retro Game Making, and Custom TCGs
 date: 2025-02-24
+related:
+  - Looking Back at 2025
+  - Creative Tools, Then and Now
+  - Game Making and Movie Magic
+  - Small Games and Big Ideas
+  - Creativity in 2025
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+keywords:
+  - game
+  - pico
+  - custom tcgs
+  - retro game making custom
+  - game making custom tcgs
 ---
-
 Hey there,
 
 I just got back from a half-term holiday with my family, feeling refreshed and full of ideas. I brought my laptop along but only used it a couple of times for [Brush Ninja](https://brush.ninja) customer support. Otherwise, I stayed away from screens; except for playing Pokémon Go with my son and jotting down ideas for Brush Ninja and my other projects.

@@ -34,14 +34,16 @@ layout: default
 
 
 {%- if page.related %}
-<section class="container p4 m-y5">
+<section class="container m-y5">
 
 	<h2 class="f3">Related Posts</h2>
 
+	<div class="t:grid grid-cols2">
 	{%- for related_post in page.related -%}
 	{% assign post = site.posts | where: "title", related_post | first %}
 	{% include post-archive.html post=post %}
 	{%- endfor -%}
+	</div>
 
 </section>
 {% endif %}

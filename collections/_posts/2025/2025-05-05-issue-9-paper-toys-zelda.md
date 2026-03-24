@@ -1,8 +1,20 @@
 ---
 title: Paper Toys and Zelda
 date: 2025-05-05
+related:
+  - Looking Back at 2025
+  - Screens, Paper, and the Games I Love
+  - 3D Art and Videogames
+  - Blocks, Boredom, and Big Cities
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Minions, Muppets, and Movie Magic
+keywords:
+  - toys
+  - game
+  - time
+  - dead insect body part
+  - insect body part disguise
 ---
-
 Hey there,
 
 Hope you made the most of Star Wars Day yesterday! Just me? Never mind 😀 I built some Star Wars Lego with my boy and then we went out and bought some Pokemon cards because he's not really into Star Wars.
