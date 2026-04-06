@@ -7,7 +7,7 @@ I hope you had a nice weekend. I learnt this week that big chocolate eggs aren�
 
 So we spent Friday making our own. We bought some moulds and chocolate, melted it down, and poured it in with our own fillings. It was a lot of fun, and slightly healthier than shop-bought eggs since we could use better quality chocolate. I filled mine with cornflakes and peanut butter, which was excellent.
 
-There’s something quite nice about making things from scratch, even when it’s a bit messy. That mindset has carried over into what I’ve been working on this week.
+There’s something quite nice about making things from scratch, even when it’s a bit messy. That mindset has carried over into what I’ve been working on this week. It’s messy, but that’s half the fun.
 
 Over the past week I’ve been working on an update to Brush Ninja, improving the drawing tool I call [Paint Ninja](https://brush.ninja/create/drawing/). It’s a lightweight alternative to Photoshop, or more closely Procreate. A simple, fun drawing app that runs in your browser. I’ve collected a lot of feedback over the years, and the main request has been layers, which I’ve now added.
 
@@ -21,7 +21,7 @@ I mentioned in the last issue that I was working on a new tool, and it turned ou
 
 {% include embed-browsershots.html url="https://photoedittools.com/" %}
 
-This is very much in the same spirit. Simple tools, combined in flexible ways.
+This is very much in the same spirit. Simple tools that let you make something quickly, without getting in your way.
 
 The tool I recently completed lets you edit images using a stack of filters. I had the idea for this a couple of years ago, and it’s actually the reason I bought the domain. I just hadn’t found the right approach to building it until now.
 
@@ -59,7 +59,7 @@ There’s a rock character in the film that you would assume is CG, but it turns
 
 These days you often hear filmmakers say they “didn’t use CGI”, which usually just means they’re downplaying the huge teams of artists involved. That never quite sits right with me. There’s sometimes a strange snobbery around CGI, even when it’s doing most of the heavy lifting.
 
-But here it feels more balanced. They’ve pushed for as much as possible to be done physically, while still using CGI where it makes sense. I like that approach. Technology can enhance films, but overuse can make everything feel a bit artificial. I remember watching the *Total Recall* remake and thinking everything looked too smooth compared to the original, where everything had more texture because it was done in camera.
+But here it feels more balanced. They’ve pushed for as much as possible to be done physically, while still using CGI where it makes sense. It’s less about avoiding CGI, and more about choosing the right way to make something feel authentic. I like that approach. Technology can enhance films, but overuse can make everything feel a bit artificial. I remember watching the *Total Recall* remake and thinking everything looked too smooth compared to the original, where everything had more texture because it was done in camera.
 
 ---
 
@@ -73,7 +73,7 @@ It used to be paid, but it’s now free to watch. It’s a great look at the cre
 
 What stood out to me was how much physical work went into it. They used models, practical shots, and real materials alongside traditional animation. Things like the turning book pages and some of the environmental shots were filmed for real.
 
-It’s another nice example of mixing physical and digital techniques rather than picking sides.
+It’s another nice example of mixing physical and digital techniques to make something feel more real.
 
 [Watch the video](https://www.youtube.com/watch?v=RF2BVo5eetY)
 
@@ -89,7 +89,9 @@ Here’s a handful of links I found interesting recently:
 
 IAMAG is one of those corners of the internet that’s been around for years, quietly doing its thing. It grew out of *It’s Art Magazine* and has built a space for artists working in games, film, and animation. The focus is firmly on high-end concept art and visual development, so everything leans towards real industry workflows rather than quick tips.
 
-What makes it especially interesting right now is their collection of free masterclasses. These are proper, in-depth sessions from working artists, often the same people behind big-name films and games. They focus more on process and decision-making than step-by-step instruction, which makes them well worth a look.
+What makes it especially interesting right now is their collection of free masterclasses. These are proper, in-depth sessions from working artists, often the same people behind big-name films and games. They focus more on process and decision-making than step-by-step instruction.
+
+They’re less about copying steps, and more about understanding how to approach making something from scratch, which makes them well worth a look.
 
 To find the free ones, open the link above, then use the dropdown next to the search bar and select “Free Classes Only”.
 
@@ -101,7 +103,7 @@ If you like behind-the-scenes content but don’t want full tutorials, you might
 
 {% include embed-browsershots.html url="https://gradient.horse/" %}
 
-This is a funny little app that lets you draw a horse, then animates it running across a gradient. It’s a bit of fun, but also a nice reminder that simple ideas can still be really engaging.
+This is a funny little app that lets you draw a horse, then animates it running across a gradient. It’s a bit of fun, but also a nice reminder that simple ideas can still turn into something worth making.
 
 ---
 
