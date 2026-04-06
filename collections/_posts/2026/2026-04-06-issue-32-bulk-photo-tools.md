@@ -7,6 +7,8 @@ I hope you had a nice weekend. I learnt this week that big chocolate eggs aren�
 
 So we spent Friday making our own. We bought some moulds and chocolate, melted it down, and poured it in with our own fillings. It was a lot of fun, and slightly healthier than shop-bought eggs since we could use better quality chocolate. I filled mine with cornflakes and peanut butter, which was excellent.
 
+There’s something quite nice about making things from scratch, even when it’s a bit messy. That mindset has carried over into what I’ve been working on this week.
+
 Over the past week I’ve been working on an update to Brush Ninja, improving the drawing tool I call [Paint Ninja](https://brush.ninja/create/drawing/). It’s a lightweight alternative to Photoshop, or more closely Procreate. A simple, fun drawing app that runs in your browser. I’ve collected a lot of feedback over the years, and the main request has been layers, which I’ve now added.
 
 It’s a fairly big update, and there are probably a few bugs I haven’t spotted yet, but I’m really happy with how it’s working. While I was in there I also added a new smudge tool, a colour picker, and a handful of smaller improvements.
@@ -19,11 +21,15 @@ I mentioned in the last issue that I was working on a new tool, and it turned ou
 
 {% include embed-browsershots.html url="https://photoedittools.com/" %}
 
+This is very much in the same spirit. Simple tools, combined in flexible ways.
+
 The tool I recently completed lets you edit images using a stack of filters. I had the idea for this a couple of years ago, and it’s actually the reason I bought the domain. I just hadn’t found the right approach to building it until now.
 
 After buying the domain I built a series of smaller tools for specific tasks, [resizing](https://photoedittools.com/bulk-photo-resizer/), [compressing](https://photoedittools.com/bulk-photo-compressor/), [renaming](https://photoedittools.com/bulk-rename-images/), and so on. But I wanted a single tool that lets you build up a stack of filters and apply them all at once. Something flexible enough for custom setups, but simple enough to just pick up and use.
 
 While building it I realised I could create templates from these filter stacks and preload them to make more focused tools. For example, there’s a [pixel art template](https://photoedittools.com/pixel-art-photo-filter/) that reduces colours and resolution, and another that [gives images a retro TV look](https://photoedittools.com/retro-photo-filter/).
+
+{% include embed-image.html image="/images/updates/2026/photo-edit-tools-example.png" alt="PhotoEditTools Example" %}
 
 I was a bit worried it would end up too complex, but I landed on a simple plugin system. Each filter is its own little module, and you can add, remove, and tweak them as needed.
 
@@ -47,13 +53,13 @@ They used a surprisingly small amount of CGI, relying instead on practical effec
 
 {% include embed-youtube.html video="UxJEmTYlZyk" %}
 
-There’s a rock character in the film that you would imagine is CG, but it turns out it’s actually a puppet. They also built full spaceship sets and used practical effects for a lot of the space scenes. The trailer and behind the scenes footage looks incredible, and I’m looking forward to watching it properly.
+There’s a rock character in the film that you would assume is CG, but it turns out it’s actually a puppet. They also built full spaceship sets and used practical effects for many of the space scenes. The trailer and behind-the-scenes footage look incredible, and I’m looking forward to watching it properly.
 
 {% include embed-youtube.html video="CO6oyFP14rU" %}
 
-These days you often hear filmmakers say they “didn’t use CGI”, which usually just means they’re downplaying the huge teams of artists involved. This doesn't sit well with me. I think a lot of vocal people are very snobby about cgi preferring practical effects,and film studios are leaning into this and using this as a marketing angle even when there's a lot of computer graphics involved.
+These days you often hear filmmakers say they “didn’t use CGI”, which usually just means they’re downplaying the huge teams of artists involved. That never quite sits right with me. There’s sometimes a strange snobbery around CGI, even when it’s doing most of the heavy lifting.
 
-But here it genuinely feels like they pushed for as much as possible to be done for real whilst using some CGI where it's important. I really like that approach. Technology can enhance films, but overuse can make everything feel a bit artificial. I remember watching the *Total Recall* remake and thinking everything looked too smooth and shiny compared to the original, where everything had more texture and grounding because it was done in camera.
+But here it feels more balanced. They’ve pushed for as much as possible to be done physically, while still using CGI where it makes sense. I like that approach. Technology can enhance films, but overuse can make everything feel a bit artificial. I remember watching the *Total Recall* remake and thinking everything looked too smooth compared to the original, where everything had more texture because it was done in camera.
 
 ---
 
@@ -65,9 +71,9 @@ Continuing the behind-the-scenes theme, a couple of issues back I shared [the ne
 
 It used to be paid, but it’s now free to watch. It’s a great look at the creative process, and very much a love letter to traditional animation.
 
-What stood out to me was how much physical work went into it. They used models, practical shots, and real materials alongside the animation. Things like the turning book pages and some of the environmental shots were filmed for real.
+What stood out to me was how much physical work went into it. They used models, practical shots, and real materials alongside traditional animation. Things like the turning book pages and some of the environmental shots were filmed for real.
 
-There’s definitely a trend towards mixing physical and digital work again, and it’s nice to see it done well.
+It’s another nice example of mixing physical and digital techniques rather than picking sides.
 
 [Watch the video](https://www.youtube.com/watch?v=RF2BVo5eetY)
 
@@ -85,7 +91,7 @@ IAMAG is one of those corners of the internet that’s been around for years, qu
 
 What makes it especially interesting right now is their collection of free masterclasses. These are proper, in-depth sessions from working artists, often the same people behind big-name films and games. They focus more on process and decision-making than step-by-step instruction, which makes them well worth a look.
 
-To find the free masterclasses you can go to the link above then next to the seach bar click dropdown that says "All Access Levels" and select "Free Classes Only".
+To find the free ones, open the link above, then use the dropdown next to the search bar and select “Free Classes Only”.
 
 If you like behind-the-scenes content but don’t want full tutorials, you might also like [Befores & Afters](https://beforesandafters.com/). It focuses on visual effects, but there’s a lot of insight into how films and TV shows are made.
 
@@ -95,7 +101,7 @@ If you like behind-the-scenes content but don’t want full tutorials, you might
 
 {% include embed-browsershots.html url="https://gradient.horse/" %}
 
-This is a funny app that lets you draw a horse with separate body and legs and then animates it rnning across a gradient. It's a bit of fun and a nice example of a simple, creative tool that runs in the browser. It's a fun time waster, but also a neat example of how simple ideas can be turned into enjoyable interactive experiences.
+This is a funny little app that lets you draw a horse, then animates it running across a gradient. It’s a bit of fun, but also a nice reminder that simple ideas can still be really engaging.
 
 ---
 
