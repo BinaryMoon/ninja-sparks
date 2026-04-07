@@ -3,11 +3,11 @@ title: Programming and Games
 date: 2025-04-21
 related:
   - Looking Back at 2025
+  - Bulk Photo Tools and Behind the Scenes
   - 3D Art and Videogames
   - Game Making and Movie Magic
   - New Tools, Old Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Small Games and Big Ideas
 keywords:
   - game
   - work

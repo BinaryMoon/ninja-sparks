@@ -6,8 +6,8 @@ related:
   - New Tools, Old Magic
   - Note Taking, and Drawing Skills
   - Creativity in 2025
+  - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
-  - Game Making and Movie Magic
 keywords:
   - game
   - paddington

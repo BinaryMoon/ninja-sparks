@@ -4,10 +4,10 @@ date: 2025-08-11
 related:
   - Looking Back at 2025
   - Creative Tools, Then and Now
+  - Bulk Photo Tools and Behind the Scenes
   - Retro Game Making, and Custom TCGs
   - Creativity in 2025
   - Note Taking, and Drawing Skills
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - make
   - carrd choir creative toys

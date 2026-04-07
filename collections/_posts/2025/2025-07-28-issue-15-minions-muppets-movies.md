@@ -3,11 +3,11 @@ title: Minions, Muppets, and Movie Magic
 date: 2025-07-28
 related:
   - Looking Back at 2025
+  - Bulk Photo Tools and Behind the Scenes
   - A Free Design Tool, a Smart Game, and Moomins
   - Google’s Hidden Game Maker
   - Programming and Games
   - Screens, Paper, and the Games I Love
-  - Paper Toys and Zelda
 keywords:
   - game
   - fish

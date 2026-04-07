@@ -4,10 +4,10 @@ date: 2025-12-15
 related:
   - Creative Tools, Then and Now
   - Screens, Paper, and the Games I Love
+  - Bulk Photo Tools and Behind the Scenes
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Student Animation Showcase
   - A Free Design Tool, a Smart Game, and Moomins
-  - Retro Game Making, and Custom TCGs
 keywords:
   - game
   - watch

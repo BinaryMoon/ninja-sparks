@@ -3,11 +3,11 @@ title: 3D Art and Videogames
 date: 2025-03-24
 related:
   - Looking Back at 2025
+  - Bulk Photo Tools and Behind the Scenes
   - Programming and Games
   - Small Games and Big Ideas
   - 3D Sculpting on Mobile
   - Creativity in 2025
-  - Pixel Art and Animation
 keywords:
   - blender
   - art

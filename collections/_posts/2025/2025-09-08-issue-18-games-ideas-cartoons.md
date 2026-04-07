@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Small Games and Big Ideas
   - New Tools, Old Magic
+  - Bulk Photo Tools and Behind the Scenes
   - 3D Art and Videogames
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Note Taking, and Drawing Skills
 keywords:
   - film
   - game

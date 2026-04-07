@@ -2,12 +2,12 @@
 title: Pixel Art and Animation
 date: 2025-04-07
 related:
+  - Bulk Photo Tools and Behind the Scenes
   - Looking Back at 2025
   - New Tools, Old Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Creative Tools, Then and Now
   - Screens, Paper, and the Games I Love
-  - 3D Sculpting on Mobile
 keywords:
   - animation
   - pixel art

@@ -3,11 +3,11 @@ title: Photo Editing and Cardboard Models
 date: 2025-06-16
 related:
   - Looking Back at 2025
+  - Bulk Photo Tools and Behind the Scenes
   - Programming and Games
   - Retro Game Making, and Custom TCGs
   - 3D Sculpting on Mobile
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Paper Toys and Zelda
 keywords:
   - game
   - photo editing cardboard model

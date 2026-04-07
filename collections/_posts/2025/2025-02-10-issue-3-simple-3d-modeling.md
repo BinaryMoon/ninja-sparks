@@ -4,9 +4,9 @@ related:
   - Game Making and Movie Magic
   - Creativity in 2025
   - Retro Game Making, and Custom TCGs
+  - Bulk Photo Tools and Behind the Scenes
   - Looking Back at 2025
   - 3D Art and Videogames
-  - Programming and Games
 keywords:
   - lego
   - puzzle box

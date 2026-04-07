@@ -3,11 +3,11 @@ title: A Game Update, a Drawing Tool, and PicoCAD 2
 date: 2026-03-09
 related:
   - Looking Back at 2025
+  - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
   - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
   - Retro Game Making, and Custom TCGs
   - Screens, Paper, and the Games I Love
-  - New Tools, Old Magic
 keywords:
   - drawing
   - game update drawing tool

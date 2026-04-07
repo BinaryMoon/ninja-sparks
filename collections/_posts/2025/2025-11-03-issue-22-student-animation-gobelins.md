@@ -6,8 +6,8 @@ related:
   - Creative Tools, Then and Now
   - Blocks, Boredom, and Big Cities
   - New Tools, Old Magic
+  - Bulk Photo Tools and Behind the Scenes
   - Game Making and Movie Magic
-  - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
 keywords:
   - animation
   - watch youtube

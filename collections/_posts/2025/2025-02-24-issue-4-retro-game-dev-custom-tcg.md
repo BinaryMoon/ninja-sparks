@@ -7,7 +7,7 @@ related:
   - Game Making and Movie Magic
   - Small Games and Big Ideas
   - Creativity in 2025
-  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Bulk Photo Tools and Behind the Scenes
 keywords:
   - game
   - pico

@@ -5,9 +5,9 @@ related:
   - Driving Nowhere (on purpose)
   - Looking Back at 2025
   - Creativity in 2025
+  - Bulk Photo Tools and Behind the Scenes
   - New Tools, Old Magic
   - 3D Art and Videogames
-  - Creative Tools, Then and Now
 keywords:
   - lego
   - papercraft tool lego experiment

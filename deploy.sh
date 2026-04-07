@@ -6,7 +6,7 @@
 # SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # cd "$SCRIPT_DIR"
 
-# curl http://localhost/lunary/sites/wpbriefs/related-posts.php
+curl http://localhost/lunary/sites/ninja-sparks/related-posts.php
 # curl http://localhost/lunary/sites/wpbriefs/add-tags.php
 
 

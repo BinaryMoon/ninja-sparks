@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - 3D Art and Videogames
+  - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
   - Google’s Hidden Game Maker
-  - Note Taking, and Drawing Skills
 keywords:
   - drawing
   - year

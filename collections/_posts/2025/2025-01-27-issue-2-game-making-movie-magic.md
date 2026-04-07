@@ -3,10 +3,10 @@ title: Game Making and Movie Magic
 related:
   - Looking Back at 2025
   - Creativity in 2025
+  - Bulk Photo Tools and Behind the Scenes
   - Retro Game Making, and Custom TCGs
   - Small Games and Big Ideas
   - Creative Tools, Then and Now
-  - Programming and Games
 keywords:
   - game
   - game making movie magic

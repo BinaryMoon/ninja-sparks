@@ -3,11 +3,11 @@ title: Creative Tools, Then and Now
 date: 2026-02-09
 related:
   - Looking Back at 2025
+  - Bulk Photo Tools and Behind the Scenes
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Retro Game Making, and Custom TCGs
   - A Free Design Tool, a Smart Game, and Moomins
   - New Tools, Old Magic
-  - Carrd, Choirs, and Creative Toys
 keywords:
   - tool
   - creative tool

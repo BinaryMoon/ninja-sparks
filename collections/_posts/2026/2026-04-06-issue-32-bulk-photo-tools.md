@@ -1,11 +1,21 @@
 ---
 title: Bulk Photo Tools and Behind the Scenes
 date: 2026-04-06
+related:
+  - Looking Back at 2025
+  - Creative Tools, Then and Now
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - New Tools, Old Magic
+  - Pixel Art and Animation
+  - Note Taking, and Drawing Skills
+keywords:
+  - tool
+  - make
+  - something
+  - bulk photo tool behind
+  - photo tool behind scene
 ---
-
-I hope you had a nice weekend. I learnt this week that big chocolate eggs aren’t really a thing in the US, which explains all the egg decorating videos.
-
-So we spent Friday making our own. We bought some moulds and chocolate, melted it down, and poured it in with our own fillings. It was a lot of fun, and slightly healthier than shop-bought eggs since we could use better quality chocolate. I filled mine with cornflakes and peanut butter, which was excellent.
+I hope you had a nice weekend. Over Easter we decided to make our own large, hollow chocolate eggs. We bought some moulds and chocolate, melted it down, and poured it in with our own fillings. It was a lot of fun, and slightly "healthier" than shop-bought eggs since we could use better quality chocolate. I filled mine with cornflakes and peanut butter, which turned out excellent.
 
 There’s something quite nice about making things from scratch, even when it’s a bit messy. That mindset has carried over into what I’ve been working on this week. It’s messy, but that’s half the fun.
 
@@ -67,7 +77,7 @@ But here it feels more balanced. They’ve pushed for as much as possible to be 
 
 {% include embed-youtube.html video="RF2BVo5eetY" %}
 
-Continuing the behind-the-scenes theme, a couple of issues back I shared [the new Gorillaz video]({% link _posts/2026/2026-03-09-issue-30-game-update-picocad-2.md %}) and mentioned there was a making-of.
+Continuing the behind-the-scenes theme, a couple of issues back I shared [the new Gorillaz video](https://ninjasparks.com{% link _posts/2026/2026-03-09-issue-30-game-update-picocad-2.md %}) and mentioned there was a making-of.
 
 It used to be paid, but it’s now free to watch. It’s a great look at the creative process, and very much a love letter to traditional animation.
 
@@ -109,7 +119,7 @@ This is a funny little app that lets you draw a horse, then animates it running 
 
 ## Currently...
 
-I’ve just started watching *For All Mankind* on Apple TV+. It’s an alternate history where the Soviet Union wins the space race, and explores how that changes everything. I’m only a couple of episodes in, but the premise is great and it looks fantastic.
+I’ve just started watching [For All Mankind](https://www.imdb.com/title/tt7772588/?ref_=fn_t_1) on Apple TV+. It’s an alternate history where the Soviet Union wins the space race, and explores how that changes everything. I’m only a couple of episodes in, but the premise is great and it looks fantastic.
 
 That said, I do wish the episodes were shorter. I miss when “long” episodes were about 40 minutes. It’s much easier to fit into a day. On the flip side, I do like shorter series overall, they tend to stay focused and avoid filler.
 

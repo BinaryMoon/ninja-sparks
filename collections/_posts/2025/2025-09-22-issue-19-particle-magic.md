@@ -7,7 +7,7 @@ related:
   - Screens, Paper, and the Games I Love
   - Creative Tools, Then and Now
   - Creativity in 2025
-  - Blocks, Boredom, and Big Cities
+  - Bulk Photo Tools and Behind the Scenes
 keywords:
   - particle flow field
   - particle flow

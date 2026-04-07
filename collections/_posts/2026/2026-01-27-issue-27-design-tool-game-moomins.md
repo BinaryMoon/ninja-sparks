@@ -3,11 +3,11 @@ title: A Free Design Tool, a Smart Game, and Moomins
 date: 2026-01-27
 related:
   - Looking Back at 2025
+  - Bulk Photo Tools and Behind the Scenes
   - Screens, Paper, and the Games I Love
   - Creative Tools, Then and Now
   - New Tools, Old Magic
   - 3D Art and Videogames
-  - Minions, Muppets, and Movie Magic
 keywords:
   - game
   - design
