@@ -4,16 +4,16 @@ date: 2026-04-20
 related:
   - Looking Back at 2025
   - Screens, Paper, and the Games I Love
-  - Game Making and Movie Magic
   - Small games, big ideas, and classic cartoons
-  - Retro Game Making, and Custom TCGs
+  - Game Making and Movie Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Retro Game Making, and Custom TCGs
 keywords:
   - game
   - london
-  - camera
   - neighbour totoro
-  - creative week london
+  - camera
+  - totoro
 ---
 Hope you're doing well. I recently got back from a trip to London. I'm originally from South East London but now live in the countryside, so it's always nice to go back, see the city, and catch up with family.
 
@@ -55,13 +55,15 @@ I've posted some of my pictures below.
 
 ## My Neighbour Totoro
 
-For me, one of the highlights of the trip was getting to see My Neighbour Totoro in the West End. I have been a huge fan of Studio Ghibli for a long time, and I have seen many of their films multiple times, but I'd never seen one live on stage. It was a really fun experience and the show was magical. The Totoro puppets were amazing, the set design fantastic, and it was surprisingly funny.
+For me, one of the highlights of the trip was getting to see [My Neighbour Totoro](https://totoroshow.com/) in the West End. I have been a huge fan of [Studio Ghibli](https://www.ghibli.jp/) for a long time, and I have seen many of their films multiple times, but I'd never seen one live on stage. It was a really fun experience and the show was magical. The Totoro puppets were amazing, the set design fantastic, and it was surprisingly funny.
 
-It turns out the puppets were made by the Jim Henson Company, which I thought was awesome. If you get a chance to see it, I highly recommend it.
+It turns out the puppets were made by the Jim Henson Company, which I thought was awesome. The official [Totoro website](https://totoroshow.com/gallery/) has a lovely gallery of photos both from the show and behind the scenes.
 
-{% include embed-youtube.html video="1PsXaOu1_b0" %}
+If you get a chance to see My Neighbour Totoro, I highly recommend it.
 
-[Watch the video](https://www.youtube.com/watch?v=1PsXaOu1_b0)
+{% include embed-youtube.html video="MdgJeE4rgSE" %}
+
+[Watch the video](https://www.youtube.com/watch?v=MdgJeE4rgSE)
 
 ---
 
@@ -88,6 +90,8 @@ Below are a few of the dozens of photos I took of the exhibition. If you get a c
 {% include embed-image.html image="/images/updates/2026/aardman-00005.jpeg" alt="Wallace and Gromit's garden set" %}
 {% include embed-image.html image="/images/updates/2026/aardman-00006.jpeg" alt="Different face shapes for making a character talk" %}
 
+<!-- INCLUDE SHARE -->
+
 ---
 
 ## Currently...
@@ -96,6 +100,6 @@ I'm mostly working on a [game jam game](https://itch.io/jam/gamedevjs-2026) at t
 
 I have the core game working, but since I was on holiday for a week of the jam I only have six days to finish everything, and I've already spent about three hours this morning looking up My Neighbour Totoro and Aardman.
 
-Below is the first screenshot of the game. By the next newsletter it will be finished and I will hopefully have gotten the most votes 🤭 and become an internationally famous game developer. Or more likely, there will be a finished game you can play and I'll have something new on [BeepMini.com]().
+Below is the first screenshot of the game. By the next newsletter it will be finished and I will hopefully have gotten the most votes 🤭 and become an internationally famous game developer. Or more likely, there will be a finished game you can play and I'll have something new on [BeepMini.com](https://beepmini.com).
 
 {% include embed-image.html image="/images/updates/2026/code-machine-00001.png" alt="A screenshot of the game I'm making for the gamedev.js jam" %}

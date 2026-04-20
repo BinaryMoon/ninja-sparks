@@ -7,7 +7,7 @@ related:
   - New Tools, Old Magic
   - Bulk Photo Tools and Behind the Scenes
   - 3D Art and Videogames
-  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - A creative week in London
 keywords:
   - film
   - game
