@@ -7,8 +7,8 @@ related:
   - Carrd
   - Brush Ninja
   - Wareware
+  - Pixel Cam
   - Code.org
-  - PicoCAD
 keywords:
   - photo edit tool
   - tool

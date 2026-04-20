@@ -6,10 +6,10 @@ website: https://pixwlk.itch.io/petaporon
 related:
   - Aseprite
   - PicoCAD
+  - Pixel Cam
   - GB Studio
   - Swap Create
   - Castle
-  - Brush Ninja
 keywords:
   - petaporon
   - create
