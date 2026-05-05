@@ -5,9 +5,9 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Looking Back at 2025
   - New Tools, Old Magic
+  - Star Wars, side projects, and strange ideas
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Creative Tools, Then and Now
-  - Screens, Paper, and the Games I Love
 keywords:
   - animation
   - pixel art

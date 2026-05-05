@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Creative Tools, Then and Now
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Star Wars, side projects, and strange ideas
   - New Tools, Old Magic
   - Pixel Art and Animation
-  - Note Taking, and Drawing Skills
 keywords:
   - tool
   - make

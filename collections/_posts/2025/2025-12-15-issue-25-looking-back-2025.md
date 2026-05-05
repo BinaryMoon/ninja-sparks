@@ -5,9 +5,9 @@ related:
   - Creative Tools, Then and Now
   - Screens, Paper, and the Games I Love
   - Bulk Photo Tools and Behind the Scenes
+  - Star Wars, side projects, and strange ideas
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Student Animation Showcase
-  - A Free Design Tool, a Smart Game, and Moomins
 keywords:
   - game
   - watch

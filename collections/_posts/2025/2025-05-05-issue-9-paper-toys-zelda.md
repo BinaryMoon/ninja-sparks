@@ -4,10 +4,10 @@ date: 2025-05-05
 related:
   - Looking Back at 2025
   - Screens, Paper, and the Games I Love
+  - Star Wars, side projects, and strange ideas
   - Bulk Photo Tools and Behind the Scenes
   - 3D Art and Videogames
   - Blocks, Boredom, and Big Cities
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - toys
   - game
