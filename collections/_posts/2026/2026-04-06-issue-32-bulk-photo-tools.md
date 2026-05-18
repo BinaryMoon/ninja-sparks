@@ -6,8 +6,8 @@ related:
   - Creative Tools, Then and Now
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Star Wars, side projects, and strange ideas
+  - Game Boy Music and Stop Motion Magic
   - New Tools, Old Magic
-  - Pixel Art and Animation
 keywords:
   - tool
   - make

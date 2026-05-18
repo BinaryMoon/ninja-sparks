@@ -5,10 +5,10 @@ website: https://gladdendesign.com
 related:
   - GB Studio
   - Google Game Maker
+  - Gameboy Studio Music
   - Ninja Puzzles
   - Wareware
   - Aseprite
-  - 'Lunacy - Icons8'
 keywords:
   - gladden design
   - paper apps

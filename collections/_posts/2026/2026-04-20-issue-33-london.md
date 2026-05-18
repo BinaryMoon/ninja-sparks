@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Screens, Paper, and the Games I Love
   - Small games, big ideas, and classic cartoons
+  - Game Boy Music and Stop Motion Magic
   - Game Making and Movie Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Retro Game Making, and Custom TCGs
 keywords:
   - game
   - london

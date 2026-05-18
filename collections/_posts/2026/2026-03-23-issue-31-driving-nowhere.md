@@ -6,8 +6,8 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
   - Retro Game Making, and Custom TCGs
+  - Game Boy Music and Stop Motion Magic
   - Carrd, Choirs, and Creative Toys
-  - Papercraft Tools and Lego Experiments
 keywords:
   - colour
   - driving nowhere purpose

@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Game Boy Music and Stop Motion Magic
   - Retro Game Making, and Custom TCGs
   - A Free Design Tool, a Smart Game, and Moomins
-  - New Tools, Old Magic
 keywords:
   - tool
   - creative tool

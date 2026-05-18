@@ -3,12 +3,12 @@ title: Code.org
 description: A fun and educational platform for kids to learn coding through games and interactive lessons.
 website: https://code.org
 related:
+  - Gameboy Studio Music
   - GB Studio
   - 'Lunacy - Icons8'
   - Google Game Maker
   - Aseprite
   - Brush Ninja
-  - Gladden Design
 keywords:
   - codeorg
   - lesson

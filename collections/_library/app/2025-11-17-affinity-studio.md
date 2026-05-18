@@ -5,11 +5,11 @@ website: https://www.affinity.studio/
 description: Affinity Studio is an all-in-one creative app from Serif that combines bitmap editing, vector design and desktop publishing in a single tool.
 related:
   - 'Lunacy - Icons8'
+  - Gameboy Studio Music
   - Swap Create
   - Photo Edit Tools
   - Gladden Design
   - PicoCAD
-  - Castle
 keywords:
   - affinity studio
   - affinity

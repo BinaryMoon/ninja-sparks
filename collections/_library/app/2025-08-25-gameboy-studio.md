@@ -3,12 +3,12 @@ title: GB Studio
 description: A free, open-source game maker for creating real Game Boy games with optional coding.
 website: https://www.gbstudio.dev/
 related:
+  - Gameboy Studio Music
   - Google Game Maker
   - Pico-8
   - Code.org
   - PicoCAD
   - Aseprite
-  - Wareware
 keywords:
   - game
   - studio

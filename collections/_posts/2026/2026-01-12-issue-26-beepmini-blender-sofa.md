@@ -6,8 +6,8 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - 3D Art and Videogames
   - Bulk Photo Tools and Behind the Scenes
+  - Game Boy Music and Stop Motion Magic
   - Creative Tools, Then and Now
-  - Google’s Hidden Game Maker
 keywords:
   - drawing
   - year

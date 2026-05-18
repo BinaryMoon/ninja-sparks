@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
   - Screens, Paper, and the Games I Love
+  - Game Boy Music and Stop Motion Magic
   - Creative Tools, Then and Now
   - A Free Design Tool, a Smart Game, and Moomins
-  - Retro Game Making, and Custom TCGs
 keywords:
   - star wars
   - star wars film

@@ -8,7 +8,7 @@ related:
   - Brush Ninja
   - Wareware
   - Pixel Cam
-  - Code.org
+  - Gameboy Studio Music
 keywords:
   - photo edit tool
   - tool
