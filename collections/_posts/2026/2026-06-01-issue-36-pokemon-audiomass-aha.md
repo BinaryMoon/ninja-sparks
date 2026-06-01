@@ -1,8 +1,20 @@
 ---
 title: The Week Everything Clicked
 date: 2026-06-01
+related:
+  - Looking Back at 2025
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Bulk Photo Tools and Behind the Scenes
+  - Retro Game Making, and Custom TCGs
+  - Creative Tools, Then and Now
+  - Screens, Paper, and the Games I Love
+keywords:
+  - game
+  - brain create aha moment
+  - week
+  - year
+  - social media
 ---
-
 I feel like I say this every other issue, but I've spent the last week on half term holiday, which means my son has been off school and I've been doing Pokemon-related things with him. We've been playing card games, went to a [National Trust Pokemon trail](https://www.nationaltrust.org.uk/visit/whats-on/pokemon), played Pokemon Go, and visited card shops. Pretty much anything you can think of related to those collectible cards, and we've done it. It's been fun, exhausting, and I now know far more about Pokemon than I ever imagined I would.
 
 Besides that, I've been working on [Brush Ninja](https://brush.ninja/), mostly fixing bugs and improving speed and stability. I've also been working on [the galleries](https://brush.ninja/gallery/) for the website, especially the [emoji art](https://brush.ninja/gallery/emoji-art/) and [Code Ninja](https://brush.ninja/gallery/2d-code/) galleries.
@@ -43,10 +55,15 @@ Here’s a handful of links I found intriguing recently:
 
 ### [How the Mina the Hollower Art Was Made](https://www.yachtclubgames.com/blog/the-art-of-the-game/)
 
-Mina the Hollower is a new game from Yacht Club Games, the makers of Shovel Knight. It's a 2D action adventure game with a Game Boy Color-inspired aesthetic. This article looks at some of the technical considerations and how things differ from a real Game Boy game. As a game developer, I found the technical details fascinating.
+{% include embed-image.html image="/images/updates/2026/minascreenshot_01_steam.webp" alt="Mina the Hollower Art" %}
 
+[Mina the Hollower](https://www.yachtclubgames.com/games/mina-the-hollower) is a new game from Yacht Club Games, the makers of Shovel Knight. It's a 2D action adventure game with a Game Boy Color-inspired aesthetic. This article looks at some of the technical considerations and how things differ from a real Game Boy game. As a game developer, I found the technical details fascinating. They also have a playlist of [technical videos](https://www.youtube.com/playlist?list=PLdjegMk1JYf7yp4CcPDGB5zUxklMwX_6Z) about the game on YouTube - these cover all sorts of game design decisions they had to make.
+
+<!-- INCLUDE SHARE -->
 
 ### [How Your Brain Creates Aha Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
+
+{% include embed-browsershots.html url="https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/" %}
 
 This is a really interesting article about how our brains create "Aha!" moments, and why they are so memorable. A new brain scan study suggests they are more than just a feeling. When people recognised hidden images, their brains lit up in ways linked to emotion, pattern recognition, and memory.
 
@@ -55,6 +72,8 @@ Even more interestingly, ideas that arrived with a flash of insight were far mor
 
 ### [Papercraft Spaceship](https://www.artstation.com/artwork/gRE4Am)
 
+{% include embed-image.html image="/images/updates/2026/space-gooose.webp" alt="Papercraft Spaceship" %}
+
 I love papercrafts, and I've made a few myself. Back in Issue 9 I mentioned [Fold Up Toys]({% link _library/website/2025-05-05-fold-up-toys.md %}), one of my favourite papercraft sites, and in Issue 10 I mentioned the tools [Unfolder]({% link _library/app/2025-05-19-unfolder.md %}) and [Pepakura]({% link _library/app/2025-05-19-pepakura.md %}), which are used to create papercrafts.
 
 This spaceship, however, I found on social media and it's lovely. The overall shape is relatively simple, but the hand-painted details really make it stand out. The tiny cat pilot in the cockpit is a particularly nice touch.
@@ -62,12 +81,14 @@ This spaceship, however, I found on social media and it's lovely. The overall sh
 
 ### [Scifi Corridor Archive](https://scificorridorarchive.com/)
 
+{% include embed-browsershots.html url="https://scificorridorarchive.com/" %}
 
-It's also a good example of a niche archive that has clearly been lovingly curated and maintained.
 This is a lovely archive of sci-fi corridor designs, mostly from sci-fi and anime movies, though there's all sorts here. If you're an artist looking for inspiration, or just a fan of sci-fi design, it's a great place to explore.
 
 
 ### [David Attenborough’s Life’s Work, Searchable](https://attenborough-100.vercel.app/)
+
+{% include embed-browsershots.html url="https://attenborough-100.vercel.app/search?q=orangutan" %}
 
 David Attenborough is an English national treasure, and he's recently turned 100.
 
