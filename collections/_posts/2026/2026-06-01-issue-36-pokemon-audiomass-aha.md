@@ -3,33 +3,37 @@ title: The Week Everything Clicked
 date: 2026-06-01
 ---
 
-I feel like I say this every other issue, but I've spent the last week on half term holiday, which means my son has been off school and I've been doing things related to Pokemon with him. We've been playing games, went to a [National Trust Pokemon trail](https://www.nationaltrust.org.uk/visit/whats-on/pokemon), played Pokemon Go, and been to card shops. Almost anything you can think of related to those collectible cards, and we've done it. It's been fun, but it's also hard work, and I now know far more about Pokemon than I ever imagined I would.
+I feel like I say this every other issue, but I've spent the last week on half term holiday, which means my son has been off school and I've been doing Pokemon-related things with him. We've been playing card games, went to a [National Trust Pokemon trail](https://www.nationaltrust.org.uk/visit/whats-on/pokemon), played Pokemon Go, and visited card shops. Pretty much anything you can think of related to those collectible cards, and we've done it. It's been fun, exhausting, and I now know far more about Pokemon than I ever imagined I would.
 
-Besides that, I've also been working on [Brush Ninja](https://brush.ninja/), almost entirely fixing bugs and trying to improve speed and stability. I've also been working on [the galleries](https://brush.ninja/gallery/) for the website. In particular, the [emoji art](https://brush.ninja/gallery/emoji-art/) and [Code Ninja](https://brush.ninja/gallery/2d-code/) galleries. It's not public yet, but I am trying to make everything in the gallery editable, with the exception of the animations unfortunately, so that you can click to view an artwork and then see the code or art and edit it to make it your own.
+Besides that, I've been working on [Brush Ninja](https://brush.ninja/), mostly fixing bugs and improving speed and stability. I've also been working on [the galleries](https://brush.ninja/gallery/) for the website, especially the [emoji art](https://brush.ninja/gallery/emoji-art/) and [Code Ninja](https://brush.ninja/gallery/2d-code/) galleries.
 
-For [Code Ninja](https://brush.ninja/create/2d-code/) in particular, I think this will be a really fun way to learn how to code. You can see the code for an artwork and then edit it.
+It's not public yet, but I'm trying to make almost everything in the gallery editable, apart from animations unfortunately. The idea is that you can open an artwork, see how it was made, and remix it into something of your own.
 
-For [Brush Ninja animation maker](https://brush.ninja/create/animation-maker/), unfortunately I can't do this since I don't have the original source files for the animations, but I am now planning some new features. The big thing is a feature I've wanted to add for a long time: the ability to add different background images on different frames. Currently, you can only have one background image for the whole animation. With the new update, you will be able to customise the background per frame. I've wanted to add this for literally years, but I haven't been able to work out how to implement it. This week I thought of a different approach and the solution finally clicked. Incredibly satisfying. I've started work and initial tests are promising, and I hope to have a first version ready in a week or two.
+For [Code Ninja](https://brush.ninja/create/2d-code/) in particular, I think this could become a really fun way to learn programming. You can open a piece of art, see the code behind it, and experiment with it directly.
+
+For [Brush Ninja animation maker](https://brush.ninja/create/animation-maker/), I unfortunately can't do the same thing because I don't have the original source files for older animations. However, I am planning some new features. The big one is something I've wanted to add for years: different background images on different frames.
+
+Currently you can only use one background image for an entire animation. With the new update you'll be able to customise backgrounds frame by frame. I've wanted this feature for literally years, but I could never work out a clean way to implement it.
+
+Then this week the solution suddenly clicked.
+
+That moment when a difficult interface problem finally becomes clear after sitting in your head for years is one of the most satisfying parts of making things. I've already started building it, initial tests are promising, and I hope to have a first version ready in a week or two.
 
 ---
 
-## AudioMass
+[Audiomass][audiomass-link] is a free online audio editor. It's a bit like Audacity, but it runs in your browser and lets you edit multi-layer audio files.
 
-[Audiomass][audiomass-link] is a free online audio editor. It's a bit like Audacity, but it runs in your browser and allows you to edit multi-layer audio files.
-
-I'm not a musician, but I have had to use these types of apps quite a few times over the years, and I am amazed that there is now a free online version that does exactly what I need.
+I'm not a musician, but I've needed tools like this quite a few times over the years, and I'm amazed there is now a free browser-based version that does exactly what I need.
 
 {% include embed-image.html image="/images/updates/2026/audiomass.png" alt="AudioMass multitrack mixer interface" %}
 
-I've not done much with it yet, but I've experimented a little and it seems to work really well. It's very new, has only been out for a few months, and it's open source. The AudioMass [code is on GitHub](https://github.com/pkalogiros/audiomass), so you can see how it is being developed.
+I've only experimented with AudioMass a little so far, but it already seems really solid. It's also very new, only a few months old, and fully open source. The AudioMass [code is on GitHub](https://github.com/pkalogiros/audiomass), so you can even see how it's being developed.
 
-I like that they include a sample file for you to test with. It's a good way to get started and see what the capabilities of the app are. If you go to the View menu, then Multitrack Mixer, you can also load a sample file there that shows lots of different tracks combined to make a song, as seen in the screenshot above.
+I also like that it includes sample projects to explore. If you open the View menu and choose Multitrack Mixer, you can load a demo song with multiple tracks, like the one shown above. It's a clever way to show off what the app can do without needing to record anything yourself first.
 
-Either way, it's a great example of how much can be done with Javascript and I hope it continues to be developed and improved. I will definitely be using it in the future when I need to edit audio files. I need to add some more sounds to [Splatter Balls](https://brush.ninja/play/splatter-balls/), so I will probably be using it for that.
+More than anything though, I think it's a great example of how powerful browser-based creative tools have become. Ten years ago this sort of thing would have felt impossible in a web browser. Now it just quietly works.
 
-**[Try AudioMass][audiomass-link]**
-
-[audiomass-link]: {% link _library/website/2026-06-01-audiomass.md %}
+I'll almost certainly use it in the future when I need to edit audio. In fact, I probably need it already for adding new sounds to [Splatter Balls](https://brush.ninja/play/splatter-balls/).
 
 ---
 
@@ -39,25 +43,35 @@ Here’s a handful of links I found intriguing recently:
 
 ### [How the Mina the Hollower Art Was Made](https://www.yachtclubgames.com/blog/the-art-of-the-game/)
 
-Mina the Hollower is a new game from Yacht Club Games, the makers of Shovel Knight. It's a 2D action adventure game with a Game Boy Color-inspired aesthetic. This article looks at some of the technical considerations and how things differ between this and a classic Game Boy game. As a game developer, I found this look at some of the technical aspects fascinating.
+Mina the Hollower is a new game from Yacht Club Games, the makers of Shovel Knight. It's a 2D action adventure game with a Game Boy Color-inspired aesthetic. This article looks at some of the technical considerations and how things differ from a real Game Boy game. As a game developer, I found the technical details fascinating.
+
 
 ### [How Your Brain Creates Aha Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 
-This is a really interesting article about how our brains create "Aha!" moments, and why they are so memorable. A new brain scan study suggests they are more than just a feeling. When people recognised hidden images, their brains lit up in ways linked to emotion, pattern recognition, and memory. Even more interestingly, the ideas that arrived with a flash of insight were far more likely to stick in people’s memories days later. It turns out your brain really does treat sudden realisations differently, which perhaps explains why solving a puzzle, spotting a hidden pattern, or finally understanding something can feel weirdly satisfying.
+This is a really interesting article about how our brains create "Aha!" moments, and why they are so memorable. A new brain scan study suggests they are more than just a feeling. When people recognised hidden images, their brains lit up in ways linked to emotion, pattern recognition, and memory.
+
+Even more interestingly, ideas that arrived with a flash of insight were far more likely to stick in people’s memories days later. It turns out your brain really does treat sudden realisations differently, which perhaps explains why solving a puzzle or finally understanding something can feel weirdly satisfying.
+
 
 ### [Papercraft Spaceship](https://www.artstation.com/artwork/gRE4Am)
 
-I love papercrafts, and I've made a few myself. Back in Issue 9 I mentioned [Fold Up Toys]({% link _library/website/2025-05-05-fold-up-toys.md %}), one of my favourite papercraft sites, and in Issue 10 I mentioned the tools [Unfolder]({% link _library/website/2025-05-19-unfolder.md %}) and [Pepakura]({% link _library/website/2025-05-19-pepakura.md %}), which are used to create papercrafts. This spaceship, however, I found on social media and it's lovely. The shape is relatively simple, but the hand-painted details really make it stand out, with the little cat pilot in the cockpit being a nice touch.
+I love papercrafts, and I've made a few myself. Back in Issue 9 I mentioned [Fold Up Toys]({% link _library/website/2025-05-05-fold-up-toys.md %}), one of my favourite papercraft sites, and in Issue 10 I mentioned the tools [Unfolder]({% link _library/app/2025-05-19-unfolder.md %}) and [Pepakura]({% link _library/app/2025-05-19-pepakura.md %}), which are used to create papercrafts.
+
+This spaceship, however, I found on social media and it's lovely. The overall shape is relatively simple, but the hand-painted details really make it stand out. The tiny cat pilot in the cockpit is a particularly nice touch.
+
 
 ### [Scifi Corridor Archive](https://scificorridorarchive.com/)
 
-This is a lovely archive of sci-fi corridor designs. Mostly from sci-fi and anime movies, but there's all sorts here. If you're an artist looking for inspiration, or just a fan of sci-fi design, this is a great place to explore. It's also a good example of a niche archive that has been lovingly curated and maintained.
+
+It's also a good example of a niche archive that has clearly been lovingly curated and maintained.
+This is a lovely archive of sci-fi corridor designs, mostly from sci-fi and anime movies, though there's all sorts here. If you're an artist looking for inspiration, or just a fan of sci-fi design, it's a great place to explore.
+
 
 ### [David Attenborough’s Life’s Work, Searchable](https://attenborough-100.vercel.app/)
 
-David Attenborough is an English national treasure, and he's recently turned 100!
+David Attenborough is an English national treasure, and he's recently turned 100.
 
-This site is a searchable archive of his life's work, including all of his documentaries and TV shows. It's a great way to explore his work and find something new to watch. It covers nearly 5,000 episodes of television across 90 series and over 70 years of work. It's a great way to explore his work and impact on the animal kingdom, and nature documentaries in general.
+This site is a searchable archive of his life's work, including documentaries and TV shows spanning more than 70 years. It covers nearly 5,000 episodes across 90 series, making it a fascinating way to explore both his work and the history of nature documentaries in general.
 
 As an aside, here's a photo of David Attenborough showing a young King Charles III, then Prince Charles, and his sister Princess Anne a cockatoo.
 
@@ -67,8 +81,18 @@ As an aside, here's a photo of David Attenborough showing a young King Charles I
 
 ## Currently...
 
-I've been reading some graphic novels recently. Last week I read books 2 and 3 of the [Wynd series](https://bookshop.org/p/books/wynd-book-one-the-flight-of-the-prince-james-tynion-iv/12221eebb753a705) by James Tynion IV and Michael Dialynas, which are really good. I know there's a 4th book and I assume there will be a few more. I love how these books are like a cartoon, and how so much can happen so quickly. Modern comics are so much better than the types I read as a child.
+I've been reading some graphic novels recently. Last week I read books 2 and 3 of the [Wynd series](https://bookshop.org/p/books/wynd-book-one-the-flight-of-the-prince-james-tynion-iv/12221eebb753a705) by James Tynion IV and Michael Dialynas, which are really good. I know there's a fourth book and I assume there will be a few more.
 
-I am now reading [Nimona](https://bookshop.org/p/books/nimona-a-netflix-film-a-graphic-novel-nd-stevenson/83bd0cbaf0b29088) by ND Stevenson, which is also really good. I've seen the Netflix movie, which is beautiful (and [nearly wasn't made](https://www.cinemablend.com/streaming-news/story-behind-nimona-canceled-becoming-oscar-nominee)), so I knew what to expect, but the book is also really good and quite different from the movie. I believe the book started life as a webcomic and the initial chapters at least have a more raw style than the later chapters. They feel more like someone drawing for fun, and that's a big part of the charm. ND Stevenson has also written a novel called [Scarlet Morning](https://bookshop.org/p/books/scarlet-morning-book-1-scarlet-morning-nd-stevenson/12b15f34ccaf34d8), which I also have on my to-read pile.
+I love how these books feel almost like a cartoon, and how much can happen so quickly. Modern comics are so much better than the types I read as a child.
 
-My wife and I have also decided to have a competition to see who can use their phones the least. Our son has said he will make us a prize, and we're going to use the built-in phone usage tracking to try to reduce the amount we stare at screens. Hopefully that means I will be able to spend more time with my son and work through my backlog of books, and less time on social media and other distractions. However, social media is how I find the content for this newsletter, so I will have to see how it goes. Either way, using the phone less can only be a good thing, and I hope it will help me focus on the things that are important to me.
+I'm now reading [Nimona](https://bookshop.org/p/books/nimona-a-netflix-film-a-graphic-novel-nd-stevenson/83bd0cbaf0b29088) by ND Stevenson, which is also really good. I've seen the Netflix movie, which is beautiful (and [nearly wasn't made](https://www.cinemablend.com/streaming-news/story-behind-nimona-canceled-becoming-oscar-nominee)), so I roughly knew what to expect, but the book is quite different.
+
+I believe it started life as a webcomic, and the early chapters have a much rougher and more playful style than the later ones. They feel more like someone drawing for fun, and that's a big part of the charm.
+
+ND Stevenson has also written a novel called [Scarlet Morning](https://bookshop.org/p/books/scarlet-morning-book-1-scarlet-morning-nd-stevenson/12b15f34ccaf34d8), which is also sitting in my to-read pile.
+
+My wife and I have also decided to have a competition to see who can use their phones the least. Our son has said he will make us a prize, and we're using the built-in phone usage tracking to try to reduce the amount we stare at screens.
+
+Hopefully that means more time with my son and more time working through my backlog of books, and less time drifting through social media and other distractions. Although social media is also how I find half the things for this newsletter, so we'll see how successful that turns out to be.
+
+Either way, using my phone less can only be a good thing, and I hope it helps me focus more on the things that actually matter to me.
