@@ -6,8 +6,8 @@ related:
   - Screens, Paper, and the Games I Love
   - Small games, big ideas, and classic cartoons
   - Game Boy Music and Stop Motion Magic
+  - The Week Everything Clicked
   - Game Making and Movie Magic
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - game
   - london

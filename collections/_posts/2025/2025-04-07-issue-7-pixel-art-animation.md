@@ -7,7 +7,7 @@ related:
   - New Tools, Old Magic
   - Star Wars, side projects, and strange ideas
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Creative Tools, Then and Now
+  - The Week Everything Clicked
 keywords:
   - animation
   - pixel art

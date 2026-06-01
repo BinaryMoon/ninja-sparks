@@ -4,10 +4,10 @@ date: 2026-03-09
 related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
+  - The Week Everything Clicked
   - Creative Tools, Then and Now
   - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
   - Retro Game Making, and Custom TCGs
-  - Screens, Paper, and the Games I Love
 keywords:
   - drawing
   - game update drawing tool

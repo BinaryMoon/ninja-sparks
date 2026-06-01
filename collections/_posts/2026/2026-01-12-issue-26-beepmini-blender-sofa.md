@@ -4,10 +4,10 @@ date: 2026-01-12
 related:
   - Looking Back at 2025
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - The Week Everything Clicked
   - 3D Art and Videogames
   - Bulk Photo Tools and Behind the Scenes
   - Game Boy Music and Stop Motion Magic
-  - Creative Tools, Then and Now
 keywords:
   - drawing
   - year

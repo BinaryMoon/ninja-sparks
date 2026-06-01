@@ -7,7 +7,7 @@ related:
   - New Tools, Old Magic
   - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
   - 3D Art and Videogames
-  - Bulk Photo Tools and Behind the Scenes
+  - The Week Everything Clicked
 keywords:
   - game
   - nomad sculpt

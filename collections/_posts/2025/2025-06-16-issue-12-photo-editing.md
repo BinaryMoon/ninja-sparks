@@ -6,8 +6,8 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Programming and Games
   - Retro Game Making, and Custom TCGs
+  - The Week Everything Clicked
   - 3D Sculpting on Mobile
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - game
   - photo editing cardboard model

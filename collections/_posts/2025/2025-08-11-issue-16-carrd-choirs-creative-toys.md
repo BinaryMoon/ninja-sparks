@@ -6,8 +6,8 @@ related:
   - Creative Tools, Then and Now
   - Bulk Photo Tools and Behind the Scenes
   - Retro Game Making, and Custom TCGs
+  - The Week Everything Clicked
   - Creativity in 2025
-  - Note Taking, and Drawing Skills
 keywords:
   - make
   - carrd choir creative toys

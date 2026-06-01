@@ -4,10 +4,10 @@ date: 2026-05-04
 related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
+  - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
   - Game Boy Music and Stop Motion Magic
   - Creative Tools, Then and Now
-  - A Free Design Tool, a Smart Game, and Moomins
 keywords:
   - star wars
   - star wars film

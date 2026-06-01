@@ -4,10 +4,10 @@ date: 2026-02-09
 related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
+  - The Week Everything Clicked
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Game Boy Music and Stop Motion Magic
   - Retro Game Making, and Custom TCGs
-  - A Free Design Tool, a Smart Game, and Moomins
 keywords:
   - tool
   - creative tool

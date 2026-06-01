@@ -6,8 +6,8 @@ related:
   - Looking Back at 2025
   - Creativity in 2025
   - Bulk Photo Tools and Behind the Scenes
+  - The Week Everything Clicked
   - New Tools, Old Magic
-  - 3D Art and Videogames
 keywords:
   - lego
   - papercraft tool lego experiment

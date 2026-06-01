@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
   - 3D Art and Videogames
+  - The Week Everything Clicked
   - Game Making and Movie Magic
   - New Tools, Old Magic
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - game
   - work

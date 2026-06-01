@@ -5,9 +5,9 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Looking Back at 2025
   - Creative Tools, Then and Now
+  - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
   - Retro Game Making, and Custom TCGs
-  - New Tools, Old Magic
 keywords:
   - stop motion
   - game

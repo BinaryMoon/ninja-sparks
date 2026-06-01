@@ -6,8 +6,8 @@ related:
   - Screens, Paper, and the Games I Love
   - Star Wars, side projects, and strange ideas
   - Bulk Photo Tools and Behind the Scenes
+  - The Week Everything Clicked
   - 3D Art and Videogames
-  - Blocks, Boredom, and Big Cities
 keywords:
   - toys
   - game

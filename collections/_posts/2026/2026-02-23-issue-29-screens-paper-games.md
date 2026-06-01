@@ -3,11 +3,11 @@ title: Screens, Paper, and the Games I Love
 date: 2026-02-22
 related:
   - Looking Back at 2025
+  - The Week Everything Clicked
   - Retro Game Making, and Custom TCGs
   - Paper Toys and Zelda
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Game Making and Movie Magic
-  - Small Games and Big Ideas
 keywords:
   - book
   - paper apps

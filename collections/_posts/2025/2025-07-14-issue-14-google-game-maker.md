@@ -4,10 +4,10 @@ date: 2025-07-14
 related:
   - Looking Back at 2025
   - Creativity in 2025
+  - The Week Everything Clicked
   - Game Making and Movie Magic
   - Retro Game Making, and Custom TCGs
   - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
-  - 3D Sculpting on Mobile
 keywords:
   - game
   - game maker

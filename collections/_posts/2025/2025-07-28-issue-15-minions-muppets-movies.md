@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
   - A Free Design Tool, a Smart Game, and Moomins
+  - The Week Everything Clicked
   - Google’s Hidden Game Maker
   - Programming and Games
-  - Screens, Paper, and the Games I Love
 keywords:
   - game
   - fish
