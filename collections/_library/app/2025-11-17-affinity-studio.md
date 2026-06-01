@@ -8,8 +8,8 @@ related:
   - Gameboy Studio Music
   - Swap Create
   - Photo Edit Tools
+  - AudioMass
   - Gladden Design
-  - PicoCAD
 keywords:
   - affinity studio
   - affinity

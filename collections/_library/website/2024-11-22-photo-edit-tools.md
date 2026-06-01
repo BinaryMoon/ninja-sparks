@@ -4,11 +4,11 @@ description: A collection of browser based tools for editing photos. All online,
 website: https://photoedittools.com
 related:
   - 'Lunacy - Icons8'
+  - AudioMass
   - Carrd
   - Brush Ninja
   - Wareware
   - Pixel Cam
-  - Gameboy Studio Music
 keywords:
   - photo edit tool
   - tool

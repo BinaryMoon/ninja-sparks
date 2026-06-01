@@ -4,11 +4,11 @@ date: 2026-05-18
 website: https://music.gbstudio.dev
 related:
   - Aseprite
+  - AudioMass
   - Affinity Studio
   - GB Studio
   - PicoCAD
   - Code.org
-  - 'Lunacy - Icons8'
 keywords:
   - gameboy studio music
   - music

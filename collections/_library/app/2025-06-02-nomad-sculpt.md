@@ -4,11 +4,11 @@ description: An iPad app for 3d sculpting
 website: https://nomadsculpt.com
 related:
   - 'Lunacy - Icons8'
+  - AudioMass
   - Code.org
   - Simplenote
   - Photo Edit Tools
   - Affinity Studio
-  - PicoCAD
 keywords:
   - nomad sculpt
   - nomad
