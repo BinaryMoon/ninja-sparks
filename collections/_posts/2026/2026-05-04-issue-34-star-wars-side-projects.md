@@ -6,8 +6,8 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
+  - Maps, Systems, and Creativity
   - Game Boy Music and Stop Motion Magic
-  - Creative Tools, Then and Now
 keywords:
   - star wars
   - star wars film

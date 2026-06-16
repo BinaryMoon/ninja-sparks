@@ -7,7 +7,7 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Star Wars, side projects, and strange ideas
-  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Maps, Systems, and Creativity
 keywords:
   - game
   - watch

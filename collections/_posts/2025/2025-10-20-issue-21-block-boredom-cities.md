@@ -4,10 +4,10 @@ date: 2025-10-20
 related:
   - Looking Back at 2025
   - The Week Everything Clicked
+  - Maps, Systems, and Creativity
   - Game Making and Movie Magic
   - Creativity in 2025
   - Screens, Paper, and the Games I Love
-  - Retro Game Making, and Custom TCGs
 keywords:
   - game
   - block boredom big city

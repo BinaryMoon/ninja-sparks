@@ -7,7 +7,7 @@ related:
   - Programming and Games
   - Retro Game Making, and Custom TCGs
   - The Week Everything Clicked
-  - 3D Sculpting on Mobile
+  - Maps, Systems, and Creativity
 keywords:
   - game
   - photo editing cardboard model

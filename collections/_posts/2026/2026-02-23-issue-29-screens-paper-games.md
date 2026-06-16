@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - The Week Everything Clicked
   - Retro Game Making, and Custom TCGs
+  - Maps, Systems, and Creativity
   - Paper Toys and Zelda
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Game Making and Movie Magic
 keywords:
   - book
   - paper apps

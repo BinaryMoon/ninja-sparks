@@ -4,10 +4,10 @@ date: 2025-10-06
 related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
+  - Maps, Systems, and Creativity
   - The Week Everything Clicked
   - 3D Art and Videogames
   - Particle Magic and Playful Ideas
-  - Screens, Paper, and the Games I Love
 keywords:
   - tiny glade
   - tiny
