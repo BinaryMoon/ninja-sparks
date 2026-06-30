@@ -7,7 +7,7 @@ related:
   - The Week Everything Clicked
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Game Boy Music and Stop Motion Magic
-  - Retro Game Making, and Custom TCGs
+  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - tool
   - creative tool

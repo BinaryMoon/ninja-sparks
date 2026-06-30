@@ -4,10 +4,10 @@ date: 2026-06-15
 related:
   - Looking Back at 2025
   - Screens, Paper, and the Games I Love
+  - Shoelaces, Rabbits, and More Niche Sites
   - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
   - Blocks, Boredom, and Big Cities
-  - The Week Everything Clicked
 keywords:
   - world
   - time

@@ -6,8 +6,8 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - The Week Everything Clicked
   - 3D Art and Videogames
+  - Shoelaces, Rabbits, and More Niche Sites
   - Bulk Photo Tools and Behind the Scenes
-  - Game Boy Music and Stop Motion Magic
 keywords:
   - drawing
   - year

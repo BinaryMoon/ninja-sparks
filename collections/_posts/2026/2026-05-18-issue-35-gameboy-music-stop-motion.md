@@ -7,7 +7,7 @@ related:
   - Creative Tools, Then and Now
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
-  - Retro Game Making, and Custom TCGs
+  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - stop motion
   - game

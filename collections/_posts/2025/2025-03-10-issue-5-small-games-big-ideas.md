@@ -7,7 +7,7 @@ related:
   - 3D Art and Videogames
   - Screens, Paper, and the Games I Love
   - Retro Game Making, and Custom TCGs
-  - Programming and Games
+  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - game
   - wild robot

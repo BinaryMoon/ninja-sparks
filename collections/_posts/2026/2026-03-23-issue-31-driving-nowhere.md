@@ -7,7 +7,7 @@ related:
   - Creative Tools, Then and Now
   - Retro Game Making, and Custom TCGs
   - Game Boy Music and Stop Motion Magic
-  - Carrd, Choirs, and Creative Toys
+  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - colour
   - driving nowhere purpose

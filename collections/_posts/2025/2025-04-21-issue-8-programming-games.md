@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
   - 3D Art and Videogames
+  - Shoelaces, Rabbits, and More Niche Sites
   - The Week Everything Clicked
   - Game Making and Movie Magic
-  - New Tools, Old Magic
 keywords:
   - game
   - work

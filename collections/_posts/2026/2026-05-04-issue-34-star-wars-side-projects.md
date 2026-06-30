@@ -6,8 +6,8 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
+  - Shoelaces, Rabbits, and More Niche Sites
   - Maps, Systems, and Creativity
-  - Game Boy Music and Stop Motion Magic
 keywords:
   - star wars
   - star wars film

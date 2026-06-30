@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Bulk Photo Tools and Behind the Scenes
+  - Shoelaces, Rabbits, and More Niche Sites
   - Retro Game Making, and Custom TCGs
   - Creative Tools, Then and Now
-  - Screens, Paper, and the Games I Love
 keywords:
   - game
   - brain create aha moment

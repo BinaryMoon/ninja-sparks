@@ -3,11 +3,11 @@ title: Cosy Worlds, Coding Chaos
 date: 2025-10-06
 related:
   - Looking Back at 2025
+  - Shoelaces, Rabbits, and More Niche Sites
   - Bulk Photo Tools and Behind the Scenes
   - Maps, Systems, and Creativity
   - The Week Everything Clicked
   - 3D Art and Videogames
-  - Particle Magic and Playful Ideas
 keywords:
   - tiny glade
   - tiny

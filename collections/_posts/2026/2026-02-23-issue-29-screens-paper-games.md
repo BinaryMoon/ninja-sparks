@@ -4,10 +4,10 @@ date: 2026-02-22
 related:
   - Looking Back at 2025
   - The Week Everything Clicked
+  - Shoelaces, Rabbits, and More Niche Sites
   - Retro Game Making, and Custom TCGs
   - Maps, Systems, and Creativity
   - Paper Toys and Zelda
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - book
   - paper apps

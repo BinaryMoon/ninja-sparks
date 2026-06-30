@@ -3,11 +3,11 @@ title: Student Animation Showcase
 date: 2025-11-03
 related:
   - Looking Back at 2025
+  - Shoelaces, Rabbits, and More Niche Sites
   - Creative Tools, Then and Now
   - Blocks, Boredom, and Big Cities
   - New Tools, Old Magic
   - Bulk Photo Tools and Behind the Scenes
-  - Game Making and Movie Magic
 keywords:
   - animation
   - watch youtube
