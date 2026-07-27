@@ -4,10 +4,10 @@ date: 2025-04-21
 related:
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
+  - Play Something, Learn Something
   - 3D Art and Videogames
   - Shoelaces, Rabbits, and More Niche Sites
   - The Week Everything Clicked
-  - Game Making and Movie Magic
 keywords:
   - game
   - work

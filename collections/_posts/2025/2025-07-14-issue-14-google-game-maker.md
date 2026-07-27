@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Creativity in 2025
   - The Week Everything Clicked
+  - Play Something, Learn Something
   - Game Making and Movie Magic
   - Retro Game Making, and Custom TCGs
-  - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
 keywords:
   - game
   - game maker

@@ -7,7 +7,7 @@ related:
   - Looking Back at 2025
   - Shoelaces, Rabbits, and More Niche Sites
   - Creative Tools, Then and Now
-  - Retro Game Making, and Custom TCGs
+  - Play Something, Learn Something
 keywords:
   - small joys crazy beautiful
   - joys crazy beautiful sky

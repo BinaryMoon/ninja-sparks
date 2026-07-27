@@ -3,11 +3,11 @@ title: A creative week in London
 date: 2026-04-20
 related:
   - Looking Back at 2025
+  - Play Something, Learn Something
   - Screens, Paper, and the Games I Love
   - Small games, big ideas, and classic cartoons
   - Game Boy Music and Stop Motion Magic
   - The Week Everything Clicked
-  - Game Making and Movie Magic
 keywords:
   - game
   - london

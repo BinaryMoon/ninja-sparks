@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Creative Tools, Then and Now
   - Bulk Photo Tools and Behind the Scenes
+  - Play Something, Learn Something
   - Retro Game Making, and Custom TCGs
   - The Week Everything Clicked
-  - Creativity in 2025
 keywords:
   - make
   - carrd choir creative toys

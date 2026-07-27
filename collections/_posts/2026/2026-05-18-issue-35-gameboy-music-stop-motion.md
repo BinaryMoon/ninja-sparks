@@ -5,9 +5,9 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Looking Back at 2025
   - Creative Tools, Then and Now
+  - Play Something, Learn Something
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
-  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - stop motion
   - game

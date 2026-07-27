@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - The Week Everything Clicked
   - Maps, Systems, and Creativity
+  - Play Something, Learn Something
   - Game Making and Movie Magic
   - Creativity in 2025
-  - Screens, Paper, and the Games I Love
 keywords:
   - game
   - block boredom big city

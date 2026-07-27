@@ -2,12 +2,12 @@
 title: Papercraft Tools and Lego Experiments
 date: 2025-05-19
 related:
+  - Play Something, Learn Something
   - Driving Nowhere (on purpose)
   - Looking Back at 2025
   - Creativity in 2025
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
-  - New Tools, Old Magic
 keywords:
   - lego
   - papercraft tool lego experiment

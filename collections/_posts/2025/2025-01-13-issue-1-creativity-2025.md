@@ -3,11 +3,11 @@ title: Creativity in 2025
 date: 2025-01-13
 related:
   - Looking Back at 2025
+  - Play Something, Learn Something
   - The Week Everything Clicked
   - Game Making and Movie Magic
   - New Tools, Old Magic
   - Blocks, Boredom, and Big Cities
-  - Creative Tools, Then and Now
 keywords:
   - game
   - petaporon

@@ -6,8 +6,8 @@ related:
   - Shoelaces, Rabbits, and More Niche Sites
   - Creative Tools, Then and Now
   - Blocks, Boredom, and Big Cities
+  - Play Something, Learn Something
   - New Tools, Old Magic
-  - Bulk Photo Tools and Behind the Scenes
 keywords:
   - animation
   - watch youtube

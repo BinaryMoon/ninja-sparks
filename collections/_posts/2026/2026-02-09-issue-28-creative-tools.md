@@ -3,11 +3,11 @@ title: Creative Tools, Then and Now
 date: 2026-02-09
 related:
   - Looking Back at 2025
+  - Play Something, Learn Something
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Game Boy Music and Stop Motion Magic
-  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - tool
   - creative tool

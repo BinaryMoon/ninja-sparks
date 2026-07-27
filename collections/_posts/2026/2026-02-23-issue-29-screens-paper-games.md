@@ -6,8 +6,8 @@ related:
   - The Week Everything Clicked
   - Shoelaces, Rabbits, and More Niche Sites
   - Retro Game Making, and Custom TCGs
+  - Play Something, Learn Something
   - Maps, Systems, and Creativity
-  - Paper Toys and Zelda
 keywords:
   - book
   - paper apps

@@ -6,8 +6,8 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Screens, Paper, and the Games I Love
   - Creative Tools, Then and Now
+  - Play Something, Learn Something
   - New Tools, Old Magic
-  - 3D Art and Videogames
 keywords:
   - game
   - design

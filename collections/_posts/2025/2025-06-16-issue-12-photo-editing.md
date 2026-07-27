@@ -3,11 +3,11 @@ title: Photo Editing and Cardboard Models
 date: 2025-06-16
 related:
   - Looking Back at 2025
+  - Play Something, Learn Something
   - Bulk Photo Tools and Behind the Scenes
   - Programming and Games
   - Retro Game Making, and Custom TCGs
   - The Week Everything Clicked
-  - Maps, Systems, and Creativity
 keywords:
   - game
   - photo editing cardboard model

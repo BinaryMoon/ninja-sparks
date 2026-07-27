@@ -2,12 +2,12 @@
 title: Looking Back at 2025
 date: 2025-12-15
 related:
+  - Play Something, Learn Something
   - Creative Tools, Then and Now
   - Screens, Paper, and the Games I Love
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Star Wars, side projects, and strange ideas
-  - Maps, Systems, and Creativity
 keywords:
   - game
   - watch

@@ -2,12 +2,12 @@
 title: Minions, Muppets, and Movie Magic
 date: 2025-07-28
 related:
+  - Play Something, Learn Something
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
   - A Free Design Tool, a Smart Game, and Moomins
   - The Week Everything Clicked
   - Google’s Hidden Game Maker
-  - Programming and Games
 keywords:
   - game
   - fish

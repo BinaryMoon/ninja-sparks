@@ -3,11 +3,11 @@ title: Shoelaces, Rabbits, and More Niche Sites
 date: 2026-06-29
 related:
   - Looking Back at 2025
+  - Play Something, Learn Something
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
   - Maps, Systems, and Creativity
   - Creative Tools, Then and Now
-  - 3D Art and Videogames
 keywords:
   - site
   - animation
