@@ -8,7 +8,7 @@ related:
   - Code.org
   - Simplenote
   - Photo Edit Tools
-  - Affinity Studio
+  - NESmaker
 keywords:
   - nomad sculpt
   - nomad

@@ -1,6 +1,19 @@
 ---
 title: Games, Constraints and Creativity
 date: 2026-08-10
+related:
+  - Looking Back at 2025
+  - Screens, Paper, and the Games I Love
+  - Play Something, Learn Something
+  - Maps, Systems, and Creativity
+  - Shoelaces, Rabbits, and More Niche Sites
+  - The Week Everything Clicked
+keywords:
+  - game
+  - make
+  - game development
+  - making
+  - nes
 ---
 How is everyone? Still enjoying the heatwaves I hope?
 
@@ -53,7 +66,7 @@ I really like that Retro Puzzle Maker isn't trying to let you make absolutely an
 
 ---
 
-## Arduboy
+## [Arduboy](https://arduboy.com/)
 
 {% include embed-youtube.html video="_TZnPKsxbY0" %}
 
@@ -63,7 +76,7 @@ At the even smaller end of the scale is Arduboy, a tiny open-source handheld gam
 
 It has a tiny monochrome screen, a few buttons and very limited hardware. Once again though, I think the limitations are what make it interesting. You simply can't make a huge complicated game for it, so you're forced to concentrate on making something small and fun.
 
-There's a community making games for it, and the latest Arduboy comes bundled with around 300 of them. Unfortunately, they're currently quite difficult to buy, and the prices I've seen are rather high.
+There's a community making games for it, and the most recent Arduboy release comes bundled with around 300 of them. Unfortunately, they're currently quite difficult to buy, and the prices I've seen are rather high.
 
 The community has also created Ardustudio, a drag-and-drop style game maker, and [Arduboy Cloud](https://cloud.arduboy.com/), which lets you make and play games in your browser.
 
@@ -103,7 +116,7 @@ Here's a handful of odd and interesting corners of the web I stumbled across rec
 
 The 20 Games Challenge is a practical way to learn game development by recreating classic games. Rather than jumping straight into your dream project, you work through a series of increasingly complex games.
 
-Each one introduces new skills while keeping the projects small and manageable. It's a bit like learning art by copying the masters, except the masters are Pong, Breakout and Space Invaders. I particularly like the idea that you don't need every game you make to be original or ambitious.
+Each one introduces new skills while keeping the projects small and manageable. It's a bit like learning art by copying the masters, except the masters are Pong, Breakout and Space Invaders. I particularly like the idea that you don't need every game you make to be original or ambitious. Sometimes making something small just to see if you can is reason enough.
 
 <!-- INCLUDE SHARE -->
 

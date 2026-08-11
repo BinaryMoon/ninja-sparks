@@ -3,11 +3,11 @@ title: Driving Nowhere (on purpose)
 date: 2026-03-23
 related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Games, Constraints and Creativity
   - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
   - Retro Game Making, and Custom TCGs
   - Game Boy Music and Stop Motion Magic
-  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - colour
   - driving nowhere purpose

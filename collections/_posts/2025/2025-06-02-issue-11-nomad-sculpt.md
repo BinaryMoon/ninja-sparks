@@ -3,11 +3,11 @@ title: 3D Sculpting on Mobile
 date: 2025-06-02
 related:
   - Looking Back at 2025
+  - Games, Constraints and Creativity
   - Note Taking, and Drawing Skills
   - New Tools, Old Magic
   - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
   - 3D Art and Videogames
-  - The Week Everything Clicked
 keywords:
   - game
   - nomad sculpt

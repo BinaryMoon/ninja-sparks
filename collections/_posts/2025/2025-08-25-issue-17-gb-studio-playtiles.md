@@ -2,12 +2,12 @@
 title: 8-Bit Creativity Unlocked
 date: 2025-08-25
 related:
+  - Games, Constraints and Creativity
   - Looking Back at 2025
   - The Week Everything Clicked
   - Retro Game Making, and Custom TCGs
   - Creativity in 2025
   - Blocks, Boredom, and Big Cities
-  - Carrd, Choirs, and Creative Toys
 keywords:
   - game
   - play tile

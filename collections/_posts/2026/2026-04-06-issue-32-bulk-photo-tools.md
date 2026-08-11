@@ -3,11 +3,11 @@ title: Bulk Photo Tools and Behind the Scenes
 date: 2026-04-06
 related:
   - Looking Back at 2025
+  - Games, Constraints and Creativity
   - Creative Tools, Then and Now
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Play Something, Learn Something
   - Star Wars, side projects, and strange ideas
-  - Game Boy Music and Stop Motion Magic
 keywords:
   - tool
   - make

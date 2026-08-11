@@ -7,8 +7,8 @@ related:
   - GB Studio
   - 'Lunacy - Icons8'
   - Google Game Maker
-  - Aseprite
-  - Brush Ninja
+  - NESmaker
+  - Retro Puzzle Maker
 keywords:
   - codeorg
   - lesson

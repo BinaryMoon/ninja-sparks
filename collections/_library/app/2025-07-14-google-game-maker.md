@@ -7,8 +7,8 @@ related:
   - Castle
   - GB Studio
   - Code.org
+  - Retro Puzzle Maker
   - 'Lunacy - Icons8'
-  - Gladden Design
 keywords:
   - game
   - game maker

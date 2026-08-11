@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Shoelaces, Rabbits, and More Niche Sites
   - Creative Tools, Then and Now
+  - Games, Constraints and Creativity
   - Blocks, Boredom, and Big Cities
   - Play Something, Learn Something
-  - New Tools, Old Magic
 keywords:
   - animation
   - watch youtube

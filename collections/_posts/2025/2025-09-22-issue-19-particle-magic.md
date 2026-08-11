@@ -4,10 +4,10 @@ date: 2025-09-22
 related:
   - Looking Back at 2025
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Games, Constraints and Creativity
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
   - Creative Tools, Then and Now
-  - Creativity in 2025
 keywords:
   - particle flow field
   - particle flow

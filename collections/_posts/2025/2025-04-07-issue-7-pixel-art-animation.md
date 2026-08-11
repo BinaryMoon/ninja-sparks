@@ -3,11 +3,11 @@ title: Pixel Art and Animation
 date: 2025-04-07
 related:
   - Bulk Photo Tools and Behind the Scenes
+  - Games, Constraints and Creativity
   - Looking Back at 2025
   - New Tools, Old Magic
   - Star Wars, side projects, and strange ideas
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Play Something, Learn Something
 keywords:
   - animation
   - pixel art

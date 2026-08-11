@@ -2,12 +2,12 @@
 title: Google’s Hidden Game Maker
 date: 2025-07-14
 related:
+  - Games, Constraints and Creativity
   - Looking Back at 2025
   - Creativity in 2025
   - The Week Everything Clicked
   - Play Something, Learn Something
   - Game Making and Movie Magic
-  - Retro Game Making, and Custom TCGs
 keywords:
   - game
   - game maker

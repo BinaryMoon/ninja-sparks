@@ -3,11 +3,11 @@ title: Note Taking, and Drawing Skills
 date: 2025-06-30
 related:
   - Looking Back at 2025
+  - Games, Constraints and Creativity
   - Bulk Photo Tools and Behind the Scenes
   - Shoelaces, Rabbits, and More Niche Sites
   - Carrd, Choirs, and Creative Toys
   - New Tools, Old Magic
-  - Creative Tools, Then and Now
 keywords:
   - cant draw
   - note taking drawing skill

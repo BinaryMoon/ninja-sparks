@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Small Games and Big Ideas
   - New Tools, Old Magic
+  - Games, Constraints and Creativity
   - The Week Everything Clicked
   - Bulk Photo Tools and Behind the Scenes
-  - 3D Art and Videogames
 keywords:
   - film
   - game

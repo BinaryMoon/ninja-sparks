@@ -3,11 +3,11 @@ title: The Week Everything Clicked
 date: 2026-06-01
 related:
   - Looking Back at 2025
+  - Games, Constraints and Creativity
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Bulk Photo Tools and Behind the Scenes
   - Shoelaces, Rabbits, and More Niche Sites
   - Retro Game Making, and Custom TCGs
-  - Creative Tools, Then and Now
 keywords:
   - game
   - brain create aha moment

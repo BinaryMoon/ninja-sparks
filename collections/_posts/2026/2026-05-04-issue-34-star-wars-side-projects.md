@@ -3,11 +3,11 @@ title: Star Wars, side projects, and strange ideas
 date: 2026-05-04
 related:
   - Looking Back at 2025
+  - Games, Constraints and Creativity
   - Play Something, Learn Something
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
-  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - star wars
   - star wars film

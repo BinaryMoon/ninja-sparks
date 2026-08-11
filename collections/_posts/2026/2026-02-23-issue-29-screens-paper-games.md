@@ -3,11 +3,11 @@ title: Screens, Paper, and the Games I Love
 date: 2026-02-22
 related:
   - Looking Back at 2025
+  - Games, Constraints and Creativity
   - The Week Everything Clicked
   - Shoelaces, Rabbits, and More Niche Sites
   - Retro Game Making, and Custom TCGs
   - Play Something, Learn Something
-  - Maps, Systems, and Creativity
 keywords:
   - book
   - paper apps

@@ -3,12 +3,12 @@ title: Gladden Design
 date: 2026-02-23
 website: https://gladdendesign.com
 related:
+  - NESmaker
+  - Retro Puzzle Maker
   - GB Studio
   - Google Game Maker
   - Gameboy Studio Music
   - Ninja Puzzles
-  - Wareware
-  - Aseprite
 keywords:
   - gladden design
   - paper apps

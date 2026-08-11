@@ -4,10 +4,10 @@ date: 2025-12-01
 related:
   - Looking Back at 2025
   - New Tools, Old Magic
+  - Games, Constraints and Creativity
   - Note Taking, and Drawing Skills
   - Creativity in 2025
   - Maps, Systems, and Creativity
-  - Bulk Photo Tools and Behind the Scenes
 keywords:
   - game
   - paddington
