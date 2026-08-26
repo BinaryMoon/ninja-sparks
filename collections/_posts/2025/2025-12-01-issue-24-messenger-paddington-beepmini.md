@@ -3,11 +3,11 @@ title: Messenger, Paddington, and BeepMini
 date: 2025-12-01
 related:
   - Looking Back at 2025
+  - Figuring Things Out
   - New Tools, Old Magic
   - Games, Constraints and Creativity
   - Note Taking, and Drawing Skills
   - Creativity in 2025
-  - Maps, Systems, and Creativity
 keywords:
   - game
   - paddington

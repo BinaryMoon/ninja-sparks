@@ -3,11 +3,11 @@ title: Games, Constraints and Creativity
 date: 2026-08-10
 related:
   - Looking Back at 2025
+  - Figuring Things Out
   - Screens, Paper, and the Games I Love
   - Play Something, Learn Something
   - Maps, Systems, and Creativity
   - Shoelaces, Rabbits, and More Niche Sites
-  - The Week Everything Clicked
 keywords:
   - game
   - make
@@ -105,6 +105,7 @@ The challenge is to make an entire game that's less than 13kb when compressed. I
 {% include embed-image.html image="/images/updates/2026/beepmicro-2.png" alt="Space Invaders in BeepMicro" %}
 
 I've [posted some images on Bluesky](https://bsky.app/profile/did:plc:hos2okkn7xyykrxgkb5qr63v/post/3msr2idawt222).
+
 
 ---
 

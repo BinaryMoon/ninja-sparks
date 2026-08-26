@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Games, Constraints and Creativity
   - Play Something, Learn Something
+  - Figuring Things Out
   - The Week Everything Clicked
   - Game Making and Movie Magic
-  - New Tools, Old Magic
 keywords:
   - game
   - petaporon

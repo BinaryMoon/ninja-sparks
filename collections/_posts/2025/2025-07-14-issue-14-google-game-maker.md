@@ -4,10 +4,10 @@ date: 2025-07-14
 related:
   - Games, Constraints and Creativity
   - Looking Back at 2025
+  - Figuring Things Out
   - Creativity in 2025
   - The Week Everything Clicked
   - Play Something, Learn Something
-  - Game Making and Movie Magic
 keywords:
   - game
   - game maker

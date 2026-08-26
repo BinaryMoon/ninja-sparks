@@ -4,10 +4,10 @@ date: 2025-06-16
 related:
   - Games, Constraints and Creativity
   - Looking Back at 2025
+  - Figuring Things Out
   - Play Something, Learn Something
   - Bulk Photo Tools and Behind the Scenes
   - Programming and Games
-  - Retro Game Making, and Custom TCGs
 keywords:
   - game
   - photo editing cardboard model

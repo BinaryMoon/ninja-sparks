@@ -6,8 +6,8 @@ related:
   - Games, Constraints and Creativity
   - Play Something, Learn Something
   - Bulk Photo Tools and Behind the Scenes
+  - Figuring Things Out
   - The Week Everything Clicked
-  - Screens, Paper, and the Games I Love
 keywords:
   - star wars
   - star wars film

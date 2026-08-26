@@ -3,11 +3,11 @@ title: Paper Toys and Zelda
 date: 2025-05-05
 related:
   - Looking Back at 2025
+  - Figuring Things Out
   - Screens, Paper, and the Games I Love
   - Games, Constraints and Creativity
   - Star Wars, side projects, and strange ideas
   - Bulk Photo Tools and Behind the Scenes
-  - Maps, Systems, and Creativity
 keywords:
   - toys
   - game

@@ -7,7 +7,7 @@ related:
   - Play Something, Learn Something
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - The Week Everything Clicked
-  - 3D Art and Videogames
+  - Figuring Things Out
 keywords:
   - drawing
   - year

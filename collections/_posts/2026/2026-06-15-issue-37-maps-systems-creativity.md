@@ -6,8 +6,8 @@ related:
   - Games, Constraints and Creativity
   - Screens, Paper, and the Games I Love
   - Shoelaces, Rabbits, and More Niche Sites
+  - Figuring Things Out
   - Bulk Photo Tools and Behind the Scenes
-  - Creative Tools, Then and Now
 keywords:
   - world
   - time

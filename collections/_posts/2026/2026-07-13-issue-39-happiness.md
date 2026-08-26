@@ -2,12 +2,12 @@
 title: Small Joys and Crazy Beautiful Skies
 date: 2026-07-13
 related:
+  - Figuring Things Out
   - The Week Everything Clicked
   - Games, Constraints and Creativity
   - Bulk Photo Tools and Behind the Scenes
   - Looking Back at 2025
   - Shoelaces, Rabbits, and More Niche Sites
-  - Creative Tools, Then and Now
 keywords:
   - small joys crazy beautiful
   - joys crazy beautiful sky

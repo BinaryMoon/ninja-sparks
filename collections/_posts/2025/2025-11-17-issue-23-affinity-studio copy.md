@@ -5,9 +5,9 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Games, Constraints and Creativity
   - Messenger, Paddington, and BeepMini
+  - Figuring Things Out
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Looking Back at 2025
-  - Creative Tools, Then and Now
 keywords:
   - game
   - idea

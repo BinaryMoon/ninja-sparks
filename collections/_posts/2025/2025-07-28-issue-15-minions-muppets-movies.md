@@ -6,8 +6,8 @@ related:
   - Play Something, Learn Something
   - Looking Back at 2025
   - Bulk Photo Tools and Behind the Scenes
+  - Figuring Things Out
   - A Free Design Tool, a Smart Game, and Moomins
-  - The Week Everything Clicked
 keywords:
   - game
   - fish

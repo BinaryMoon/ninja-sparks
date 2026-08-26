@@ -4,10 +4,10 @@ date: 2026-06-01
 related:
   - Looking Back at 2025
   - Games, Constraints and Creativity
+  - Figuring Things Out
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Bulk Photo Tools and Behind the Scenes
   - Shoelaces, Rabbits, and More Niche Sites
-  - Retro Game Making, and Custom TCGs
 keywords:
   - game
   - brain create aha moment

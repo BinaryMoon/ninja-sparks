@@ -7,7 +7,7 @@ related:
   - Play Something, Learn Something
   - Screens, Paper, and the Games I Love
   - Small games, big ideas, and classic cartoons
-  - Game Boy Music and Stop Motion Magic
+  - Figuring Things Out
 keywords:
   - game
   - london

@@ -4,10 +4,10 @@ date: 2025-10-06
 related:
   - Looking Back at 2025
   - Games, Constraints and Creativity
+  - Figuring Things Out
   - Shoelaces, Rabbits, and More Niche Sites
   - Bulk Photo Tools and Behind the Scenes
   - Maps, Systems, and Creativity
-  - The Week Everything Clicked
 keywords:
   - tiny glade
   - tiny

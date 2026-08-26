@@ -5,9 +5,9 @@ related:
   - Looking Back at 2025
   - Games, Constraints and Creativity
   - Play Something, Learn Something
+  - Figuring Things Out
   - The Week Everything Clicked
   - Screens, Paper, and the Games I Love
-  - Maps, Systems, and Creativity
 keywords:
   - site
   - animation
