@@ -336,6 +336,7 @@ Currently working on step 2.</p>
 {% assign latestContent = latestContent | replace: '"/cache/', '"https://ninjasparks.com/cache/' %}
 {% assign latestContent = latestContent | replace: '"/library/', '"https://ninjasparks.com/library/' %}
 {% assign latestContent = latestContent | replace: '"/images/', '"https://ninjasparks.com/images/' %}
+{% assign latestContent = latestContent | replace: '"/20', '"https://ninjasparks.com/20' %}
 {% assign latestContent = latestContent | regex_remove: '<script.*?</script>' %}
 {% assign latestContent = latestContent | regex_remove: '<noscript.*?</noscript>' %}
 {% assign latestContent = latestContent | regex_remove: '\s*(width|height)="[^"]*"' %}
