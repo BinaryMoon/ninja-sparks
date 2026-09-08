@@ -2,12 +2,12 @@
 title: 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
 date: 2026-01-12
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Play Something, Learn Something
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - The Week Everything Clicked
-  - Figuring Things Out
+  - Play Something, Learn Something
+  - 3D Art and Videogames
+  - Creative Tools, Then and Now
+  - Carrd, Choirs, and Creative Toys
 keywords:
   - drawing
   - year

@@ -2,18 +2,18 @@
 title: Star Wars, side projects, and strange ideas
 date: 2026-05-04
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Play Something, Learn Something
   - Bulk Photo Tools and Behind the Scenes
-  - Figuring Things Out
+  - Creative Tools, Then and Now
   - The Week Everything Clicked
+  - Figuring Things Out
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Play Something, Learn Something
 keywords:
-  - star wars
-  - star wars film
-  - star
-  - wars
+  - starwar
   - sign language
+  - film
+  - disney
+  - starwar film
 ---
 Happy Star Wars Day! I am writing this whilst wearing a Millennium Falcon T-shirt and watching the latest episode of the new Darth Maul series on Disney+.
 

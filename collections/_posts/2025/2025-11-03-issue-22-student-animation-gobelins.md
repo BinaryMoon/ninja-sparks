@@ -2,11 +2,11 @@
 title: Student Animation Showcase
 date: 2025-11-03
 related:
-  - Looking Back at 2025
-  - Shoelaces, Rabbits, and More Niche Sites
+  - Pixel Art and Animation
   - Creative Tools, Then and Now
-  - Figuring Things Out
-  - Games, Constraints and Creativity
+  - Shoelaces, Rabbits, and More Niche Sites
+  - Programming and Games
+  - Play Something, Learn Something
   - Blocks, Boredom, and Big Cities
 keywords:
   - animation

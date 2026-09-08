@@ -3,12 +3,12 @@ title: Simplenote
 description: A simple note-taking app that syncs across all devices
 website: https://simplenote.com
 related:
-  - Nomad Sculpt
   - 'Lunacy - Icons8'
+  - Nomad Sculpt
   - Affinity Studio
+  - Photo Edit Tools
+  - GB Studio
   - Castle
-  - Code.org
-  - Swap Create
 keywords:
   - simplenote
   - note

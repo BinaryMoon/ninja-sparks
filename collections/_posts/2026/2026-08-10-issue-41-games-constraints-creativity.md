@@ -2,18 +2,18 @@
 title: Games, Constraints and Creativity
 date: 2026-08-10
 related:
-  - Looking Back at 2025
+  - Little Games, Big Discoveries
   - Figuring Things Out
-  - Screens, Paper, and the Games I Love
   - Play Something, Learn Something
+  - Small Games and Big Ideas
   - Maps, Systems, and Creativity
-  - Shoelaces, Rabbits, and More Niche Sites
+  - The Week Everything Clicked
 keywords:
   - game
   - make
-  - game development
   - making
   - nes
+  - retro puzzle makerretropuzzlemakerlink
 ---
 How is everyone? Still enjoying the heatwaves I hope?
 

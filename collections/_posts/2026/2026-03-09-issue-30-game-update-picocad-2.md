@@ -2,18 +2,18 @@
 title: A Game Update, a Drawing Tool, and PicoCAD 2
 date: 2026-03-09
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Creative Tools, Then and Now
-  - Play Something, Learn Something
+  - Bulk Photo Tools and Behind the Scenes
+  - New Tools, Old Magic
+  - Pixel Art and Animation
+  - Programming and Games
 keywords:
-  - drawing
-  - game update drawing tool
-  - update drawing tool picocad
+  - game update drawingtool picocad
   - game
+  - drawing
   - book
+  - time
 ---
 Two weeks have flown by and it's time for a new issue of Ninja Sparks. It feels a bit strange writing this considering everything happening in the world at the moment, but I want to maintain a small sense of normality, so I will keep doing my thing as much as I can. I hope you and your loved ones are doing well.
 

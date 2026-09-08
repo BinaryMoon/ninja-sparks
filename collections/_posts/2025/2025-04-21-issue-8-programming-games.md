@@ -2,12 +2,12 @@
 title: Programming and Games
 date: 2025-04-21
 related:
-  - Games, Constraints and Creativity
-  - Looking Back at 2025
-  - Bulk Photo Tools and Behind the Scenes
-  - Play Something, Learn Something
+  - Game Making and Movie Magic
+  - Small Games and Big Ideas
+  - The Week Everything Clicked
   - 3D Art and Videogames
-  - Shoelaces, Rabbits, and More Niche Sites
+  - New Tools, Old Magic
+  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - game
   - work

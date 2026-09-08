@@ -2,12 +2,12 @@
 title: Small Games and Big Ideas
 date: 2025-02-24
 related:
-  - Games, Constraints and Creativity
-  - Looking Back at 2025
-  - Game Making and Movie Magic
-  - 3D Art and Videogames
-  - Screens, Paper, and the Games I Love
   - Retro Game Making, and Custom TCGs
+  - Game Making and Movie Magic
+  - Programming and Games
+  - Small games, big ideas, and classic cartoons
+  - Games, Constraints and Creativity
+  - Creativity in 2025
 keywords:
   - game
   - wild robot

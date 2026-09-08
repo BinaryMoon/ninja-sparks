@@ -2,12 +2,12 @@
 title: Small games, big ideas, and classic cartoons
 date: 2025-09-08
 related:
-  - Looking Back at 2025
   - Small Games and Big Ideas
   - New Tools, Old Magic
-  - Games, Constraints and Creativity
-  - The Week Everything Clicked
-  - Bulk Photo Tools and Behind the Scenes
+  - Minions, Muppets, and Movie Magic
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - A creative week in London
+  - Star Wars, side projects, and strange ideas
 keywords:
   - film
   - game

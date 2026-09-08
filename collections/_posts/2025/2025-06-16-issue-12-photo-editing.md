@@ -2,18 +2,18 @@
 title: Photo Editing and Cardboard Models
 date: 2025-06-16
 related:
-  - Games, Constraints and Creativity
-  - Looking Back at 2025
   - Figuring Things Out
-  - Play Something, Learn Something
-  - Bulk Photo Tools and Behind the Scenes
+  - Retro Game Making, and Custom TCGs
+  - Games, Constraints and Creativity
+  - Carrd, Choirs, and Creative Toys
+  - Note Taking, and Drawing Skills
   - Programming and Games
 keywords:
-  - game
   - photo editing cardboard model
   - chatgpt lost game chess
   - lost game chess atari
-  - photo
+  - game
+  - make
 ---
 I'm currently writing this in the evening of Father's day in the UK. I had a lovely day with my family, playing video games with my son, and seeing my wife's parents for dinner.
 

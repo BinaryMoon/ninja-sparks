@@ -2,16 +2,16 @@
 title: Messenger, Paddington, and BeepMini
 date: 2025-12-01
 related:
-  - Looking Back at 2025
-  - Figuring Things Out
   - New Tools, Old Magic
-  - Games, Constraints and Creativity
+  - Figuring Things Out
+  - 8-Bit Creativity Unlocked
   - Note Taking, and Drawing Skills
   - Creativity in 2025
+  - Small Games and Big Ideas
 keywords:
-  - game
   - paddington
   - paddington bear
+  - game
   - path
   - work
 ---

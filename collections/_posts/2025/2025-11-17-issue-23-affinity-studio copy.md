@@ -2,12 +2,12 @@
 title: New Tools, Old Magic
 date: 2025-11-17
 related:
-  - Bulk Photo Tools and Behind the Scenes
-  - Games, Constraints and Creativity
   - Messenger, Paddington, and BeepMini
-  - Figuring Things Out
+  - Bulk Photo Tools and Behind the Scenes
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Looking Back at 2025
+  - Programming and Games
+  - 3D Sculpting on Mobile
+  - A Free Design Tool, a Smart Game, and Moomins
 keywords:
   - game
   - idea

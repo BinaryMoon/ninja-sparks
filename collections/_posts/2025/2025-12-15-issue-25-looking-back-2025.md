@@ -3,11 +3,11 @@ title: Looking Back at 2025
 date: 2025-12-15
 related:
   - Figuring Things Out
-  - Games, Constraints and Creativity
-  - Play Something, Learn Something
   - Creative Tools, Then and Now
-  - Screens, Paper, and the Games I Love
-  - Bulk Photo Tools and Behind the Scenes
+  - Little Games, Big Discoveries
+  - Star Wars, side projects, and strange ideas
+  - Play Something, Learn Something
+  - Games, Constraints and Creativity
 keywords:
   - game
   - watch

@@ -2,18 +2,18 @@
 title: Papercraft Tools and Lego Experiments
 date: 2025-05-19
 related:
-  - Games, Constraints and Creativity
-  - Play Something, Learn Something
+  - A Game Update, a Drawing Tool, and PicoCAD 2
   - Driving Nowhere (on purpose)
-  - Looking Back at 2025
-  - Creativity in 2025
-  - Bulk Photo Tools and Behind the Scenes
+  - Simple 3d Modelling
+  - The Week Everything Clicked
+  - 3D Sculpting on Mobile
+  - Creative Tools, Then and Now
 keywords:
   - lego
   - papercraft tool lego experiment
-  - game
   - app
-  - brush ninja
+  - last issue
+  - unreal engine
 ---
 Hey there,
 

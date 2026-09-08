@@ -2,12 +2,12 @@
 title: Carrd, Choirs, and Creative Toys
 date: 2025-08-11
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
   - Creative Tools, Then and Now
-  - Bulk Photo Tools and Behind the Scenes
-  - Play Something, Learn Something
-  - Retro Game Making, and Custom TCGs
+  - Creativity in 2025
+  - Note Taking, and Drawing Skills
+  - Blocks, Boredom, and Big Cities
+  - Driving Nowhere (on purpose)
+  - Minions, Muppets, and Movie Magic
 keywords:
   - make
   - carrd choir creative toys

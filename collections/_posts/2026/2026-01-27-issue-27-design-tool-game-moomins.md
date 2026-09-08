@@ -2,18 +2,18 @@
 title: A Free Design Tool, a Smart Game, and Moomins
 date: 2026-01-27
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Bulk Photo Tools and Behind the Scenes
-  - Screens, Paper, and the Games I Love
+  - New Tools, Old Magic
   - Creative Tools, Then and Now
   - Play Something, Learn Something
+  - Games, Constraints and Creativity
+  - 8-Bit Creativity Unlocked
+  - Figuring Things Out
 keywords:
   - game
-  - design
-  - free design tool
   - work
-  - free design tool smart
+  - free designtool smart game
+  - designtool smart game moomin
+  - design
 ---
 A couple of weeks ago I went to a reunion for my former employer Miniclip. It was a party to celebrate their 25th anniversary (and also the original CEO's 50th birthday). It was great seeing friends and colleagues that I haven't seen in over a decade.
 

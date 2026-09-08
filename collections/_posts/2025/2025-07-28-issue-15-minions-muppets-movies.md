@@ -2,16 +2,16 @@
 title: Minions, Muppets, and Movie Magic
 date: 2025-07-28
 related:
-  - Games, Constraints and Creativity
-  - Play Something, Learn Something
-  - Looking Back at 2025
-  - Bulk Photo Tools and Behind the Scenes
-  - Figuring Things Out
-  - A Free Design Tool, a Smart Game, and Moomins
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - The Week Everything Clicked
+  - Paper Toys and Zelda
+  - Carrd, Choirs, and Creative Toys
+  - Programming and Games
+  - 8-Bit Creativity Unlocked
 keywords:
-  - game
   - fish
   - minion muppet movie magic
+  - game
   - muppet
   - art
 ---

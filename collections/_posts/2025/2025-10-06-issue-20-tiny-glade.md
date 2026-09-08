@@ -2,12 +2,12 @@
 title: Cosy Worlds, Coding Chaos
 date: 2025-10-06
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Figuring Things Out
-  - Shoelaces, Rabbits, and More Niche Sites
-  - Bulk Photo Tools and Behind the Scenes
-  - Maps, Systems, and Creativity
+  - Creativity in 2025
+  - Creative Tools, Then and Now
+  - Particle Magic and Playful Ideas
+  - The Week Everything Clicked
+  - Blocks, Boredom, and Big Cities
+  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - tiny glade
   - tiny

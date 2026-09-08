@@ -4,10 +4,10 @@ description: A Google Doodle that lets you create and share simple video games.
 website: https://doodles.google/doodle/gerald-jerry-lawsons-82nd-birthday/
 related:
   - Pocket Platformer
-  - Castle
   - GB Studio
+  - Castle
   - Code.org
-  - Retro Puzzle Maker
+  - Wareware
   - 'Lunacy - Icons8'
 keywords:
   - game

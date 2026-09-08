@@ -2,11 +2,11 @@
 title: Maps, Systems, and Creativity
 date: 2026-06-15
 related:
-  - Looking Back at 2025
   - Games, Constraints and Creativity
-  - Screens, Paper, and the Games I Love
-  - Shoelaces, Rabbits, and More Niche Sites
-  - Figuring Things Out
+  - Blocks, Boredom, and Big Cities
+  - Programming and Games
+  - Creative Tools, Then and Now
+  - Little Games, Big Discoveries
   - Bulk Photo Tools and Behind the Scenes
 keywords:
   - world

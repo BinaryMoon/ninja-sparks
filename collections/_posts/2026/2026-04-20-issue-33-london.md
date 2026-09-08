@@ -2,12 +2,12 @@
 title: A creative week in London
 date: 2026-04-20
 related:
-  - Games, Constraints and Creativity
-  - Looking Back at 2025
-  - Play Something, Learn Something
-  - Screens, Paper, and the Games I Love
+  - Creative Tools, Then and Now
+  - Paper Toys and Zelda
+  - Game Making and Movie Magic
   - Small games, big ideas, and classic cartoons
-  - Figuring Things Out
+  - The Week Everything Clicked
+  - Programming and Games
 keywords:
   - game
   - london

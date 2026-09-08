@@ -2,12 +2,12 @@
 title: Driving Nowhere (on purpose)
 date: 2026-03-23
 related:
-  - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Games, Constraints and Creativity
-  - Bulk Photo Tools and Behind the Scenes
-  - Figuring Things Out
   - Creative Tools, Then and Now
-  - Retro Game Making, and Custom TCGs
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Carrd, Choirs, and Creative Toys
+  - Bulk Photo Tools and Behind the Scenes
+  - Programming and Games
+  - Papercraft Tools and Lego Experiments
 keywords:
   - colour
   - driving nowhere purpose

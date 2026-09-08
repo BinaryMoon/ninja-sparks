@@ -5,11 +5,11 @@ description: A simple browser-based platformer game creator with drag-and-drop i
 website: https://the-l0bster.itch.io/pocket-platformer
 related:
   - Google Game Maker
+  - Pico-8
   - 'Lunacy - Icons8'
   - GB Studio
-  - Pico-8
   - PicoCAD
-  - Aseprite
+  - Code.org
 keywords:
   - pocket platformer
   - platformer

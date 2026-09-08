@@ -5,17 +5,17 @@ website: https://brush.ninja
 category: website
 related:
   - Aseprite
-  - Photo Edit Tools
   - Code.org
-  - 'Lunacy - Icons8'
-  - Castle
-  - Affinity Studio
+  - Carrd
+  - Photo Edit Tools
+  - Bitsy
+  - Pocket Platformer
 keywords:
-  - brush ninja
-  - brush
-  - ninja
-  - everyone brush ninja
-  - animation
+  - brushninja
+  - everyone brushninja
+  - simple fun
+  - idea life
+  - simple
 ---
 ## Brush Ninja - Simple Animation for Everyone
 

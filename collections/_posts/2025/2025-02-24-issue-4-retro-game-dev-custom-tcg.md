@@ -2,18 +2,18 @@
 title: Retro Game Making, and Custom TCGs
 date: 2025-02-24
 related:
-  - Games, Constraints and Creativity
-  - Looking Back at 2025
-  - The Week Everything Clicked
-  - Creative Tools, Then and Now
-  - Game Making and Movie Magic
   - Small Games and Big Ideas
+  - Game Making and Movie Magic
+  - The Week Everything Clicked
+  - Creativity in 2025
+  - Creative Tools, Then and Now
+  - Carrd, Choirs, and Creative Toys
 keywords:
-  - game
   - pico
+  - game
   - custom tcgs
-  - retro game making custom
-  - game making custom tcgs
+  - retrogame making custom tcgs
+  - making
 ---
 Hey there,
 

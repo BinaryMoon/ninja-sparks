@@ -6,15 +6,15 @@ related:
   - Gameboy Studio Music
   - GB Studio
   - 'Lunacy - Icons8'
+  - Twine
   - Google Game Maker
-  - NESmaker
-  - Retro Puzzle Maker
+  - Brush Ninja
 keywords:
   - codeorg
   - lesson
   - learner
-  - tool
   - lab
+  - free
 ---
 {% include embed-image.html image="/images/updates/code-dot-org.png" caption="Code.org homepage" %}
 

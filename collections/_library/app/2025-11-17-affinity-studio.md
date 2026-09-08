@@ -6,10 +6,10 @@ description: Affinity Studio is an all-in-one creative app from Serif that combi
 related:
   - 'Lunacy - Icons8'
   - Gameboy Studio Music
-  - Swap Create
-  - Photo Edit Tools
   - AudioMass
-  - Gladden Design
+  - Simplenote
+  - Swap Create
+  - Brush Ninja
 keywords:
   - affinity studio
   - affinity

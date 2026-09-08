@@ -2,18 +2,18 @@
 title: Creativity in 2025
 date: 2025-01-13
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Play Something, Learn Something
-  - Figuring Things Out
-  - The Week Everything Clicked
+  - Creative Tools, Then and Now
+  - Simple 3d Modelling
   - Game Making and Movie Magic
+  - Carrd, Choirs, and Creative Toys
+  - Blocks, Boredom, and Big Cities
+  - The Week Everything Clicked
 keywords:
-  - game
   - petaporon
+  - game
   - tool
-  - video
   - tiny
+  - issue
 ---
 Welcome to Ninja Sparks! This is the first issue of what used to be the [Brush Ninja](https://brush.ninja) newsletter. Over the past few months, I’ve been busy exploring creative projects, experimenting with tools, and figuring out how to share them in a way that inspires and excites you.
 

@@ -2,18 +2,18 @@
 title: 3D Art and Videogames
 date: 2025-03-24
 related:
-  - Games, Constraints and Creativity
-  - Looking Back at 2025
-  - Shoelaces, Rabbits, and More Niche Sites
-  - The Week Everything Clicked
-  - Bulk Photo Tools and Behind the Scenes
   - Programming and Games
+  - The Week Everything Clicked
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Small Games and Big Ideas
+  - Blocks, Boredom, and Big Cities
+  - Pixel Art and Animation
 keywords:
   - blender
   - art
   - social media
-  - game
   - great
+  - website
 ---
 Hey there,
 

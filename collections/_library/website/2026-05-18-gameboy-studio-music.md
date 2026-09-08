@@ -3,12 +3,12 @@ title: Gameboy Studio Music
 date: 2026-05-18
 website: https://music.gbstudio.dev
 related:
-  - Aseprite
   - AudioMass
-  - Affinity Studio
-  - GB Studio
-  - PicoCAD
   - Code.org
+  - GB Studio
+  - Affinity Studio
+  - Aseprite
+  - PicoCAD
 keywords:
   - gameboy studio music
   - music

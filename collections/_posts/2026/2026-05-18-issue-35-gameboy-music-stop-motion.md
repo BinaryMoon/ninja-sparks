@@ -2,18 +2,18 @@
 title: Game Boy Music and Stop Motion Magic
 date: 2026-05-18
 related:
-  - Games, Constraints and Creativity
-  - Bulk Photo Tools and Behind the Scenes
-  - Looking Back at 2025
   - Creative Tools, Then and Now
-  - Play Something, Learn Something
+  - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
+  - Play Something, Learn Something
+  - Creativity in 2025
+  - Driving Nowhere (on purpose)
 keywords:
   - stop motion
-  - game
   - music
   - stop
   - studio
+  - game boy music stop
 ---
 It's been a busy week in the best possible way. I've been juggling lots of different projects recently and feeling more productive than I have in quite a while.
 

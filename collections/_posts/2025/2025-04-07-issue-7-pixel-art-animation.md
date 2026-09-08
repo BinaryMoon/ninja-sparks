@@ -2,18 +2,18 @@
 title: Pixel Art and Animation
 date: 2025-04-07
 related:
-  - Bulk Photo Tools and Behind the Scenes
-  - Games, Constraints and Creativity
-  - Looking Back at 2025
-  - New Tools, Old Magic
-  - Star Wars, side projects, and strange ideas
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Bulk Photo Tools and Behind the Scenes
+  - New Tools, Old Magic
+  - Creative Tools, Then and Now
+  - The Week Everything Clicked
+  - 3D Art and Videogames
 keywords:
   - animation
-  - pixel art
   - year
   - making
   - book
+  - comic book
 ---
 Hey there, it's that time of year when we celebrate the arrival of spring, and in the UK Easter - which normally boils down to chocolate eggs and a long weekend. Easter this year falls between newsletters so I hope you had a good time, and if you don't celebrate Easter, I hope you had a nice weekend anyway!
 

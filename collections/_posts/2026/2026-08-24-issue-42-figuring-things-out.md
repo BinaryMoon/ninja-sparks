@@ -2,12 +2,12 @@
 title: Figuring Things Out
 date: 2026-08-24
 related:
-  - Looking Back at 2025
+  - Little Games, Big Discoveries
+  - The Week Everything Clicked
   - Games, Constraints and Creativity
   - Play Something, Learn Something
-  - The Week Everything Clicked
-  - Screens, Paper, and the Games I Love
-  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Google’s Hidden Game Maker
+  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - game
   - type help

@@ -2,18 +2,18 @@
 title: Creative Tools, Then and Now
 date: 2026-02-09
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Play Something, Learn Something
   - Bulk Photo Tools and Behind the Scenes
-  - The Week Everything Clicked
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Play Something, Learn Something
+  - The Week Everything Clicked
+  - Carrd, Choirs, and Creative Toys
+  - Creativity in 2025
 keywords:
-  - tool
-  - creative tool
   - game
-  - creative
   - feel
+  - flash
+  - make
+  - tool
 ---
 Welcome to a new issue of Ninja Sparks. I've now been writing this newsletter for over a year, and it's been a fun way to collect and share the things I've found along the way. I hope you're enjoying it. As always, please let me know if you have any feedback or suggestions for future issues.
 

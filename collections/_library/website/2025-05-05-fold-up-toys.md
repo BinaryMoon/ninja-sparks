@@ -3,12 +3,12 @@ title: Fold Up Toys
 description: A collection of foldable paper toys for creative play.
 website: https://folduptoys.com/papertoys/free/
 related:
-  - Swap Create
-  - Code.org
   - Aseprite
-  - Gladden Design
+  - Code.org
   - PicoCAD
+  - Pepakura Designer
   - Carrd
+  - 'Lunacy - Icons8'
 keywords:
   - fold toys
   - toys

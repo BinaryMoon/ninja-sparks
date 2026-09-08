@@ -1,12 +1,12 @@
 ---
 title: Simple 3d Modelling
 related:
-  - Games, Constraints and Creativity
-  - Game Making and Movie Magic
   - Creativity in 2025
+  - Blocks, Boredom, and Big Cities
   - Retro Game Making, and Custom TCGs
-  - Maps, Systems, and Creativity
-  - Bulk Photo Tools and Behind the Scenes
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Pixel Art and Animation
+  - Game Making and Movie Magic
 keywords:
   - lego
   - puzzle box

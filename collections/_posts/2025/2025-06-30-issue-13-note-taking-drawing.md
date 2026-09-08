@@ -2,12 +2,12 @@
 title: Note Taking, and Drawing Skills
 date: 2025-06-30
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Figuring Things Out
-  - Bulk Photo Tools and Behind the Scenes
-  - Shoelaces, Rabbits, and More Niche Sites
   - Carrd, Choirs, and Creative Toys
+  - 3D Sculpting on Mobile
+  - Shoelaces, Rabbits, and More Niche Sites
+  - New Tools, Old Magic
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Driving Nowhere (on purpose)
 keywords:
   - cant draw
   - note taking drawing skill

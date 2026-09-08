@@ -2,12 +2,12 @@
 title: Blocks, Boredom, and Big Cities
 date: 2025-10-20
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
   - The Week Everything Clicked
-  - Maps, Systems, and Creativity
-  - Play Something, Learn Something
+  - Creativity in 2025
+  - Creative Tools, Then and Now
+  - New Tools, Old Magic
   - Game Making and Movie Magic
+  - Play Something, Learn Something
 keywords:
   - game
   - block boredom big city

@@ -2,12 +2,12 @@
 title: Screens, Paper, and the Games I Love
 date: 2026-02-22
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
   - The Week Everything Clicked
-  - Shoelaces, Rabbits, and More Niche Sites
+  - Paper Toys and Zelda
+  - Creative Tools, Then and Now
+  - A Game Update, a Drawing Tool, and PicoCAD 2
   - Retro Game Making, and Custom TCGs
-  - Play Something, Learn Something
+  - Games, Constraints and Creativity
 keywords:
   - book
   - paper apps

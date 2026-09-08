@@ -5,10 +5,10 @@ website: https://nomadsculpt.com
 related:
   - 'Lunacy - Icons8'
   - AudioMass
-  - Code.org
   - Simplenote
-  - Photo Edit Tools
-  - NESmaker
+  - Code.org
+  - Affinity Studio
+  - Blender
 keywords:
   - nomad sculpt
   - nomad

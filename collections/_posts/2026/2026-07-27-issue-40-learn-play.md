@@ -2,12 +2,12 @@
 title: Play Something, Learn Something
 date: 2026-07-27
 related:
-  - Looking Back at 2025
-  - Games, Constraints and Creativity
-  - Figuring Things Out
   - Creative Tools, Then and Now
-  - Bulk Photo Tools and Behind the Scenes
-  - Game Boy Music and Stop Motion Magic
+  - Figuring Things Out
+  - Little Games, Big Discoveries
+  - Games, Constraints and Creativity
+  - Shoelaces, Rabbits, and More Niche Sites
+  - Creativity in 2025
 keywords:
   - something
   - game

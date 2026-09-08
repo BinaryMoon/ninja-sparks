@@ -4,16 +4,16 @@ date: 2026-02-23
 website: https://gladdendesign.com
 related:
   - NESmaker
-  - Retro Puzzle Maker
+  - Wareware
   - GB Studio
   - Google Game Maker
-  - Gameboy Studio Music
-  - Ninja Puzzles
+  - Pico-8
+  - Retro Puzzle Maker
 keywords:
   - gladden design
   - paper apps
-  - design
   - gladden
+  - design
   - game
 ---
 Gladden Design is a husband-and-wife studio, run by Tom and Sarah Brinton, creating paper-based games and tools that use ideas borrowed from videogame design and procedural generation. Their best-known work, Paper Apps Dungeon, is a solo role-playing game presented as a pocket-sized book, where each page represents a room in a procedurally generated dungeon. Every copy is unique, and all you need to play is a pencil and a die.
