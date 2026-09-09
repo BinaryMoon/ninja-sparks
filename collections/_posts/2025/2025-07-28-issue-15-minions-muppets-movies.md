@@ -4,16 +4,16 @@ date: 2025-07-28
 related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - The Week Everything Clicked
-  - Paper Toys and Zelda
   - Carrd, Choirs, and Creative Toys
   - Programming and Games
+  - Paper Toys and Zelda
   - 8-Bit Creativity Unlocked
 keywords:
   - fish
-  - minion muppet movie magic
-  - game
   - muppet
   - art
+  - book
+  - film
 ---
 Hello - welcome to issue 16 of the Ninja Sparks newsletter!
 

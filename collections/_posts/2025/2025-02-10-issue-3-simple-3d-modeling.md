@@ -5,14 +5,14 @@ related:
   - Blocks, Boredom, and Big Cities
   - Retro Game Making, and Custom TCGs
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Pixel Art and Animation
   - Game Making and Movie Magic
+  - Pixel Art and Animation
 keywords:
-  - lego
-  - puzzle box
-  - lego puzzle box
-  - make
   - picocad
+  - lego
+  - puzzle
+  - puzzle box
+  - modeling
 ---
 Hey there,
 

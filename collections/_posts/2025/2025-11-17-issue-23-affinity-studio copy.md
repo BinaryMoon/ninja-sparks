@@ -9,11 +9,11 @@ related:
   - 3D Sculpting on Mobile
   - A Free Design Tool, a Smart Game, and Moomins
 keywords:
-  - game
-  - idea
   - affinity
-  - adventure game
-  - dark crystal
+  - game
+  - affinity studio
+  - children
+  - crystal
 ---
 Last week I joined a game jam for fun and tried to make a small [BeepMini](https://beepmini.com) game. I got the basic idea working fast, but making lots of levels by hand felt painful. That pushed me to think about a level editor.
 

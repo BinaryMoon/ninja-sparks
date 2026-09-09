@@ -6,16 +6,16 @@ category: website
 related:
   - Retro Puzzle Maker
   - Brush Ninja
-  - Code.org
-  - 'Lunacy - Icons8'
-  - Pepakura Designer
   - Fold Up Toys
+  - Bitsy
+  - 'Lunacy - Icons8'
+  - Code.org
 keywords:
   - puzzle
-  - ninjapuzzle
-  - free printable puzzle
+  - ninja puzzles
   - word
   - free printable
+  - printable puzzle
 ---
 ## Ninja Puzzles - Your Free Printable Puzzle Playground
 

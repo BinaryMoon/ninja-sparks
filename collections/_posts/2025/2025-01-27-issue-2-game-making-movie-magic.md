@@ -9,10 +9,10 @@ related:
   - Games, Constraints and Creativity
 keywords:
   - game
-  - game making movie magic
-  - making
   - nintendo
+  - platformer
   - pocket platformer
+  - pocket
 ---
 Welcome to the second issue of **Ninja Sparks**, your bi-weekly dose of creative inspiration, tools, and ideas!
 

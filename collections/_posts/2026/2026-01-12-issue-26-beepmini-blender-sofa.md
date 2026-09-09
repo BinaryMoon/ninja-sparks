@@ -5,15 +5,15 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - The Week Everything Clicked
   - Play Something, Learn Something
-  - 3D Art and Videogames
   - Creative Tools, Then and Now
   - Carrd, Choirs, and Creative Toys
+  - 3D Art and Videogames
 keywords:
   - drawing
-  - year
-  - welcome beepmini blender cosy
-  - beepmini blender cosy soundtrack
+  - technique
   - life
+  - blender
+  - youtube
 ---
 After a bit of a break over the holidays, I’m pleased to be back writing this newsletter.
 

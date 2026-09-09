@@ -4,16 +4,16 @@ date: 2026-08-24
 related:
   - Little Games, Big Discoveries
   - The Week Everything Clicked
-  - Games, Constraints and Creativity
   - Play Something, Learn Something
+  - Games, Constraints and Creativity
   - Google’s Hidden Game Maker
   - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - game
   - type help
   - type
+  - post
   - help
-  - work
 ---
 Well, the summer holidays are almost over and I've already spotted festive chocolates in the supermarket, so I guess it's time to start preparing for Christmas. Of course, schools aren't back yet, so we're still doing lots of things with our son. Much of it Pokémon themed.
 

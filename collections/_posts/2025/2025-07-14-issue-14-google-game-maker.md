@@ -5,15 +5,15 @@ related:
   - Figuring Things Out
   - Creativity in 2025
   - Programming and Games
+  - Note Taking, and Drawing Skills
   - Minions, Muppets, and Movie Magic
   - 3D Sculpting on Mobile
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
-  - game
-  - game maker
   - google
-  - google hidden game maker
-  - better feeling moment finally
+  - doodle
+  - clue
+  - game
+  - iwata
 ---
 Hi there! Welcome to Issue 14 of Ninja Sparks, my fortnightly newsletter where I share interesting, creative things I’ve found online.
 

@@ -9,11 +9,11 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Play Something, Learn Something
 keywords:
-  - starwar
-  - sign language
-  - film
+  - star wars
   - disney
-  - starwar film
+  - sign
+  - camp
+  - film
 ---
 Happy Star Wars Day! I am writing this whilst wearing a Millennium Falcon T-shirt and watching the latest episode of the new Darth Maul series on Disney+.
 

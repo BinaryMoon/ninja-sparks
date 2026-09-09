@@ -9,11 +9,11 @@ related:
   - Carrd, Choirs, and Creative Toys
   - Creativity in 2025
 keywords:
-  - game
-  - feel
   - flash
-  - make
-  - tool
+  - playground
+  - adobe
+  - castle
+  - creative tools
 ---
 Welcome to a new issue of Ninja Sparks. I've now been writing this newsletter for over a year, and it's been a fun way to collect and share the things I've found along the way. I hope you're enjoying it. As always, please let me know if you have any feedback or suggestions for future issues.
 

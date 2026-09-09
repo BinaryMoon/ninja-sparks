@@ -7,13 +7,13 @@ related:
   - 8-Bit Creativity Unlocked
   - Note Taking, and Drawing Skills
   - Creativity in 2025
-  - Small Games and Big Ideas
+  - Maps, Systems, and Creativity
 keywords:
   - paddington
-  - paddington bear
-  - game
+  - messenger
+  - bear
   - path
-  - work
+  - paddington bear
 ---
 It's the 1st of December already! We put up the Christmas tree this weekend and started making things more festive.
 

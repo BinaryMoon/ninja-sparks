@@ -4,16 +4,16 @@ date: 2025-06-30
 related:
   - Carrd, Choirs, and Creative Toys
   - 3D Sculpting on Mobile
-  - Shoelaces, Rabbits, and More Niche Sites
   - New Tools, Old Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Shoelaces, Rabbits, and More Niche Sites
   - Driving Nowhere (on purpose)
 keywords:
-  - cant draw
-  - note taking drawing skill
-  - people believe cant draw
-  - believe cant draw prove
   - draw
+  - beep
+  - drawing
+  - search
+  - simplenote
 ---
 It's been 2 weeks so it's time for another issue of Ninja Sparks, my fortnightly newsletter where I share interesting things I've found on the internet.
 

@@ -9,11 +9,11 @@ related:
   - Game Making and Movie Magic
   - Play Something, Learn Something
 keywords:
-  - game
-  - block boredom big city
-  - norman mailer cannibal christian
-  - make
   - block
+  - boredom
+  - wareware
+  - city
+  - game
 ---
 I've been super creative the last couple of weeks, working hard on my new 3D engine and trying to finish off [BeepMini](https://beepmini.com) so that I can properly launch it. Plus I've had an email from someone asking about the Accessibility of [Brush Ninja](https://brush.ninja), so I've been filling out a VPAT form, which is a whole new thing for me.
 

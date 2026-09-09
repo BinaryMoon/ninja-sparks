@@ -9,11 +9,11 @@ related:
   - Small Joys and Crazy Beautiful Skies
   - Game Making and Movie Magic
 keywords:
-  - particle flow field
-  - particle flow
-  - flow field
   - particle
-  - paper airplane
+  - flow
+  - field
+  - samorost
+  - particle flow
 ---
 Last week I had the chance to work during the day instead of evenings and was so much more productive. Less tired, more focus. I’m going to try that a couple of days each week so evenings can be for unwinding — or drawing my comic 😊.
 

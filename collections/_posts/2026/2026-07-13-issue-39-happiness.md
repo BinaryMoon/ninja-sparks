@@ -9,11 +9,11 @@ related:
   - Creativity in 2025
   - Game Making and Movie Magic
 keywords:
-  - small joys crazy beautiful
-  - joys crazy beautiful sky
+  - sky
   - pokemon
-  - crazy beautiful
-  - small joys crazy
+  - brush
+  - happy
+  - map
 ---
 The last fortnight has been a bit of a blur. It’s still stupidly hot here in the UK, and I started work on a “weekend project” that I am now two weeks into.
 

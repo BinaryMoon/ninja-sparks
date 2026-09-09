@@ -9,11 +9,11 @@ related:
   - Creative Tools, Then and Now
   - Carrd, Choirs, and Creative Toys
 keywords:
-  - pico
+  - pico-8
   - game
-  - custom tcgs
-  - retrogame making custom tcgs
-  - making
+  - tcgs
+  - custom
+  - card
 ---
 Hey there,
 

@@ -6,16 +6,16 @@ website: https://puzzle.nes.science/
 related:
   - NESmaker
   - GB Studio
+  - Ninja Puzzles
+  - Code.org
   - Google Game Maker
   - Gameboy Studio Music
-  - Code.org
-  - Twine
 keywords:
-  - retro puzzle maker
+  - puzzle
   - retro puzzle
   - puzzle maker
-  - puzzle
   - retro
+  - maker
 ---
 Retro Puzzle Maker is a free browser-based tool for creating puzzle games that run on the original Nintendo Entertainment System (NES).
 

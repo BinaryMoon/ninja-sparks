@@ -7,13 +7,13 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - New Tools, Old Magic
   - Pixel Art and Animation
-  - Programming and Games
+  - 'Welcome to 2026: BeepMini, Blender, and a cosy soundtrack'
 keywords:
-  - game update drawingtool picocad
-  - game
   - drawing
   - book
-  - time
+  - timer
+  - picocad
+  - doom
 ---
 Two weeks have flown by and it's time for a new issue of Ninja Sparks. It feels a bit strange writing this considering everything happening in the world at the moment, but I want to maintain a small sense of normality, so I will keep doing my thing as much as I can. I hope you and your loved ones are doing well.
 

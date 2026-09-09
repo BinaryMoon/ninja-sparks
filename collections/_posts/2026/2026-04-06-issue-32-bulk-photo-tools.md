@@ -7,13 +7,13 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Star Wars, side projects, and strange ideas
   - Pixel Art and Animation
-  - Game Boy Music and Stop Motion Magic
+  - Play Something, Learn Something
 keywords:
   - tool
-  - make
+  - cgi
   - something
-  - bulk photo tool behind
-  - photo tool behind scene
+  - filter
+  - make
 ---
 I hope you had a nice weekend. Over Easter we decided to make our own large, hollow chocolate eggs. We bought some moulds and chocolate, melted it down, and poured it in with our own fillings. It was a lot of fun, and slightly "healthier" than shop-bought eggs since we could use better quality chocolate. I filled mine with cornflakes and peanut butter, which turned out excellent.
 

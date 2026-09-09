@@ -3,17 +3,17 @@ title: A creative week in London
 date: 2026-04-20
 related:
   - Creative Tools, Then and Now
-  - Paper Toys and Zelda
   - Game Making and Movie Magic
-  - Small games, big ideas, and classic cartoons
+  - Paper Toys and Zelda
   - The Week Everything Clicked
-  - Programming and Games
+  - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Small games, big ideas, and classic cartoons
 keywords:
-  - game
   - london
-  - neighbour totoro
   - camera
   - totoro
+  - aardman
+  - game
 ---
 Hope you're doing well. I recently got back from a trip to London. I'm originally from South East London but now live in the countryside, so it's always nice to go back, see the city, and catch up with family.
 

@@ -2,18 +2,18 @@
 title: Maps, Systems, and Creativity
 date: 2026-06-15
 related:
-  - Games, Constraints and Creativity
   - Blocks, Boredom, and Big Cities
-  - Programming and Games
+  - Games, Constraints and Creativity
   - Creative Tools, Then and Now
   - Little Games, Big Discoveries
+  - Programming and Games
   - Bulk Photo Tools and Behind the Scenes
 keywords:
   - world
-  - time
+  - piku
+  - niku
   - piku niku
-  - make
-  - game
+  - time
 ---
 Last week we had WWDC and a Nintendo Direct, two events I like to make time for.
 

@@ -4,15 +4,15 @@ date: 2025-03-24
 related:
   - Programming and Games
   - The Week Everything Clicked
-  - A Game Update, a Drawing Tool, and PicoCAD 2
   - Small Games and Big Ideas
-  - Blocks, Boredom, and Big Cities
+  - A Game Update, a Drawing Tool, and PicoCAD 2
   - Pixel Art and Animation
+  - Blocks, Boredom, and Big Cities
 keywords:
   - blender
   - art
+  - logo
   - social media
-  - great
   - website
 ---
 Hey there,

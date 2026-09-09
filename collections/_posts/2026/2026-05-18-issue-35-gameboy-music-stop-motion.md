@@ -9,11 +9,11 @@ related:
   - Creativity in 2025
   - Driving Nowhere (on purpose)
 keywords:
+  - stop
   - stop motion
   - music
-  - stop
+  - motion
   - studio
-  - game boy music stop
 ---
 It's been a busy week in the best possible way. I've been juggling lots of different projects recently and feeling more productive than I have in quite a while.
 

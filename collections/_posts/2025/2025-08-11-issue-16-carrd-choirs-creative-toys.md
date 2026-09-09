@@ -9,11 +9,11 @@ related:
   - Driving Nowhere (on purpose)
   - Minions, Muppets, and Movie Magic
 keywords:
-  - make
-  - carrd choir creative toys
   - carrd
-  - carrd choir creative
-  - choir creative toys
+  - choir
+  - business
+  - island
+  - make
 ---
 Welcome to issue 16 of the Ninja Sparks newsletter!
 

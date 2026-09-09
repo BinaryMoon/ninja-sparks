@@ -9,11 +9,11 @@ related:
   - Retro Game Making, and Custom TCGs
   - Pixel Art and Animation
 keywords:
-  - game
+  - winamp
   - play tile
   - play
-  - game boy
-  - wind waker
+  - studio
+  - tile
 ---
 Welcome to issue 17 of the Ninja Sparks newsletter!
 

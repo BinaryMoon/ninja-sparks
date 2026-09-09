@@ -4,17 +4,17 @@ description: A fun and educational platform for kids to learn coding through gam
 website: https://code.org
 related:
   - Gameboy Studio Music
-  - GB Studio
-  - 'Lunacy - Icons8'
   - Twine
+  - Aseprite
   - Google Game Maker
   - Brush Ninja
+  - Bitsy
 keywords:
-  - codeorg
   - lesson
+  - codeorg
   - learner
   - lab
-  - free
+  - coding
 ---
 {% include embed-image.html image="/images/updates/code-dot-org.png" caption="Code.org homepage" %}
 

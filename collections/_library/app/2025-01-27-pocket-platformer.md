@@ -5,17 +5,17 @@ description: A simple browser-based platformer game creator with drag-and-drop i
 website: https://the-l0bster.itch.io/pocket-platformer
 related:
   - Google Game Maker
+  - Aseprite
   - Pico-8
-  - 'Lunacy - Icons8'
-  - GB Studio
-  - PicoCAD
+  - Gameboy Studio Music
   - Code.org
+  - PicoCAD
 keywords:
-  - pocket platformer
   - platformer
+  - pocket platformer
   - pocket
   - game
-  - feature
+  - platformer game
 ---
 **Pocket Platformer** is a browser-based app for creating retro-style platformer games. It features an intuitive drag-and-drop interface, making it easy to design levels, add characters, and experiment with mechanics.
 

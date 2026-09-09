@@ -10,10 +10,10 @@ related:
   - 3D Art and Videogames
 keywords:
   - animation
-  - year
-  - making
+  - aseprite
   - book
-  - comic book
+  - special
+  - comic
 ---
 Hey there, it's that time of year when we celebrate the arrival of spring, and in the UK Easter - which normally boils down to chocolate eggs and a long weekend. Easter this year falls between newsletters so I hope you had a good time, and if you don't celebrate Easter, I hope you had a nice weekend anyway!
 

@@ -8,14 +8,14 @@ related:
   - Code.org
   - Carrd
   - Photo Edit Tools
+  - Twine
   - Bitsy
-  - Pocket Platformer
 keywords:
-  - brushninja
-  - everyone brushninja
-  - simple fun
-  - idea life
+  - brush ninja
+  - animation
   - simple
+  - animation tool
+  - brush ninja simple
 ---
 ## Brush Ninja - Simple Animation for Everyone
 

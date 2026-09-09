@@ -9,11 +9,11 @@ related:
   - Creative Tools, Then and Now
   - Pixel Art and Animation
 keywords:
-  - game
-  - nomad sculpt
-  - make
   - nomad
-  - power boy nomad sculpt
+  - sculpt
+  - nomad sculpt
+  - game
+  - sculpting
 ---
 Hey there,
 

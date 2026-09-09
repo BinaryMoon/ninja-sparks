@@ -9,11 +9,11 @@ related:
   - Programming and Games
   - Papercraft Tools and Lego Experiments
 keywords:
-  - colour
-  - driving nowhere purpose
   - driving
-  - fun
-  - simple
+  - road
+  - colour
+  - snake
+  - hermit
 ---
 These last couple of weeks have been a bit of a blur, but I want to keep a consistent schedule, so here we are with another issue of Ninja Sparks.
 

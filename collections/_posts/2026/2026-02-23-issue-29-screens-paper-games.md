@@ -7,13 +7,13 @@ related:
   - Creative Tools, Then and Now
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Retro Game Making, and Custom TCGs
-  - Games, Constraints and Creativity
+  - Small Games and Big Ideas
 keywords:
   - book
-  - paper apps
   - paper
-  - game
-  - first
+  - paper apps
+  - dungeon
+  - apps
 ---
 I am writing this whilst watching the closing ceremony of the 2026 Winter Olympics in Italy. I’m not into sport, but I found myself watching a surprising amount of it over the last couple of weeks. I think I prefer this to the regular Olympics. A lot of the events are about skill rather than strength or speed, which makes them more interesting to watch. The ice skating and snowboarding events in particular were really fun.
 

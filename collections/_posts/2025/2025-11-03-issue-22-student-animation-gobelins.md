@@ -5,15 +5,15 @@ related:
   - Pixel Art and Animation
   - Creative Tools, Then and Now
   - Shoelaces, Rabbits, and More Niche Sites
-  - Programming and Games
-  - Play Something, Learn Something
   - Blocks, Boredom, and Big Cities
+  - Play Something, Learn Something
+  - Programming and Games
 keywords:
   - animation
-  - watch youtube
   - student
-  - feel
-  - student animation
+  - gobelin
+  - watch youtube
+  - youtube
 ---
 Welcome to a new issue of Ninja Sparks! It's been half term here in the UK, so I took a short break with the family. We went away for a couple of nights, did some trick-or-treating, and enjoyed the slower pace for a bit. It's amazing how much clearer my head feels after a few days away from screens.
 

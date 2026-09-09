@@ -10,10 +10,10 @@ related:
   - Creativity in 2025
 keywords:
   - something
-  - game
+  - duck
   - free
-  - learn something
   - history
+  - game
 ---
 We're still living through a heatwave here in the south west of England. Apparently it moved on from the rest of the country, so I'm hoping to escape up north for a bit of fresh air soon.
 

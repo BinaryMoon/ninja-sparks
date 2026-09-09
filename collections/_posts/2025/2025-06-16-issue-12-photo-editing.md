@@ -4,16 +4,16 @@ date: 2025-06-16
 related:
   - Figuring Things Out
   - Retro Game Making, and Custom TCGs
+  - Note Taking, and Drawing Skills
   - Games, Constraints and Creativity
   - Carrd, Choirs, and Creative Toys
-  - Note Taking, and Drawing Skills
   - Programming and Games
 keywords:
-  - photo editing cardboard model
-  - chatgpt lost game chess
-  - lost game chess atari
-  - game
-  - make
+  - cardboard
+  - photo
+  - atari
+  - physic
+  - cow
 ---
 I'm currently writing this in the evening of Father's day in the UK. I had a lovely day with my family, playing video games with my son, and seeing my wife's parents for dinner.
 

@@ -4,17 +4,17 @@ description: A collection of foldable paper toys for creative play.
 website: https://folduptoys.com/papertoys/free/
 related:
   - Aseprite
+  - Gladden Design
+  - Pepakura Designer
   - Code.org
   - PicoCAD
-  - Pepakura Designer
-  - Carrd
-  - 'Lunacy - Icons8'
+  - Swap Create
 keywords:
-  - fold toys
   - toys
   - fold
-  - design
-  - alex
+  - fold toys
+  - paper toys
+  - toys creative
 ---
 **Fold Up Toys** is a creative website dedicated to downloadable paper toys designed by Alex Gwynne. Each toy is typically laid out on a single printable sheet and crafted to be cut out, folded, and glued together. The designs cover a wide range of themes, from pop culture to original creations, and are known for their charm, clever engineering, and accessible format.
 

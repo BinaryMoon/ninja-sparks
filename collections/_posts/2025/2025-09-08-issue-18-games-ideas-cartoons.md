@@ -10,10 +10,10 @@ related:
   - Star Wars, side projects, and strange ideas
 keywords:
   - film
-  - game
   - make
-  - small game big idea
-  - game big idea classic
+  - game
+  - watch
+  - denver
 ---
 I hope this finds you well, it's time for another Ninja Sparks newsletter!
 

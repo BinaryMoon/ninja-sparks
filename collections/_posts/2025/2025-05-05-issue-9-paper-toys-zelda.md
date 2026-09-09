@@ -5,15 +5,15 @@ related:
   - Blocks, Boredom, and Big Cities
   - Minions, Muppets, and Movie Magic
   - The Week Everything Clicked
+  - Screens, Paper, and the Games I Love
   - Carrd, Choirs, and Creative Toys
   - A creative week in London
-  - Screens, Paper, and the Games I Love
 keywords:
   - toys
+  - alex
+  - barbie
   - game
   - time
-  - dead insect body part
-  - insect body part disguise
 ---
 Hey there,
 

@@ -7,13 +7,13 @@ related:
   - Play Something, Learn Something
   - Creative Tools, Then and Now
   - Looking Back at 2025
-  - Maps, Systems, and Creativity
+  - The Week Everything Clicked
 keywords:
   - game
-  - time
-  - something
-  - make
-  - ahha moment
+  - golf
+  - ah-ha
+  - carrot
+  - kingdom
 ---
 Welcome to a new issue of Ninja Sparks. My son went back to school today and I am in the middle of a game jam project that has become a bit of a rabbit hole.
 

@@ -3,18 +3,18 @@ title: Nomad Sculpt
 description: An iPad app for 3d sculpting
 website: https://nomadsculpt.com
 related:
-  - 'Lunacy - Icons8'
   - AudioMass
   - Simplenote
-  - Code.org
-  - Affinity Studio
+  - Aseprite
+  - Gameboy Studio Music
   - Blender
+  - Code.org
 keywords:
-  - nomad sculpt
+  - sculpting
   - nomad
   - sculpt
-  - sculpting
-  - app
+  - nomad sculpt
+  - ipad
 ---
 Nomad Sculpt is a professional-grade 3D sculpting app designed for mobile devices, especially iPad. It offers real-time sculpting with tools like dynamesh-style remeshing, masking, symmetry, layers, alphas, and vertex painting. The app also includes basic rendering features for showcasing finished models without needing to export.
 

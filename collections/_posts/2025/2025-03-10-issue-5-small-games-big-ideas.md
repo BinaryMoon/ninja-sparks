@@ -6,14 +6,14 @@ related:
   - Game Making and Movie Magic
   - Programming and Games
   - Small games, big ideas, and classic cartoons
-  - Games, Constraints and Creativity
   - Creativity in 2025
+  - Games, Constraints and Creativity
 keywords:
+  - bitsy
   - game
   - wild robot
-  - small game big idea
+  - robot
   - making
-  - bitsy
 ---
 Hey there, **Happy Mario Day!**
 

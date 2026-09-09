@@ -10,10 +10,10 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - game
-  - work
-  - since
-  - switch
   - css
+  - codeorg
+  - ufo
+  - switch
 ---
 Hey there,
 

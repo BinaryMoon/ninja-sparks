@@ -6,15 +6,15 @@ related:
   - Pocket Platformer
   - GB Studio
   - Castle
+  - Bitsy
   - Code.org
-  - Wareware
-  - 'Lunacy - Icons8'
+  - Gladden Design
 keywords:
-  - game
-  - game maker
-  - google game maker
   - google
-  - google game
+  - doodle
+  - game
+  - google doodle
+  - game maker
 ---
 This interactive Google Doodle celebrates Gerald “Jerry” Lawson, a key figure in early video game technology. It includes a built-in game maker that lets you create and play your own simple games — either platformers or top-down adventures.
 

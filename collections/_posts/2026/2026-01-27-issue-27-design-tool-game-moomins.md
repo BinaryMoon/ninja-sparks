@@ -9,11 +9,11 @@ related:
   - 8-Bit Creativity Unlocked
   - Figuring Things Out
 keywords:
+  - lunacy
   - game
-  - work
-  - free designtool smart game
-  - designtool smart game moomin
+  - hacktivate
   - design
+  - work
 ---
 A couple of weeks ago I went to a reunion for my former employer Miniclip. It was a party to celebrate their 25th anniversary (and also the original CEO's 50th birthday). It was great seeing friends and colleagues that I haven't seen in over a decade.
 

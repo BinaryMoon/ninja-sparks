@@ -3,18 +3,18 @@ title: Swap Create
 description: Swap Create is a website that gives you alternatives to Adobe software.
 website: https://swapcreate.com
 related:
-  - Affinity Studio
   - AudioMass
-  - Code.org
-  - Brush Ninja
-  - GB Studio
+  - Fold Up Toys
   - Aseprite
+  - Google Game Maker
+  - 'Lunacy - Icons8'
+  - Brush Ninja
 keywords:
+  - swap
   - swap create
   - create
   - alternative adobe
-  - swap
-  - swapcreate
+  - adobe
 ---
 ## SwapCreate - Find Creative Alternatives to Adobe
 

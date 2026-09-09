@@ -6,14 +6,14 @@ related:
   - Creative Tools, Then and Now
   - Particle Magic and Playful Ideas
   - The Week Everything Clicked
-  - Blocks, Boredom, and Big Cities
   - A Game Update, a Drawing Tool, and PicoCAD 2
+  - Blocks, Boredom, and Big Cities
 keywords:
   - tiny glade
-  - tiny
   - glade
+  - tiny
+  - cosy
   - concept artist
-  - cosy world coding chao
 ---
 Over the last couple of weeks I have been working on quite a few different things. Firstly, I have decided to rename beep8 to [beepmini](https://beepmini.com). This is a relatively small-sounding change but it means rebuilding the website and merging it with the beepmini.com domain.
 

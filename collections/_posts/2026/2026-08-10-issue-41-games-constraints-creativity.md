@@ -5,15 +5,15 @@ related:
   - Little Games, Big Discoveries
   - Figuring Things Out
   - Play Something, Learn Something
-  - Small Games and Big Ideas
   - Maps, Systems, and Creativity
+  - Small Games and Big Ideas
   - The Week Everything Clicked
 keywords:
   - game
-  - make
-  - making
   - nes
-  - retro puzzle makerretropuzzlemakerlink
+  - nesmaker
+  - make
+  - console
 ---
 How is everyone? Still enjoying the heatwaves I hope?
 

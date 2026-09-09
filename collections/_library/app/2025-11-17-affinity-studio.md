@@ -4,18 +4,18 @@ date: 2025-11-17
 website: https://www.affinity.studio/
 description: Affinity Studio is an all-in-one creative app from Serif that combines bitmap editing, vector design and desktop publishing in a single tool.
 related:
-  - 'Lunacy - Icons8'
   - Gameboy Studio Music
+  - 'Lunacy - Icons8'
+  - Aseprite
   - AudioMass
   - Simplenote
-  - Swap Create
-  - Brush Ninja
+  - Nomad Sculpt
 keywords:
-  - affinity studio
   - affinity
+  - affinity studio
   - studio
   - creative
-  - app
+  - serif
 ---
 Affinity Studio is the new all-in-one creative app from Serif, combining bitmap editing, vector design and desktop publishing in a single tool. It replaces the previous Affinity Photo, Designer and Publisher apps, which were paid individually. The new app is free to use, with optional paid Canva features.
 

@@ -3,17 +3,17 @@ title: Shoelaces, Rabbits, and More Niche Sites
 date: 2026-06-29
 related:
   - Play Something, Learn Something
-  - The Week Everything Clicked
   - Figuring Things Out
-  - Creative Tools, Then and Now
+  - The Week Everything Clicked
   - Note Taking, and Drawing Skills
+  - Creative Tools, Then and Now
   - Games, Constraints and Creativity
 keywords:
   - site
   - animation
   - toy story
-  - niche site
-  - shoelace rabbit niche site
+  - shoelace
+  - toy
 ---
 In the UK, and across much of Europe, we have spent the last week in a heatwave. Some of the hottest weather ever recorded in June in the UK. It's been draining, so I've basically spent as much time as possible hiding from the sun. I've always preferred the cold so this has not been the best time for me, thankfully this week has been a bit cooler.
 

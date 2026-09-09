@@ -7,13 +7,13 @@ related:
   - Little Games, Big Discoveries
   - Star Wars, side projects, and strange ideas
   - Play Something, Learn Something
-  - Games, Constraints and Creativity
+  - The Week Everything Clicked
 keywords:
-  - game
-  - watch
   - series
-  - time
-  - year
+  - game
+  - pokemon
+  - city
+  - watch
 ---
 This is the last issue this year! I'm amazed that I've managed to consistently publish a newsletter every two weeks all year! Thank you for reading along and sticking with it. I really appreciate it.
 

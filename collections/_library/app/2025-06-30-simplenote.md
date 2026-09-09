@@ -3,18 +3,18 @@ title: Simplenote
 description: A simple note-taking app that syncs across all devices
 website: https://simplenote.com
 related:
-  - 'Lunacy - Icons8'
   - Nomad Sculpt
-  - Affinity Studio
-  - Photo Edit Tools
-  - GB Studio
+  - Aseprite
+  - Twine
+  - 'Lunacy - Icons8'
+  - Google Game Maker
   - Castle
 keywords:
   - simplenote
+  - notetaking
+  - notetaking app
   - note
-  - text
-  - apps
-  - support
+  - device
 ---
 [Simplenote]({{ page.website }}) is a free note-taking app developed by Automattic. It allows users to create and manage plain text notes across multiple devices. Notes are synced in real time through the cloud and can be accessed via mobile apps (iOS, Android), desktop apps (Windows, macOS, Linux), or a web interface.
 
