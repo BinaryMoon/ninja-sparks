@@ -12,8 +12,8 @@ keywords:
   - game
   - type help
   - type
-  - post
   - help
+  - post
 ---
 Well, the summer holidays are almost over and I've already spotted festive chocolates in the supermarket, so I guess it's time to start preparing for Christmas. Of course, schools aren't back yet, so we're still doing lots of things with our son. Much of it Pokémon themed.
 

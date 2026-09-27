@@ -10,8 +10,8 @@ related:
   - The Week Everything Clicked
 keywords:
   - petaporon
-  - tiny
   - thumby
+  - tiny
   - note
   - file
 ---

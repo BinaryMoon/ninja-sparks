@@ -11,8 +11,8 @@ related:
 keywords:
   - brain
   - game
-  - papercraft
   - scifi
+  - papercraft
   - book
 ---
 I feel like I say this every other issue, but I've spent the last week on half term holiday, which means my son has been off school and I've been doing Pokemon-related things with him. We've been playing card games, went to a [National Trust Pokemon trail](https://www.nationaltrust.org.uk/visit/whats-on/pokemon), played Pokemon Go, and visited card shops. Pretty much anything you can think of related to those collectible cards, and we've done it. It's been fun, exhausting, and I now know far more about Pokemon than I ever imagined I would.

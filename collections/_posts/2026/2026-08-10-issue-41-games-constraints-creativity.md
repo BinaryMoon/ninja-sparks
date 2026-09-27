@@ -5,9 +5,9 @@ related:
   - Little Games, Big Discoveries
   - Figuring Things Out
   - Play Something, Learn Something
+  - Things You Can Hold
   - Maps, Systems, and Creativity
   - Small Games and Big Ideas
-  - The Week Everything Clicked
 keywords:
   - game
   - nes

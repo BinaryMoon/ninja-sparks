@@ -1,13 +1,25 @@
 ---
-title: Issue 44
+title: Things You Can Hold
 date: 2026-09-21
+related:
+  - Games, Constraints and Creativity
+  - The Week Everything Clicked
+  - Figuring Things Out
+  - Creative Tools, Then and Now
+  - Bulk Photo Tools and Behind the Scenes
+  - Screens, Paper, and the Games I Love
+keywords:
+  - model
+  - paper
+  - make
+  - cardboard
+  - miniature
 ---
-
 Last week was the launch of the 30th anniversary Pokémon Celebrations set. So on Wednesday morning I found myself, at 6am, in a queue with about 200 other people waiting to get some cards.
 
-My son was with his grandparents since he had school, so my wife and I were the ones sitting outside a shop at a ridiculous time in the morning waiting for it to open. Parenting is weird sometimes.
+My son was with his grandparents since he had school, so my wife and I were the ones sitting outside a shop at a ridiculous time in the morning waiting for it to open.
 
-It was actually quite a fun experience. I basically played videogames and ate snacks for three hours while we waited. Fortunately we were early enough to get some Pokemon as well, which was a huge relief after getting up that early.
+It was actually quite a fun experience. I basically played videogames and ate snacks for three hours while we waited. Fortunately we were early enough to get some Pokémon as well, which was a huge relief after getting up that early.
 
 I also finished and submitted my js13kGames entry, [Unicorn Escape](https://js13kgames.com/2026/games/unicorn-escape). It's currently in the judging phase, but wherever it comes in the rankings, I'm glad I made it. It was a fascinating challenge to make a complete game in under 13kb.
 
@@ -27,11 +39,15 @@ I've designed some [papercraft models](https://www.binarymoon.co.uk/toys/) in th
 
 ## [Rob Ives](https://www.robives.com/)
 
+{% include embed-image.html src="/images/updates/2026/rob-ives.png" %}
+
 Rob Ives is a papercraft designer who makes paper machinery. I remember learning about cams and gears in school, and they've always fascinated me. Seeing these simple mechanisms recreated with paper and paperclips is so impressive.
 
 There's something especially pleasing about being able to see exactly how everything works. Nothing is hidden away inside a plastic box. It's just paper, wire and clever engineering.
 
 ## [Fold Up Toys](https://folduptoys.com/)
+
+{% include embed-browsershots.html url="https://folduptoys.com/" %}
 
 I've mentioned [Fold Up Toys]({% link _library/website/2025-05-05-fold-up-toys.md %}) before when talking about [Unfolder]({% link _library/app/2025-05-19-unfolder.md %}), but I think they're worth mentioning again.
 
@@ -41,31 +57,41 @@ I've been supporting them on Patreon for a while now, so I can get access to the
 
 ## [James Lake](https://www.instagram.com/jameslakesculpture/)
 
+{% include embed-image.html src="/images/updates/2026/james-lake-kingfisher.png" %}
+
 James is a sculptor making wonderful models out of cardboard. I actually found him because he was running a course local to me, but unfortunately I discovered it after it had already happened.
 
-Often papercraft models are quite simple, at least the ones I make, but James' work is much more realistic. He makes models of poeple, and animals and other real objects like shoes and plants. He doesn't paint or hide the materials in any way, and so you can tell it's made from cardboard. Plus you can see how the strips have been combined, it looks like using clay to sculpt, where he creates a framework and then builds up the surface with layers of cardboard.
+Often papercraft models are quite simple, at least the ones I make, but James' work is much more realistic. He makes models of people and animals, as well as everyday objects like shoes and plants. He doesn't paint or hide the materials in any way, so you can always tell they're made from cardboard.
+
+I particularly like how you can see the strips and layers he's used to build each sculpture. It's almost like sculpting with clay, except the structure remains visible in the finished piece.
 
 I'm now keeping an eye on his Instagram in the hope that I can join a future course.
 
 ## [Popupology](https://www.instagram.com/popupology/reels/)
 
+{% include embed-image.html src="/images/updates/2026/popupology.png" %}
+
 This is so cool. Tiny laser-cut cards that fold out into intricate 3D models. The size, care and variety of these is amazing.
 
 I've wanted a laser cutter for a while now, and seeing this only increases my desire to get one. Unfortunately I have so many things I want to do that I can't justify the cost, space or time.
 
-The models all use popup book style techniques, and the designs are very clever. Given the media and technique used the artworks are mostly cityscapes but within this there are lots of different styles which really appeals to my love of brutalist architecture.
+The models all use pop-up book-style techniques, and the designs are very clever. Given the materials and techniques, the artworks are mostly cityscapes, but there's still a surprising amount of variety. There are lots of architectural styles represented, which really appeals to my love of brutalist architecture.
 
-Maybe one day I will get to buy a laser cutter and attempt something like these. I'm half tempted to try it using a craft knife, but I don't think I could be half as detailed. For now I can admire these miniature works of art from afar.
+Maybe one day I will get to buy a laser cutter and attempt something like these. I'm half tempted to try it using a craft knife, but I don't think I could get anywhere near that level of detail. For now I can admire these miniature works of art from afar.
 
 ## [Itoshi Ge Studio](https://www.instagram.com/itoshigestudio/)
+
+{% include embed-image.html src="/images/updates/2026/itoshi-ge-studio.png" %}
 
 Itoshi Ge Studio is a Japanese furniture maker who makes beautiful boxes, mini shelves and other useful things out of old cardboard boxes.
 
 Even better, they sell the plans and instructions. So if you see something you like, you can make it yourself.
 
-As much as I love crafting things simply because they're fun to make, there's something especially appealing about turning a cardboard box into something both beautiful AND useful.
+As much as I love crafting things simply because they're fun to make, there's something especially appealing about turning a cardboard box into something both beautiful AND useful. I'd love it if they designed a Pokémon deck box. Then I could make something practical that we'd actually use!
 
 ## [Miniature Books](https://www.instagram.com/reels/DcQZIQ1pzOf/)
+
+{% include embed-browsershots.html url="https://www.instagram.com/reels/DcQZIQ1pzOf/" %}
 
 This is where looking at clever paper things starts becoming dangerous, because I could actually make these.
 
@@ -79,7 +105,7 @@ They have a cool little metal template that you can use to cut and score everyth
 
 {% include embed-youtube.html video="kpaca7ARsjg" %}
 
-If you're interested in making your own miniature books then this video shows you one possible way. It uses very traditional bookbinding techniques, on a much smaller scale. The result is a fully functional leatherbound sketchbook that you can use if you want.
+If you're interested in making your own miniature books then this video shows you one possible way. It uses very traditional bookbinding techniques, on a much smaller scale. The result is a fully functional leatherbound sketchbook, just ridiculously tiny.
 
 [Watch the video](https://www.youtube.com/watch?v=kpaca7ARsjg)
 

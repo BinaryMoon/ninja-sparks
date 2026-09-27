@@ -7,7 +7,7 @@ related:
   - Creative Tools, Then and Now
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Retro Game Making, and Custom TCGs
-  - Small Games and Big Ideas
+  - Things You Can Hold
 keywords:
   - book
   - paper
