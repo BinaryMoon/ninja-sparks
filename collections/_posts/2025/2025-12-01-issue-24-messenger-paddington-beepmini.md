@@ -6,8 +6,8 @@ related:
   - Figuring Things Out
   - 8-Bit Creativity Unlocked
   - Note Taking, and Drawing Skills
+  - Still Making Things
   - Creativity in 2025
-  - Maps, Systems, and Creativity
 keywords:
   - paddington
   - messenger

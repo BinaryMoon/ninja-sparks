@@ -2,12 +2,12 @@
 title: Games, Constraints and Creativity
 date: 2026-08-10
 related:
+  - Still Making Things
   - Little Games, Big Discoveries
   - Figuring Things Out
   - Play Something, Learn Something
   - Things You Can Hold
   - Maps, Systems, and Creativity
-  - Small Games and Big Ideas
 keywords:
   - game
   - nes

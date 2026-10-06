@@ -6,11 +6,11 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Play Something, Learn Something
+  - Still Making Things
   - Creativity in 2025
-  - Driving Nowhere (on purpose)
 keywords:
-  - stop
   - stop motion
+  - stop
   - music
   - motion
   - studio

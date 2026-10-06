@@ -4,10 +4,10 @@ date: 2026-02-22
 related:
   - The Week Everything Clicked
   - Paper Toys and Zelda
+  - Still Making Things
   - Creative Tools, Then and Now
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Retro Game Making, and Custom TCGs
-  - Things You Can Hold
 keywords:
   - book
   - paper

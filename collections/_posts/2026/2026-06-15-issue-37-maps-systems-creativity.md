@@ -2,12 +2,12 @@
 title: Maps, Systems, and Creativity
 date: 2026-06-15
 related:
+  - Still Making Things
   - Blocks, Boredom, and Big Cities
   - Games, Constraints and Creativity
   - Creative Tools, Then and Now
   - Little Games, Big Discoveries
   - Programming and Games
-  - Bulk Photo Tools and Behind the Scenes
 keywords:
   - world
   - piku

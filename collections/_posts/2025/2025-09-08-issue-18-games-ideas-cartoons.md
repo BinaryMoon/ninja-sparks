@@ -7,7 +7,7 @@ related:
   - Minions, Muppets, and Movie Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - A creative week in London
-  - Star Wars, side projects, and strange ideas
+  - Still Making Things
 keywords:
   - film
   - make

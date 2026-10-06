@@ -3,11 +3,11 @@ title: Shoelaces, Rabbits, and More Niche Sites
 date: 2026-06-29
 related:
   - Play Something, Learn Something
+  - Still Making Things
   - Figuring Things Out
   - The Week Everything Clicked
   - Note Taking, and Drawing Skills
   - Creative Tools, Then and Now
-  - Games, Constraints and Creativity
 keywords:
   - site
   - animation

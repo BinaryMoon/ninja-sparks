@@ -2,12 +2,12 @@
 title: Things You Can Hold
 date: 2026-09-21
 related:
+  - Still Making Things
   - Games, Constraints and Creativity
   - The Week Everything Clicked
   - Figuring Things Out
   - Creative Tools, Then and Now
   - Bulk Photo Tools and Behind the Scenes
-  - Screens, Paper, and the Games I Love
 keywords:
   - model
   - paper

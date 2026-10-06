@@ -3,17 +3,17 @@ title: Looking Back at 2025
 date: 2025-12-15
 related:
   - Figuring Things Out
+  - Still Making Things
   - Creative Tools, Then and Now
   - Little Games, Big Discoveries
   - Star Wars, side projects, and strange ideas
   - Play Something, Learn Something
-  - The Week Everything Clicked
 keywords:
   - series
   - game
   - pokemon
-  - city
   - watch
+  - city
 ---
 This is the last issue this year! I'm amazed that I've managed to consistently publish a newsletter every two weeks all year! Thank you for reading along and sticking with it. I really appreciate it.
 

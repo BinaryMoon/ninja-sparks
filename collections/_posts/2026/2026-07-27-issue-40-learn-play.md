@@ -2,12 +2,12 @@
 title: Play Something, Learn Something
 date: 2026-07-27
 related:
+  - Still Making Things
   - Creative Tools, Then and Now
   - Figuring Things Out
   - Little Games, Big Discoveries
   - Games, Constraints and Creativity
   - Shoelaces, Rabbits, and More Niche Sites
-  - Creativity in 2025
 keywords:
   - something
   - duck

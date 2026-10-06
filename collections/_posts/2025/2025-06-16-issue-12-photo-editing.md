@@ -4,16 +4,16 @@ date: 2025-06-16
 related:
   - Figuring Things Out
   - Retro Game Making, and Custom TCGs
+  - Still Making Things
   - Note Taking, and Drawing Skills
   - Games, Constraints and Creativity
   - Carrd, Choirs, and Creative Toys
-  - Programming and Games
 keywords:
   - cardboard
   - photo
   - atari
-  - physic
   - cow
+  - making
 ---
 I'm currently writing this in the evening of Father's day in the UK. I had a lovely day with my family, playing video games with my son, and seeing my wife's parents for dinner.
 

@@ -4,10 +4,10 @@ date: 2025-02-24
 related:
   - Small Games and Big Ideas
   - Game Making and Movie Magic
+  - Still Making Things
   - The Week Everything Clicked
   - Creativity in 2025
   - Creative Tools, Then and Now
-  - Carrd, Choirs, and Creative Toys
 keywords:
   - pico-8
   - game

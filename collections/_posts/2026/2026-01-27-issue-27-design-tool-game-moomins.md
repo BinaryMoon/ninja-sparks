@@ -4,10 +4,10 @@ date: 2026-01-27
 related:
   - New Tools, Old Magic
   - Creative Tools, Then and Now
+  - Still Making Things
   - Play Something, Learn Something
   - Games, Constraints and Creativity
   - 8-Bit Creativity Unlocked
-  - Figuring Things Out
 keywords:
   - lunacy
   - game

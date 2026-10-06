@@ -6,8 +6,8 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Play Something, Learn Something
   - The Week Everything Clicked
+  - Still Making Things
   - Carrd, Choirs, and Creative Toys
-  - Creativity in 2025
 keywords:
   - flash
   - playground

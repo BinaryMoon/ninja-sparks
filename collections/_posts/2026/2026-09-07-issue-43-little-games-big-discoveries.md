@@ -4,10 +4,10 @@ date: 2026-09-07
 related:
   - Figuring Things Out
   - Games, Constraints and Creativity
+  - Still Making Things
   - Play Something, Learn Something
   - Creative Tools, Then and Now
   - Looking Back at 2025
-  - The Week Everything Clicked
 keywords:
   - game
   - golf

@@ -5,9 +5,9 @@ related:
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Figuring Things Out
   - Creative Tools, Then and Now
+  - Still Making Things
   - Programming and Games
   - Blocks, Boredom, and Big Cities
-  - Screens, Paper, and the Games I Love
 keywords:
   - brain
   - game

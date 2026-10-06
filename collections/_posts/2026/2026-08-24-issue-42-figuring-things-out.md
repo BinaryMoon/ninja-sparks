@@ -7,7 +7,7 @@ related:
   - Play Something, Learn Something
   - Games, Constraints and Creativity
   - Google’s Hidden Game Maker
-  - Shoelaces, Rabbits, and More Niche Sites
+  - Still Making Things
 keywords:
   - game
   - type help
