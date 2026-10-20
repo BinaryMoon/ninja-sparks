@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+{% if page.active == false %}
+<p class="m-t5">{{ page.title }} is no-longer online.</em></p>
+{% endif %}
 {% if page.website %}{% capture thumbnail %}{% browsershot page.website %}{% endcapture %}{% endif %}
 {% if page.video %}{% capture thumbnail %}https://i.ytimg.com/vi_webp/{{ page.video }}/maxresdefault.webp{% endcapture %}{% endif %}
 
@@ -18,7 +21,9 @@ layout: page
 			class="d-b" />
 		{% endif %}
 		<ul class="bg-yellow p3 l-ls-n">
+			{% unless page.active == false %}
 			<li><a class="f-fw900" href="{{ page.website }}">{{ page.website | replace: "https://", "" }} &rarr;</a></li>
+			{% endunless %}
 			<li><p class="m0 f6">{{ page.description }}</p></li>
 		</ul>
 	</sidebar>
