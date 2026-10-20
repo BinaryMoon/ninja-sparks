@@ -13,9 +13,9 @@ related:
 keywords:
   - puzzle
   - ninja puzzles
-  - word
   - free printable
   - printable puzzle
+  - word
 ---
 ## Ninja Puzzles - Your Free Printable Puzzle Playground
 

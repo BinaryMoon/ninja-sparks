@@ -7,9 +7,9 @@ related:
   - Aseprite
   - Code.org
   - Carrd
+  - Tiny Little Office
   - Photo Edit Tools
   - Twine
-  - Bitsy
 keywords:
   - brush ninja
   - animation

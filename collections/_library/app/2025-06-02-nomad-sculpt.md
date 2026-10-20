@@ -5,10 +5,10 @@ website: https://nomadsculpt.com
 related:
   - AudioMass
   - Simplenote
+  - Tiny Little Office
   - Aseprite
   - Gameboy Studio Music
   - Blender
-  - Code.org
 keywords:
   - sculpting
   - nomad

@@ -5,10 +5,10 @@ website: https://audiomass.co/
 related:
   - Gameboy Studio Music
   - Twine
+  - Tiny Little Office
   - Nomad Sculpt
   - Photo Edit Tools
   - Aseprite
-  - Wareware
 keywords:
   - audiomass
   - audio

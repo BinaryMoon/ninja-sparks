@@ -7,8 +7,8 @@ related:
   - Gameboy Studio Music
   - Twine
   - Brush Ninja
+  - Tiny Little Office
   - 'Lunacy - Icons8'
-  - Pixel Cam
 keywords:
   - photo
   - editing

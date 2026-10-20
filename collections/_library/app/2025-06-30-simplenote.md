@@ -5,10 +5,10 @@ website: https://simplenote.com
 related:
   - Nomad Sculpt
   - Aseprite
+  - Tiny Little Office
   - Twine
   - 'Lunacy - Icons8'
   - Google Game Maker
-  - Castle
 keywords:
   - simplenote
   - notetaking

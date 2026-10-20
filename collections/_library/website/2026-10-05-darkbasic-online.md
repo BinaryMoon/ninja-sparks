@@ -1,13 +1,14 @@
 ---
 title: DarkBASIC Online
 date: 2026-10-05
+active: false
 related:
+  - Tiny Little Office
   - Pixel Cam
   - Aseprite
   - Gameboy Studio Music
   - Brush Ninja
   - Code.org
-  - Simplenote
 keywords:
   - darkbasic
   - darkbasic online
