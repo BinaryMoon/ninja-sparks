@@ -2,12 +2,12 @@
 title: The Week Everything Clicked
 date: 2026-06-01
 related:
+  - Making Things Differently
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Figuring Things Out
   - Creative Tools, Then and Now
   - Still Making Things
   - Programming and Games
-  - Blocks, Boredom, and Big Cities
 keywords:
   - brain
   - game

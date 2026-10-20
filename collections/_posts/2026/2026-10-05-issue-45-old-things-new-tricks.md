@@ -4,10 +4,10 @@ date: 2026-10-05
 related:
   - Games, Constraints and Creativity
   - Play Something, Learn Something
+  - Making Things Differently
   - Creative Tools, Then and Now
   - Star Wars, side projects, and strange ideas
   - Blocks, Boredom, and Big Cities
-  - The Week Everything Clicked
 keywords:
   - darkbasic
   - making

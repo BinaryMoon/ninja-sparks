@@ -3,11 +3,11 @@ title: Bulk Photo Tools and Behind the Scenes
 date: 2026-04-06
 related:
   - Creative Tools, Then and Now
+  - Making Things Differently
   - New Tools, Old Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Star Wars, side projects, and strange ideas
   - Pixel Art and Animation
-  - Play Something, Learn Something
 keywords:
   - tool
   - cgi

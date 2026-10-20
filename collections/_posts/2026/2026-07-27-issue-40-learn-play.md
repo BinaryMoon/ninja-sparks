@@ -6,8 +6,8 @@ related:
   - Creative Tools, Then and Now
   - Figuring Things Out
   - Little Games, Big Discoveries
+  - Making Things Differently
   - Games, Constraints and Creativity
-  - Shoelaces, Rabbits, and More Niche Sites
 keywords:
   - something
   - duck

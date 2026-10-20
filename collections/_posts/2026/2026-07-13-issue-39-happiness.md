@@ -3,11 +3,11 @@ title: Small Joys and Crazy Beautiful Skies
 date: 2026-07-13
 related:
   - Creative Tools, Then and Now
+  - Making Things Differently
   - Particle Magic and Playful Ideas
   - The Week Everything Clicked
   - Figuring Things Out
   - Creativity in 2025
-  - Game Making and Movie Magic
 keywords:
   - sky
   - pokemon

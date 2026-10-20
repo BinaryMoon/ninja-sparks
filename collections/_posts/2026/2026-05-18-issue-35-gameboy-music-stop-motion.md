@@ -6,8 +6,8 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - The Week Everything Clicked
   - Play Something, Learn Something
+  - Making Things Differently
   - Still Making Things
-  - Creativity in 2025
 keywords:
   - stop motion
   - stop

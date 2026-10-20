@@ -3,11 +3,11 @@ title: Star Wars, side projects, and strange ideas
 date: 2026-05-04
 related:
   - Still Making Things
+  - Making Things Differently
   - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
   - The Week Everything Clicked
   - Figuring Things Out
-  - A Game Update, a Drawing Tool, and PicoCAD 2
 keywords:
   - star wars
   - disney

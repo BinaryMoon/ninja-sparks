@@ -3,11 +3,11 @@ title: Note Taking, and Drawing Skills
 date: 2025-06-30
 related:
   - Carrd, Choirs, and Creative Toys
+  - Making Things Differently
   - 3D Sculpting on Mobile
   - New Tools, Old Magic
   - A Game Update, a Drawing Tool, and PicoCAD 2
   - Shoelaces, Rabbits, and More Niche Sites
-  - Driving Nowhere (on purpose)
 keywords:
   - draw
   - beep
