@@ -9,7 +9,7 @@ related:
   - Ninja Puzzles
   - Code.org
   - Google Game Maker
-  - Gameboy Studio Music
+  - Tiny Little Office
 keywords:
   - puzzle
   - retro puzzle

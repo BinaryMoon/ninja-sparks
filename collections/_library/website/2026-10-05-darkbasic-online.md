@@ -1,20 +1,21 @@
 ---
 title: DarkBASIC Online
 date: 2026-10-05
+description: Brings the original DarkBASIC game development language into the browser, allowing nostalgic experimentation with old and new demos.
 active: false
 related:
-  - Tiny Little Office
-  - Pixel Cam
+  - Brush Ninja
   - Aseprite
   - Gameboy Studio Music
-  - Brush Ninja
   - Code.org
+  - Photo Edit Tools
+  - Pixel Cam
 keywords:
   - darkbasic
-  - darkbasic online
   - game development
-  - online
   - darkbasic game development
+  - language
+  - old
 ---
 DarkBASIC Online brings the original DarkBASIC game development language into the browser. Originally released in 1999, DarkBASIC made 3D game development accessible through a simple BASIC-style programming language.
 
