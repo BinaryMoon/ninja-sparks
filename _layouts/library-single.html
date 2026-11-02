@@ -2,7 +2,7 @@
 layout: page
 ---
 {% if page.active == false %}
-<p class="m-t5">{{ page.title }} is no-longer online.</em></p>
+<p class="m-y5 p4 bg-black fg-yellow"><strong>{{ page.title }}</strong> has been closed or is no-longer online 😞.</p>
 {% endif %}
 {% if page.website %}{% capture thumbnail %}{% browsershot page.website %}{% endcapture %}{% endif %}
 {% if page.video %}{% capture thumbnail %}https://i.ytimg.com/vi_webp/{{ page.video }}/maxresdefault.webp{% endcapture %}{% endif %}
