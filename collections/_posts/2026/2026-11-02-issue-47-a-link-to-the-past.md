@@ -3,25 +3,6 @@ title: A Link to the Past
 date: 2026-11-02
 ---
 
-<!-- -- REMOVE THIS COMMENT BEFORE PUBLISHING
-## Newsletter Review Brief
-
-When reviewing this newsletter, focus on making it more engaging, memorable, and enjoyable to read.
-
-Prioritise:
-- Whether each section explains *why it matters* rather than just *what it is*.
-- Whether there is a clear theme running through the whole issue.
-- Places where the writing can be tighter, clearer, or more personal.
-- Whether the pacing works and the sections flow naturally.
-- Whether the ending leaves the reader with a satisfying final thought.
-
-Avoid rewriting in a different voice. Preserve my style, optimism, and gentle humour. Challenge weak sections, repetitive phrasing, and unnecessary words, but don't remove the personality.
-
-Favour observations over descriptions. Explain what something made me notice, think, learn, or feel, rather than simply describing what it does.
-
-Be honest and critical. Point out what isn't working as well as what is.
--- -->
-
 Welcome to a brand new issue of Ninja Sparks.
 
 Last weekend was Halloween, but I've got something else on my mind. Next weekend sees the release of the Legend of Zelda: Ocarina of Time remake.
