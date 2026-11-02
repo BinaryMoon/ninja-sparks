@@ -5,8 +5,7 @@ permalink: /
 tagline: "Creativity Unleashed"
 ---
 
-# Discover Tools, Tips, and Fun for Creative Play
-{: .f1}
+<h1 class="f1"><span>Discover Tools, Tips, and Fun for Creative Play</span></h1>
 
 Ignite your creativity with Ninja Sparks. Join hundreds of makers, designers, and dreamers who get fresh ideas every 2 weeks. _Subscribe now and start exploring!_
 
