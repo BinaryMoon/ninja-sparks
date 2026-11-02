@@ -38,15 +38,17 @@ I'm very much looking forward to getting my hands on the new version later this 
 
 ## Spelunkr
 
-Spelunkr is a fascinating new addition to the web. It's a bit like an online tv station, and it is making use of archived media from archive.org. So you can watch hundreds of old shows on dozens of channels. Unlike Netflix you can't pick and choose what you want to watch, you have to tune in to whatever is being broadcast at the time.
+Spelunkr is a fascinating new addition to the web. It's a bit like an online TV station, using archived media from archive.org to broadcast hundreds of old shows across dozens of channels. Unlike Netflix, you can't pick and choose what you want to watch. You have to tune in to whatever happens to be showing at the time.
 
-There's anime, star trek, classic cartoons, and a variety of other shows spanning different genres and eras. All the content is free with no ads. It's quite nostalgic and has been designed in a 2000's style.
+There's anime, Star Trek, classic cartoons, and a variety of other shows spanning different genres and eras. All the content is free with no additional adverts, and the website itself has a nostalgic early-2000s design.
 
-A lot of the videos are actually things people have digitised from old media formats and uploaded to archive.org. As such there are adverts embedded within the videos from the old content which feels very strange. I was watching a channel from Toonami in 1999 and getting cartoons interrupted by old commercials from that era. In the uk cartoons generally don't have ad breaks, so it felt quite jarring to see them here.
+Many of the videos have been digitised from old media formats and uploaded to archive.org. As such, some have adverts embedded within the original recordings, which feels rather strange. I was watching a Toonami broadcast from 1999 and getting cartoons interrupted by old commercials from that era. In the UK, cartoons generally don't have ad breaks, so it felt quite jarring. It's a peculiar little time capsule.
 
-I love the use of the archive.org content to make a new way to expose the content to a wider audience.
+I regularly think about the loss of media in general. The amount of time and effort people put into making films, cartoons, websites and video games, and how easily it can all disappear, is quite disappointing.
 
-I regularly think about the loss of media in general. The amount of time and effeort people put into making media - films, cartoons, websites, video games - and how easily it can disappear is quite dissapointing. Video games can be emulated, but brand owners often see this as piracy, even though the content is no-longer available anywhere else. Cartoons and TV Shows can be delisted and removed from sale making them effectively lost to the world. All that artistry and effort vanishing. So I really appreciate projects like Spelunkr that give new life to old media and make it accessible to a wider audience.
+Video games can be emulated, but rights holders often see this as piracy, even when the games are no longer available anywhere else. Cartoons and TV shows can be delisted and removed from sale, making them effectively lost to the world. All that artistry and effort, vanishing.
+
+So I really appreciate projects like Spelunkr that give new life to old media and make it accessible to a wider audience. It's not just about nostalgia. It's about making sure these things aren't forgotten.
 
 **[Try Spelunkr][spelunkr-link]**
 
@@ -58,9 +60,11 @@ I regularly think about the loss of media in general. The amount of time and eff
 
 {% include embed-youtube.html video="8v8eDMh1o3g" %}
 
-I always found it a bit odd watching reaction videos on social media, seeing people crying over trailers for games or movies. But watching this trailer for the Legend of Zelda: Ocarina of Time remake, helps me to at least partly understand the feelings. I got slightly emotional watching it through.
+I've always found it a bit odd watching reaction videos on social media, seeing people crying over trailers for games or movies. But watching the trailer for the Legend of Zelda: Ocarina of Time remake helped me understand those feelings a little better. I got slightly emotional watching it myself.
 
-Ocarina of Time, and all Zelda games really (in fact all Nintendo games), have been a massive influence on my game developement sensibilities. I've always wanted to make a Zelda style game, 30+ years after playing my first Zelda game (Links Awakening on the Gameboy) I am getting close, but I'm still not there. It's not an easy thing to achieve, capturing the magic and sense of adventure that those games evoke.
+Ocarina of Time, and Zelda games in general, have had a massive influence on my game development sensibilities. I've always wanted to make a Zelda-style game. More than 30 years after playing my first Zelda game (Link's Awakening on the Game Boy), I feel like I'm getting closer, but I'm still not there.
+
+It's not an easy thing to achieve, capturing the magic and sense of adventure that those games evoke. It's not just the puzzles, combat or exploration. It's how everything comes together to make you feel like you're discovering something wonderful.
 
 Maybe one day I'll get there.
 
@@ -70,13 +74,15 @@ Maybe one day I'll get there.
 
 ## Project Updates
 
-I have mostly been working on my retro skiing game over the last couple of weeks. I've been really enjoying making this and feel like it can be a proper game and not just a little web game.
+I've mostly been working on my retro skiing game over the last couple of weeks. I've been really enjoying making this and feel like it could become a proper game, rather than just a little web game.
 
 I'm hoping the retro graphics will give it a timeless quality. They also make development wonderfully quick, letting me experiment with new ideas without worrying about throwing away hours of artwork.
 
-The original game jam game was just a time trial, race to the bottom, but with this updated version I've been trying to add lots of little touches that make the world feel more real. Interactive things like flags you can knock out of the way, or rocks you can smash through, or fires you can ski through (that temporarily set you on fire). Little touches that make the world more engaging and create little sparks of joy as you play it.
+The original game jam version was just a time trial, a race to the bottom. With this updated version, I've been trying to add lots of little touches that make the world feel more alive.
 
-I'm currently working on a level editor that I will make public so that anyone can submit levels for the game. I'm looking forward to seeing what creativity others offer.
+Interactive things like flags you can knock out of the way, rocks you can smash through, or fires you can ski through (that temporarily set you on fire). None of these things are particularly complicated, but they make the world more engaging and create little sparks of joy as you play.
+
+I'm currently working on a level editor that I plan to make public, so anyone can create and submit levels for the game. I'm looking forward to seeing what other people come up with. I suspect they'll think of things I would never have considered.
 
 ---
 
@@ -88,27 +94,42 @@ Here's a handful of odd and interesting corners of the web I stumbled across rec
 
 ### [Ask the Developer: The Legend of Zelda: Ocarina of Time](https://www.nintendo.com/en-gb/News/2026/November/Ask-the-Developer-Vol-24-The-Legend-of-Zelda-Ocarina-of-Time-Chapter-1-3230318.html)
 
-One last Zelda thing for you, there's this edition of Ask the Developer from the Nintendo website, asking the development team questions about the Legend of Zelda: Ocarina of Time remake. I've long enjoyed the Ask the Developer series, getting an insight into a company like Nintendo, that I've loved for so long, is always fascinating.
+One last Zelda thing for you. Nintendo has published a new edition of its Ask the Developer series, talking to the team behind the Ocarina of Time remake.
 
-They talk about the design and development and how they had members of the team who played the original, worked on the original and had never touched the original working on different areas of the production, whilst wanting to maintain the feel and magic of the original game.
+I've long enjoyed these interviews. Getting an insight into a company like Nintendo, whose games I've loved for so long, is always fascinating.
 
-I'm really pleased that they want to modernise the game without taking away the things that made it what it was. One section that stands out is when Eiji Aonuma explains that he initially requested additional fast-travel points for the remake. However, testing revealed that players missed discoveries they would otherwise make while travelling across Hyrule. So the team removed the shortcuts to give it the feel of the original.
+The team includes people who worked on the original, people who played it growing up, and people who had never played it at all. They're all approaching the project from different perspectives, whilst trying to maintain the feel and magic of the original game.
 
-I thought this was interesting partly because they changed their mind about a modern common  game feature, and partly because when I play modern videogames I often don't use the fast travel options (much to my sons annoyance) because I quite enjoy running/ riding/ driving around the game worlds. In Breath of the Wild and Tears of the Kingdom I barely even used the horses, preferring to run everywhere on foot.
+I'm really pleased that they want to modernise the game without losing the things that made it special.
 
-### [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/view/all?)
+One section that stands out is when Eiji Aonuma explains that he initially requested additional fast-travel points for the remake. However, testing revealed that players missed discoveries they would otherwise make while travelling across Hyrule. So the team removed the extra shortcuts to preserve that sense of exploration.
 
-My son and I both love maps, real ones and fictional ones. We've both spent time together drawing our own maps, imagining new worlds and designing our ideal places.
+I found this interesting partly because they reconsidered such a common feature of modern games, and partly because I often avoid fast travel myself.
 
-The David Rumsey Map Collection is a vast collection of historical maps, providing a glimpse into the world as it was seen in different eras. Perfect for history buffs and map enthusiasts alike.
+Much to my son's annoyance, I quite enjoy running, riding or driving around game worlds rather than instantly jumping between locations. In Breath of the Wild and Tears of the Kingdom, I barely even used the horses, preferring to explore everywhere on foot.
 
-Looking at David Rumseys collection I find it fascinating seeing how map making and map design have changed over time. There's over 150k photos of maps, books, posters and post cards all showing different types of cartography.
+Sometimes the journey really is part of the fun.
+
+### [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/view/all)
+
+My son and I both love maps, real ones and fictional ones. We've spent time together drawing our own maps, imagining new worlds and designing our ideal places.
+
+The David Rumsey Map Collection is an enormous archive of historical maps, showing how people have recorded and imagined the world over the centuries.
+
+There are more than 150,000 images of maps, books, posters and postcards, covering all sorts of cartography.
+
+I find it fascinating seeing how mapmaking and map design have changed over time. Maps aren't just practical tools for finding your way around. They're also works of art, full of tiny details and decisions about what matters enough to include.
+
+And, of course, there's something rather wonderful about exploring places that no longer look the way they once did.
 
 ### [Little Troubles in Spooky Town](https://kenney.itch.io/little-troubles-in-spooky-town)
 
-I thought I would end the sparks with a little bit of late Halloween fun. A charming little game with a spooky theme, perfect for fans of lighthearted adventure and puzzle-solving. You play as a little ghost trying to find their place in the world. You wander around a small town helping towns people to with odd jobs. The tagline says goal is to prove to everyone that you can be whatever you want to be! Which is a lovely sentiment and shows the game's positive and encouraging message.
+I thought I'd end the sparks with a little bit of late Halloween fun.
 
-This game is a free browser game by Kenney, available on itch.io.
+In Little Troubles in Spooky Town, you play as a little ghost trying to find their place in the world. You wander around a small town helping townspeople with odd jobs and solving little puzzles.
 
-Kenney is a well-known game developer and asset creator, particularly famous for providing high-quality free/ cheap assets for indie game developers. You can find more of Kenney's work on [itch.io](https://kenney.itch.io/).
+The game's tagline is about proving to everyone that you can be whatever you want to be, which is a lovely sentiment for a game about a ghost.
 
+It's a free browser game by Kenney, a developer and artist best known for creating an enormous collection of free and affordable assets for indie game developers.
+
+You can find more of [Kenney's work on itch.io](https://kenney.itch.io/).
