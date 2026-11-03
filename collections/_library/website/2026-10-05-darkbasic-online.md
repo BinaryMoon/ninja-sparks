@@ -2,6 +2,7 @@
 title: DarkBASIC Online
 date: 2026-10-05
 description: Brings the original DarkBASIC game development language into the browser, allowing nostalgic experimentation with old and new demos.
+image: /images/updates/2026/darkbasic-online-1.png
 active: false
 related:
   - Brush Ninja
@@ -15,7 +16,7 @@ keywords:
   - game development
   - darkbasic game development
   - language
-  - old
+  - bring original
 ---
 DarkBASIC Online brings the original DarkBASIC game development language into the browser. Originally released in 1999, DarkBASIC made 3D game development accessible through a simple BASIC-style programming language.
 
