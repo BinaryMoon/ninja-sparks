@@ -6,6 +6,7 @@ layout: page
 {% endif %}
 {% if page.website %}{% capture thumbnail %}{% browsershot page.website %}{% endcapture %}{% endif %}
 {% if page.video %}{% capture thumbnail %}https://i.ytimg.com/vi_webp/{{ page.video }}/maxresdefault.webp{% endcapture %}{% endif %}
+{% if page.image %}{% capture thumbnail %}{{ page.image }}{% endcapture %}{% endif %}
 
 <div class="flex gap5">
 	<div class="w100">
