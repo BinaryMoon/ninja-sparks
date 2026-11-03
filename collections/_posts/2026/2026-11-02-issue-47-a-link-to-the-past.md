@@ -1,8 +1,20 @@
 ---
 title: A Link to the Past
 date: 2026-11-02
+related:
+  - Maps, Systems, and Creativity
+  - Still Making Things
+  - Little Games, Big Discoveries
+  - Figuring Things Out
+  - Games, Constraints and Creativity
+  - Play Something, Learn Something
+keywords:
+  - game
+  - time
+  - ocarina time
+  - ocarina
+  - little
 ---
-
 Welcome to a brand new issue of Ninja Sparks.
 
 Last weekend was Halloween, but I've got something else on my mind. Next weekend sees the release of the Legend of Zelda: Ocarina of Time remake.
@@ -19,9 +31,11 @@ I'm very much looking forward to getting my hands on the new version later this 
 
 ## Spelunkr
 
-Spelunkr is a rather unusual website I discovered recently. It's a bit like an online TV station, using archived media from archive.org to broadcast hundreds of old shows across dozens of channels. Unlike Netflix, you can't pick and choose what you want to watch. You have to tune in to whatever happens to be showing at the time.
+[Spelunkr][spelunkr-link] is a rather unusual website I discovered recently. It's a bit like an online TV station, using archived media from archive.org to broadcast hundreds of old shows across dozens of channels. Unlike Netflix, you can't pick and choose what you want to watch. You have to tune in to whatever happens to be showing at the time.
 
 There's anime, Star Trek, classic cartoons, and a variety of other shows spanning different genres and eras. It's all free, with no additional adverts, and the website looks like something from the early 2000s.
+
+{% include embed-image.html src="/images/updates/2026/spelunkr.png" %}
 
 Many of the videos have been digitised from old media formats and uploaded to archive.org. As such, some have adverts embedded within the original recordings, which feels rather strange. I was watching a Toonami broadcast from 1999 and getting cartoons interrupted by old commercials from that era. In the UK, cartoons generally don't have ad breaks, so it felt quite jarring.
 
@@ -33,7 +47,7 @@ So I really appreciate projects like Spelunkr that give new life to old media an
 
 **[Try Spelunkr][spelunkr-link]**
 
-[spelunkr-link]: https://spelunkr.tv/
+[spelunkr-link]: {% link _library/website/2026-11-02-spelunkr.md %}
 
 ---
 
@@ -75,6 +89,8 @@ Here's a handful of odd and interesting corners of the web I stumbled across rec
 
 ### [Ask the Developer: The Legend of Zelda: Ocarina of Time](https://www.nintendo.com/en-gb/News/2026/November/Ask-the-Developer-Vol-24-The-Legend-of-Zelda-Ocarina-of-Time-Chapter-1-3230318.html)
 
+{% include embed-image.html src="/images/updates/2026/ocarina-of-time-ask-the-developer.jpg" %}
+
 One last Zelda thing for you. Nintendo has published a new edition of its Ask the Developer series, talking to the team behind the Ocarina of Time remake.
 
 I've long enjoyed these interviews. Getting an insight into a company like Nintendo, whose games I've loved for so long, is always fascinating.
@@ -83,19 +99,21 @@ The team includes people who worked on the original, people who played it growin
 
 One section that stands out is when Eiji Aonuma explains that he initially requested additional fast-travel points for the remake. However, testing revealed that players missed discoveries they would otherwise make while travelling across Hyrule. So they took them out again.
 
-I found this interesting partly because they reconsidered such a common feature of modern games, and partly because I often avoid fast travel myself.
-
-Much to my son's annoyance, I quite enjoy running, riding or driving around game worlds rather than instantly jumping between locations. In Breath of the Wild and Tears of the Kingdom, I barely even used the horses, preferring to explore everywhere on foot.
+I found this particularly interesting because I often avoid fast travel myself. Much to my son's annoyance, I quite enjoy running, riding or driving around game worlds rather than instantly jumping between locations. In Breath of the Wild and Tears of the Kingdom, I barely even used the horses, preferring to explore everywhere on foot.
 
 ### [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/view/all)
+
+{% include embed-image.html src="/images/updates/2026/david-rumsey.png" %}
 
 My son and I both love maps, real ones and fictional ones. We've spent a lot of time together drawing our own maps, imagining new worlds and designing our ideal places.
 
 The David Rumsey Map Collection is an enormous archive of historical maps, with examples dating back hundreds of years. There are more than 150,000 images of maps, books, posters and postcards.
 
-I find it fascinating seeing how mapmaking and map design have changed over time and this archive provides an incredible resource for exploring that history.
+I find it fascinating seeing how mapmaking and map design have changed over time. This archive is an incredible resource for exploring that history.
 
 ### [Little Troubles in Spooky Town](https://kenney.itch.io/little-troubles-in-spooky-town)
+
+{% include embed-image.html src="/images/updates/2026/ghost-town.png" %}
 
 I thought I'd end the sparks with a little bit of late Halloween fun.
 
@@ -103,6 +121,6 @@ In Little Troubles in Spooky Town, you play as a little ghost trying to find the
 
 The game's tagline is about proving to everyone that you can be whatever you want to be. A lovely sentiment!
 
-It's a free browser game by Kenney, a developer and artist best known for creating an enormous collection of free and affordable assets for indie game developers.
+It's a free browser game by [Kenney]({% link _library/website/2026-11-02-kenney.md %}), a developer and artist best known for creating an enormous collection of free and affordable assets for indie game developers.
 
 You can find more of [Kenney's work on itch.io](https://kenney.itch.io/).
