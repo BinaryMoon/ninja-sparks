@@ -6,14 +6,14 @@ related:
   - Games, Constraints and Creativity
   - Still Making Things
   - Play Something, Learn Something
+  - A Link to the Past
   - Creative Tools, Then and Now
-  - Looking Back at 2025
 keywords:
   - game
   - golf
   - ah-ha
   - carrot
-  - kingdom
+  - ah-ha moment
 ---
 Welcome to a new issue of Ninja Sparks. My son went back to school today and I am in the middle of a game jam project that has become a bit of a rabbit hole.
 

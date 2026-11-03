@@ -9,8 +9,8 @@ related:
   - Play Something, Learn Something
   - Star Wars, side projects, and strange ideas
 keywords:
-  - little
   - office
+  - little
   - tiny little
   - little office
   - comic

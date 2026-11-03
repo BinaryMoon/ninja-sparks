@@ -7,7 +7,7 @@ related:
   - Little Games, Big Discoveries
   - Figuring Things Out
   - Play Something, Learn Something
-  - Things You Can Hold
+  - A Link to the Past
 keywords:
   - game
   - nes

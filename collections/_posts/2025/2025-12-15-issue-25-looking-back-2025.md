@@ -6,8 +6,8 @@ related:
   - Still Making Things
   - Creative Tools, Then and Now
   - Little Games, Big Discoveries
+  - A Link to the Past
   - Star Wars, side projects, and strange ideas
-  - Play Something, Learn Something
 keywords:
   - series
   - game

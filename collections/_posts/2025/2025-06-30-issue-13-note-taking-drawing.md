@@ -11,8 +11,8 @@ related:
 keywords:
   - draw
   - beep
-  - drawing
   - search
+  - drawing
   - simplenote
 ---
 It's been 2 weeks so it's time for another issue of Ninja Sparks, my fortnightly newsletter where I share interesting things I've found on the internet.

@@ -5,9 +5,9 @@ related:
   - The Week Everything Clicked
   - Paper Toys and Zelda
   - Still Making Things
+  - A Link to the Past
   - Creative Tools, Then and Now
   - A Game Update, a Drawing Tool, and PicoCAD 2
-  - Retro Game Making, and Custom TCGs
 keywords:
   - book
   - paper

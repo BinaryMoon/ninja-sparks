@@ -7,7 +7,7 @@ related:
   - Bulk Photo Tools and Behind the Scenes
   - Creative Tools, Then and Now
   - The Week Everything Clicked
-  - Figuring Things Out
+  - A Link to the Past
 keywords:
   - star wars
   - disney

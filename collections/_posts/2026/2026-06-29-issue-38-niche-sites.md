@@ -6,14 +6,14 @@ related:
   - Still Making Things
   - Figuring Things Out
   - The Week Everything Clicked
+  - A Link to the Past
   - Note Taking, and Drawing Skills
-  - Creative Tools, Then and Now
 keywords:
   - site
   - animation
   - toy story
-  - shoelace
   - toy
+  - shoelace
 ---
 In the UK, and across much of Europe, we have spent the last week in a heatwave. Some of the hottest weather ever recorded in June in the UK. It's been draining, so I've basically spent as much time as possible hiding from the sun. I've always preferred the cold so this has not been the best time for me, thankfully this week has been a bit cooler.
 

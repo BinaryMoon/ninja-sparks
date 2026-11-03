@@ -12,8 +12,8 @@ keywords:
   - fish
   - muppet
   - art
-  - book
   - eric
+  - guillon
 ---
 Hello - welcome to issue 16 of the Ninja Sparks newsletter!
 
